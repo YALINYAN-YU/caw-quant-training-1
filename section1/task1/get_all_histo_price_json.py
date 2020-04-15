@@ -8,9 +8,6 @@ from datetime import datetime
 
 FIRST_BTC_TRADE_TIMESTAMP = 1274400000
 
-def date_to_timestamp(date):
-    date
-
 def get_service_url(timeframe):
     '''return correct service url based on timeframe set
 
