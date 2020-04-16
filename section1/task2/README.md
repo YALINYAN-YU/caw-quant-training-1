@@ -48,3 +48,20 @@ Note:
 
 1. You don't need to have money in your account to create a test order.
 2. Of course, You can put some money in it and create a real order, starting your life as a quantitative trader.
+
+
+### Work Log
+
+#### 4/15
+
+Studied Binance API documentation Spot/Margin/Lending page, set up Binance account and got API key & API secret. Took a look at the Postman APP.
+
+Wrote `binanceAPI.py` file to play with API calls with out using Binance SDK. Didn't finished playing with it.
+
+TODO: write member function in `binanceAPI.py` to get histo/trades/orderbook with out using SDK as practice. Will use [Source code for binance.client](https://python-binance.readthedocs.io/en/latest/_modules/binance/client.html#Client.get_exchange_info) as a reference.
+
+Took a look at SDK and tried making calls using SDK, successed. Found this [tutorial page](https://sammchardy.github.io/binance/2018/01/08/historical-data-download-binance.html) very helpful. Studied functions `def interval_to_milliseconds(interval)`, `def date_to_milliseconds(date_str)`
+
+TODO: write get histo/trades/orderbook functions with python-binance SDK.
+
+Today was slow on Task 2 since I had to help out my Dad. Will work more on 4/16
