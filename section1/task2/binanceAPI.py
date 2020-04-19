@@ -82,13 +82,13 @@ class BinanceAPI():
         resp = response.json()
         if response.status_code != 200:
             raise Exception(resp)
-
         return resp
 
 
     def test(self, url):
         query_url = self.base_endpoint + url
         return self._safeRequest(query_url)
+
 
 if __name__ == '__main__':
     b_api = BinanceAPI()
