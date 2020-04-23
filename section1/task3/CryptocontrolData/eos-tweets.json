@@ -1,0 +1,1384 @@
+[
+    {
+        "retweetCount": 60,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "Eosio"
+        ],
+        "mentions": [
+            "bytemaster7"
+        ],
+        "symbols": [],
+        "_id": "5ea0ff64fcdf0a001a176597",
+        "text": "RT @bytemaster7: #Eosio can be used in enterprise applications without the need for tokens and with 0.5 sec finality. High performance data\u2026",
+        "username": "block_one_",
+        "id": "1253147173450944512",
+        "isRetweeted": true,
+        "publishedAt": "2020-04-23T02:22:23.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73501.99393121827,
+        "activityHotness": 5.598421958998375,
+        "updatedAt": "2020-04-23T02:37:26.094Z",
+        "createdAt": "2020-04-23T02:37:26.094Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5ea0ff64fcdf0a001a176597?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 3,
+        "favoriteCount": 8,
+        "twitteratiScore": 0,
+        "links": [
+            "https://developers.eos.io/welcome/v2.0/tutorials/tic-tac-toe-game-contract?utm_source=twitter&utm_medium=social_organic&utm_campaign=eosio_community&utm_content=social_2020&utm_term=DevPort220420"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e9fe628fcdf0a001a0ee94e",
+        "text": "Ready to build on #EOSIO? Learn the basics with our tic-tac-toe tutorial. https://t.co/invE8FWROm",
+        "username": "block_one_",
+        "id": "1252846623861817344",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-22T06:28:06.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73496.10818925583,
+        "activityHotness": 3.0301337002713233,
+        "updatedAt": "2020-04-22T06:37:28.666Z",
+        "createdAt": "2020-04-22T06:37:28.666Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9fe628fcdf0a001a0ee94e?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 2,
+        "favoriteCount": 4,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/webinars/learn-about-blockchain-eosio/?utm_source=twitter&utm_medium=social_organic&utm_campaign=eosio_webinar_series&utm_content=social_2020&utm_term=webinar210420"
+        ],
+        "hashtags": [
+            "blockchain",
+            "webinar",
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e9efda5fcdf0a001a07806a",
+        "text": "New to #blockchain? Start with our free introductory #webinar on May 19. Sign up. #EOSIO https://t.co/r0jL0OYoXI",
+        "username": "block_one_",
+        "id": "1252598562854076416",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-21T14:02:24.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73492.87369681396,
+        "activityHotness": 2.533696813957432,
+        "updatedAt": "2020-04-21T14:05:25.882Z",
+        "createdAt": "2020-04-21T14:05:25.882Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9efda5fcdf0a001a07806a?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 57,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "EOSIO",
+            "OpenSource"
+        ],
+        "mentions": [
+            "dfuseio"
+        ],
+        "symbols": [],
+        "_id": "5e9d071afcdf0a001af7e0a7",
+        "text": "RT @dfuseio: So excited that the day is finally here! dfuse for #EOSIO is now available #OpenSource for all developers who want the most po\u2026",
+        "username": "block_one_",
+        "id": "1252056654268391424",
+        "isRetweeted": true,
+        "publishedAt": "2020-04-20T02:09:03.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73489.90560088684,
+        "activityHotness": 5.547128664610824,
+        "updatedAt": "2020-04-20T02:21:14.060Z",
+        "createdAt": "2020-04-20T02:21:14.060Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9d071afcdf0a001af7e0a7?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 5,
+        "favoriteCount": 9,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/collaborating-across-the-ecosystem-to-make-blockchain-work-for-everyone/"
+        ],
+        "hashtags": [
+            "blockchain",
+            "EOSIOChallenge"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e9db397fcdf0a001afcace0",
+        "text": "Do you want to help make #blockchain work for everyone? Read Dan's post on why you should join the #EOSIOChallenge. https://t.co/oeLXei2Yx6",
+        "username": "block_one_",
+        "id": "1252241776213217280",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-20T14:24:39.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73489.8228055645,
+        "activityHotness": 3.4210000089583352,
+        "updatedAt": "2020-04-20T14:37:11.567Z",
+        "createdAt": "2020-04-20T14:37:11.567Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9db397fcdf0a001afcace0?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 26,
+        "favoriteCount": 78,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1251070254874193920"
+        ],
+        "hashtags": [
+            "EOSIO",
+            "testnet"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e9a191dfcdf0a001ae19401",
+        "text": "Start staging applications on the latest version of #EOSIO v2.0.4. with our #testnet. Create a developer account an\u2026 https://t.co/6wiA9XV5IL",
+        "username": "block_one_",
+        "id": "1251070254874193920",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-17T08:49:27.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73478.70287200849,
+        "activityHotness": 5.232177564043492,
+        "updatedAt": "2020-04-17T21:01:17.980Z",
+        "createdAt": "2020-04-17T21:01:17.980Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9a191dfcdf0a001ae19401?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 4,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "EOSIOChallenge"
+        ],
+        "mentions": [
+            "devpost"
+        ],
+        "symbols": [],
+        "_id": "5e9a191dfcdf0a001ae19402",
+        "text": "RT @devpost: Have you started your #EOSIOChallenge entry?  Submit your entry before the first round of judging in May and help bring #block\u2026",
+        "username": "block_one_",
+        "id": "1250979721766006784",
+        "isRetweeted": true,
+        "publishedAt": "2020-04-17T02:49:42.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73475.36176064679,
+        "activityHotness": 2.8903717578961645,
+        "updatedAt": "2020-04-17T21:01:17.980Z",
+        "createdAt": "2020-04-17T21:01:17.980Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e9a191dfcdf0a001ae19402?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 3,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1250612574099353600"
+        ],
+        "hashtags": [
+            "EOSIO",
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e97c55ffcdf0a001ace08e1",
+        "text": "Our new #EOSIO Blockchain Webinar series has sessions for all. From the basics of #blockchain to smart contracts an\u2026 https://t.co/qRTX1ipKgF",
+        "username": "block_one_",
+        "id": "1250612574099353600",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-16T02:30:47.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73470.39292361862,
+        "activityHotness": 1.9740810260220096,
+        "updatedAt": "2020-04-16T02:39:27.175Z",
+        "createdAt": "2020-04-16T02:39:27.175Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e97c55ffcdf0a001ace08e1?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 0,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "https://battles.eos.io/"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [
+            "adrian_capov",
+            "adrian_capov"
+        ],
+        "symbols": [],
+        "_id": "5e96f365fcdf0a001ac73b61",
+        "text": "@adrian_capov Hi @adrian_capov, Elemental Battles is a great way to learn and get started with #EOSIO. Have fun. https://t.co/3ErurN5D7l",
+        "username": "block_one_",
+        "id": "1250327661743759361",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-15T07:38:39.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73465.27402777778,
+        "activityHotness": 0,
+        "updatedAt": "2020-04-15T11:43:34.460Z",
+        "createdAt": "2020-04-15T11:43:34.460Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e96f365fcdf0a001ac73b61?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 0,
+        "favoriteCount": 5,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1250007375861256192"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e95924efcdf0a001abbb937",
+        "text": "Ready to get involved? Find out about the many ways you can contribute to #EOSIO software and documentation.\u2026 https://t.co/0sd2gnfwqN",
+        "username": "block_one_",
+        "id": "1250007375861256192",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-14T10:25:57.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73463.24282739678,
+        "activityHotness": 1.5040773967762742,
+        "updatedAt": "2020-04-14T10:37:02.560Z",
+        "createdAt": "2020-04-14T10:37:02.560Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e95924efcdf0a001abbb937?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 0,
+        "favoriteCount": 2,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "EasterEggs",
+            "Atari",
+            "EOSIO",
+            "Easter"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e92ef9efcdf0a001aa5c04d",
+        "text": "We love #EasterEggs like this one on block 191. From #Atari to #EOSIO, what are your favorites? #Easter https://t.co/eRYciAANx8",
+        "username": "block_one_",
+        "id": "1249285423492255744",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-12T10:37:10.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73454.3576940723,
+        "activityHotness": 0.5877866649021191,
+        "updatedAt": "2020-04-12T10:38:22.860Z",
+        "createdAt": "2020-04-12T10:38:22.860Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e92ef9efcdf0a001aa5c04d?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 6,
+        "favoriteCount": 29,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1247847558250024962"
+        ],
+        "hashtags": [
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e8db6f6fcdf0a001a7a6291",
+        "text": "An update on public #blockchain engagement and next steps, including our plans to begin voting in May. Read more ab\u2026 https://t.co/8znz8iaUes",
+        "username": "block_one_",
+        "id": "1247847558250024962",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-08T11:23:36.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73441.87106581713,
+        "activityHotness": 3.9721769282478934,
+        "updatedAt": "2020-04-08T11:35:18.261Z",
+        "createdAt": "2020-04-08T11:35:18.261Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e8db6f6fcdf0a001a7a6291?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 19,
+        "favoriteCount": 63,
+        "twitteratiScore": 0,
+        "links": [
+            "https://venturebeat.com/2020/04/02/lightheart-entertainment-raises-1-4-million-for-hyper-core-mobile-gaming/"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e8c477cfcdf0a001a6e970b",
+        "text": "Are you ready for Mr. Autofire? Take a look at Galaxy EOS VC\u2019s latest investment. https://t.co/Wz0iMUwbqr",
+        "username": "block_one_",
+        "id": "1247104632200900609",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-06T10:11:29.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73434.65579933218,
+        "activityHotness": 4.957234517369141,
+        "updatedAt": "2020-04-07T09:27:24.774Z",
+        "createdAt": "2020-04-07T09:27:24.774Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e8c477cfcdf0a001a6e970b?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "EOSIOChallenge"
+        ],
+        "mentions": [
+            "devpost"
+        ],
+        "symbols": [],
+        "_id": "5e8713cdfcdf0a001a44a8a0",
+        "text": "RT @devpost: Have you registered for the #EOSIOChallenge? Submit your entry before the first round of judging in May and help shape the fut\u2026",
+        "username": "block_one_",
+        "id": "1245962039584911361",
+        "isRetweeted": true,
+        "publishedAt": "2020-04-03T06:31:13.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73418.59079035974,
+        "activityHotness": 1.5040773967762742,
+        "updatedAt": "2020-04-03T10:45:33.467Z",
+        "createdAt": "2020-04-03T10:45:33.467Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e8713cdfcdf0a001a44a8a0?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 4,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/#newsletter-signup"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e85b287fcdf0a001a3914d3",
+        "text": "Have you subscribed to our newsletter? Keep on top of the latest #EOSIO developments. https://t.co/lHiiP78nqg",
+        "username": "block_one_",
+        "id": "1245645187801419783",
+        "isRetweeted": false,
+        "publishedAt": "2020-04-02T09:32:10.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73415.68121591353,
+        "activityHotness": 2.0918640616783932,
+        "updatedAt": "2020-04-02T09:38:15.476Z",
+        "createdAt": "2020-04-02T09:38:15.476Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e85b287fcdf0a001a3914d3?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 3,
+        "favoriteCount": 6,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1244572311534989312"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e81ccf6fcdf0a001a18a486",
+        "text": "Are you using #EOSIO Quickstart Web IDE? Start building in a fully functional EOSIO development environment in minu\u2026 https://t.co/ssDeBAofgF",
+        "username": "block_one_",
+        "id": "1244572311534989312",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-30T10:28:56.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73404.68619895911,
+        "activityHotness": 2.9391619220655967,
+        "updatedAt": "2020-03-30T10:41:59.577Z",
+        "createdAt": "2020-03-30T10:41:59.577Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e81ccf6fcdf0a001a18a486?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 12,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "https://voice.com/blog/voice-to-receive-150-million-of-capital-from-blockone/"
+        ],
+        "hashtags": [],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e7cdbf0fcdf0a001aef8607",
+        "text": "RT @voicesocial_: Today, we announce $150 million to expand our operations and build out our workforce https://t.co/GnGoT30nH4",
+        "username": "block_one_",
+        "id": "1243213804038762497",
+        "isRetweeted": true,
+        "publishedAt": "2020-03-26T16:30:43.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73390.7409747873,
+        "activityHotness": 3.9889840465642745,
+        "updatedAt": "2020-03-26T16:44:32.377Z",
+        "createdAt": "2020-03-26T16:44:32.377Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e7cdbf0fcdf0a001aef8607?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 4,
+        "favoriteCount": 18,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1243130913606656000"
+        ],
+        "hashtags": [
+            "EOSIOTools"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e7cab2bfcdf0a001aede0ee",
+        "text": "Looking for #EOSIOTools? Take a look at our new community directory. If you spot any tools you think we should add,\u2026 https://t.co/NuYoKgAFBd",
+        "username": "block_one_",
+        "id": "1243130913606656000",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-26T11:01:20.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73389.36926268111,
+        "activityHotness": 3.5322256440685598,
+        "updatedAt": "2020-03-26T13:16:27.403Z",
+        "createdAt": "2020-03-26T13:16:27.403Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e7cab2bfcdf0a001aede0ee?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 21,
+        "favoriteCount": 53,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1242823577579094017"
+        ],
+        "hashtags": [
+            "EOSIOCommunity"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e7b77b257e4c8001942118e",
+        "text": "#EOSIOCommunity update: we\u2019re welcoming new hires to help formulate, promote and deepen engagement with public\u2026 https://t.co/u6rLZKJDbB",
+        "username": "block_one_",
+        "id": "1242823577579094017",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-25T14:40:06.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73387.40195673959,
+        "activityHotness": 4.957234517369141,
+        "updatedAt": "2020-03-25T15:24:34.259Z",
+        "createdAt": "2020-03-25T15:24:34.259Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e7b77b257e4c8001942118e?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 3,
+        "favoriteCount": 4,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1242733076255395840"
+        ],
+        "hashtags": [
+            "EOSIO",
+            "developers"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e7b19f14007e00019e04d57",
+        "text": "We\u2019re continually updating our software, tools, and resources to help #EOSIO #developers. Take a look at the latest\u2026 https://t.co/An3WYXciEn",
+        "username": "block_one_",
+        "id": "1242733076255395840",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-25T08:40:28.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73384.28481920426,
+        "activityHotness": 2.8390784635086144,
+        "updatedAt": "2020-03-25T08:44:33.579Z",
+        "createdAt": "2020-03-25T08:44:33.579Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e7b19f14007e00019e04d57?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 16,
+        "favoriteCount": 39,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1242030197131448321"
+        ],
+        "hashtags": [
+            "blockchain",
+            "ElementalBattles"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e78d0ef8ced2100198e8d46",
+        "text": "Do you want to become a #blockchain developer? Get started with our game-based tutorial, #ElementalBattles. Play fo\u2026 https://t.co/CB4UgT2Q4E",
+        "username": "block_one_",
+        "id": "1242030197131448321",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-23T10:07:29.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73378.36121668117,
+        "activityHotness": 4.673762977453703,
+        "updatedAt": "2020-03-23T15:08:31.692Z",
+        "createdAt": "2020-03-23T15:08:31.692Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e78d0ef8ced2100198e8d46?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 83,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "opensource",
+            "blockchain"
+        ],
+        "mentions": [
+            "dfuseio"
+        ],
+        "symbols": [],
+        "_id": "5e74397c520563001ebdafff",
+        "text": "RT @dfuseio: \ud83d\udea8BREAKING: dfuse goes #opensource! You read that right, dfuse open sources its #blockchain development stack to provide higher\u2026",
+        "username": "block_one_",
+        "id": "1240841834407985152",
+        "isRetweeted": true,
+        "publishedAt": "2020-03-20T03:25:21.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73366.49333467124,
+        "activityHotness": 5.922918004572872,
+        "updatedAt": "2020-03-20T03:33:17.465Z",
+        "createdAt": "2020-03-20T03:33:17.465Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e74397c520563001ebdafff?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 3,
+        "favoriteCount": 9,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/smartpress-smart-contract-cloud/?utm_source=twitter&utm_medium=social_organic&utm_campaign=builtoneosio&utm_content=social_2020&utm_term=smartpress100320"
+        ],
+        "hashtags": [
+            "EOSIO",
+            "BuiltOnEOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e71e17d51046b001856f1b7",
+        "text": "Want to rapidly connect your apps to an #EOSIO Smart Contract? Take a look at Smartpress. #BuiltOnEOSIO https://t.co/yNDxTAuCdY",
+        "username": "block_one_",
+        "id": "1240195922430058498",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-18T08:38:44.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73356.51361924062,
+        "activityHotness": 3.0726933146901194,
+        "updatedAt": "2020-03-18T08:53:17.572Z",
+        "createdAt": "2020-03-18T08:53:17.572Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e71e17d51046b001856f1b7?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 7,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/eosio-history-tools/?utm_source=twitter&utm_medium=social_organic&utm_campaign=eosio_tools&utm_content=social_2020&utm_term=tools120320"
+        ],
+        "hashtags": [
+            "blockchain",
+            "EOSIOTools"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e69a1e5ba5b2a0019e57b2e",
+        "text": "Seeking flexible and scalable access to #blockchain history data? #EOSIOTools. https://t.co/mIrO8jaUhR",
+        "username": "block_one_",
+        "id": "1237931170001637376",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-12T02:39:25.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73330.8223702082,
+        "activityHotness": 2.379546134130174,
+        "updatedAt": "2020-03-12T02:43:49.081Z",
+        "createdAt": "2020-03-12T02:43:49.081Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e69a1e5ba5b2a0019e57b2e?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 3,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eosio.devpost.com/"
+        ],
+        "hashtags": [
+            "EOSIOChallenge"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e679724cd49290018e1082c",
+        "text": "Have you submitted your #EOSIOChallenge entry? Our first round of judging starts in May. https://t.co/nyXMqzb9sI",
+        "username": "block_one_",
+        "id": "1237367340087402496",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-10T13:18:57.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73324.19338658158,
+        "activityHotness": 1.9740810260220096,
+        "updatedAt": "2020-03-10T13:33:25.594Z",
+        "createdAt": "2020-03-10T13:33:25.594Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e679724cd49290018e1082c?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 5,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "BlockchainforEU",
+            "BCW"
+        ],
+        "mentions": [
+            "BlockchainforEU",
+            "block_one_",
+            "leelaughs5x"
+        ],
+        "symbols": [],
+        "_id": "5e61d76dbdfd090019bc965e",
+        "text": "RT @BlockchainforEU: #BlockchainforEU member &amp; Legal Counsel of \u2066@block_one_\u2069 \u2066@leelaughs5x\u2069 joined the #BCW Summit Panel on Regulatory iss\u2026",
+        "username": "block_one_",
+        "id": "1235789578998444032",
+        "isRetweeted": true,
+        "publishedAt": "2020-03-06T04:49:30.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73307.91768197587,
+        "activityHotness": 3.1135153092103742,
+        "updatedAt": "2020-03-06T04:54:06.186Z",
+        "createdAt": "2020-03-06T04:54:06.186Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e61d76dbdfd090019bc965e?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 4,
+        "favoriteCount": 13,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1235488218394443777"
+        ],
+        "hashtags": [
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e60c11851d3770019158e1a",
+        "text": "Want to enjoy the benefits of #blockchain without taking on Smart Contract development? Smartpress provides an API\u2026 https://t.co/XFcvZpXjIf",
+        "username": "block_one_",
+        "id": "1235488218394443777",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-05T08:52:00.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73304.86892482359,
+        "activityHotness": 3.391147045808654,
+        "updatedAt": "2020-03-05T09:06:32.081Z",
+        "createdAt": "2020-03-05T09:06:32.081Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e60c11851d3770019158e1a?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 5,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "VirginiaTech"
+        ],
+        "mentions": [
+            "VTEngineering",
+            "block_one_"
+        ],
+        "symbols": [],
+        "_id": "5e5f7e9a250f490019cc386a",
+        "text": "RT @VTEngineering: The #VirginiaTech blockchain initiative, supported by @block_one_, enables our undergraduate students to explore the bro\u2026",
+        "username": "block_one_",
+        "id": "1235144947243732992",
+        "isRetweeted": true,
+        "publishedAt": "2020-03-04T10:07:57.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73300.8022653092,
+        "activityHotness": 3.1135153092103742,
+        "updatedAt": "2020-03-04T10:10:34.773Z",
+        "createdAt": "2020-03-04T10:10:34.773Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e5f7e9a250f490019cc386a?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 3,
+        "favoriteCount": 7,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1234414301185658881"
+        ],
+        "hashtags": [
+            "EOSIO"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e5cd620da4a2300196fd080",
+        "text": "Ready to test your #EOSIO app? Our testnet provides a real-world environment making it easier to experiment.\u2026 https://t.co/6Sjr6PR8KG",
+        "username": "block_one_",
+        "id": "1234414301185658881",
+        "isRetweeted": false,
+        "publishedAt": "2020-03-02T09:44:38.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73292.60966341918,
+        "activityHotness": 2.9856819377004897,
+        "updatedAt": "2020-03-02T09:47:12.791Z",
+        "createdAt": "2020-03-02T09:47:12.791Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e5cd620da4a2300196fd080?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 15,
+        "favoriteCount": 35,
+        "twitteratiScore": 0,
+        "links": [
+            "https://block.one/news/blockone-updates-community-on-eos-network-performance/"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e5a027b4232490019aff950",
+        "text": "For statement about Coinbase regarding EOS Nework, please read. https://t.co/awt67gSnXS",
+        "username": "block_one_",
+        "id": "1233623213097144321",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-29T05:21:08.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73285.48715688716,
+        "activityHotness": 4.59511985013459,
+        "updatedAt": "2020-02-29T06:19:39.578Z",
+        "createdAt": "2020-02-29T06:19:39.578Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e5a027b4232490019aff950?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 2,
+        "favoriteCount": 9,
+        "twitteratiScore": 0,
+        "links": [
+            "https://block.one/news/blockone-updates-community-on-eos-network-performance/"
+        ],
+        "hashtags": [],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e5a49ccee32030018da22f3",
+        "text": "For statement about Coinbase regarding EOS Network, please read. https://t.co/awt67gSnXS",
+        "username": "block_one_",
+        "id": "1233712190454026241",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-29T11:14:42.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73284.71324513017,
+        "activityHotness": 2.8390784635086144,
+        "updatedAt": "2020-02-29T11:23:57.192Z",
+        "createdAt": "2020-02-29T11:23:57.192Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e5a49ccee32030018da22f3?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 5,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1233330464632369152"
+        ],
+        "hashtags": [
+            "EOSIOChallenge"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e58e57b59094f001ddf4bf1",
+        "text": "The first round of judging for our #EOSIOChallenge will be in May. If you haven't already, help us drive\u2026 https://t.co/PFsAXtTktU",
+        "username": "block_one_",
+        "id": "1233330464632369152",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-28T09:57:51.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73279.85791902179,
+        "activityHotness": 2.1972245773362196,
+        "updatedAt": "2020-02-28T10:03:39.497Z",
+        "createdAt": "2020-02-28T10:03:39.497Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e58e57b59094f001ddf4bf1?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 7,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/prospectors/?utm_source=twitter&utm_medium=social_organic&utm_campaign=builtoneosio&utm_content=social_2020&utm_term=prospectors260220"
+        ],
+        "hashtags": [
+            "blockchain",
+            "BuiltOnEOSIO"
+        ],
+        "mentions": [
+            "prospectorsgame"
+        ],
+        "symbols": [],
+        "_id": "5e57aaac8fd1550018002ba9",
+        "text": "Want to have a better gaming experience? For @Prospectorsgame #blockchain holds the answer. #BuiltOnEOSIO https://t.co/QuG2i8lzxX",
+        "username": "block_one_",
+        "id": "1232991284475781121",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-27T11:30:04.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73276.29639798599,
+        "activityHotness": 2.379546134130174,
+        "updatedAt": "2020-02-27T11:40:28.484Z",
+        "createdAt": "2020-02-27T11:40:28.484Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e57aaac8fd1550018002ba9?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 9,
+        "favoriteCount": 34,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1232506608019595264"
+        ],
+        "hashtags": [
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e562fe7aa2ebf00195a5984",
+        "text": "Are you using EOSIO Quickstart Web IDE? It enables #blockchain developers to go from getting started to building in\u2026 https://t.co/GPB60IqJGB",
+        "username": "block_one_",
+        "id": "1232506608019595264",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-26T03:24:08.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73272.83112437384,
+        "activityHotness": 4.264087336809196,
+        "updatedAt": "2020-02-26T08:44:24.288Z",
+        "createdAt": "2020-02-26T08:44:24.288Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e562fe7aa2ebf00195a5984?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 1,
+        "favoriteCount": 5,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/esportsobserved/status/1230848747858538497"
+        ],
+        "hashtags": [],
+        "mentions": [
+            "Tempo_Storm"
+        ],
+        "symbols": [],
+        "_id": "5e53b62b934e99001934023e",
+        "text": "Have you heard about Galaxy EOS VC's latest investment? @Tempo_Storm https://t.co/ndzbAI1LvP",
+        "username": "block_one_",
+        "id": "1231906260930330624",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-24T11:38:34.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73264.1376875403,
+        "activityHotness": 2.1972245773362196,
+        "updatedAt": "2020-02-24T11:40:29.558Z",
+        "createdAt": "2020-02-24T11:40:29.558Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e53b62b934e99001934023e?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 0,
+        "favoriteCount": 2,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/prospectors/?utm_source=twitter&utm_medium=social_organic&utm_campaign=builtoneosio&utm_content=social_2020&utm_term=prospectors190220"
+        ],
+        "hashtags": [
+            "blockchain",
+            "BuiltOnEOSIO"
+        ],
+        "mentions": [
+            "prospectorsgame"
+        ],
+        "symbols": [],
+        "_id": "5e4ebf0745145200197f17a2",
+        "text": ".@Prospectorsgame is using #blockchain to bring transparency and trust to gaming rewards. #BuiltOnEOSIO\nhttps://t.co/9s4m9uLCZz",
+        "username": "block_one_",
+        "id": "1230541076085256193",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-20T17:13:49.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73247.45949962786,
+        "activityHotness": 0.5877866649021191,
+        "updatedAt": "2020-02-20T17:16:56.580Z",
+        "createdAt": "2020-02-20T17:16:56.580Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e4ebf0745145200197f17a2?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 5,
+        "favoriteCount": 20,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eosio.devpost.com/"
+        ],
+        "hashtags": [
+            "EOSIOChallenge",
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e4c1641ea217a0019ea7e8b",
+        "text": "Have you joined our #EOSIOChallenge? Help us drive #blockchain integration. https://t.co/nyXMqyTyBa",
+        "username": "block_one_",
+        "id": "1229780308872089601",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-18T14:50:48.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73242.17574641856,
+        "activityHotness": 3.7013019741124933,
+        "updatedAt": "2020-02-18T16:52:17.959Z",
+        "createdAt": "2020-02-18T16:52:17.959Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e4c1641ea217a0019ea7e8b?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 8,
+        "favoriteCount": 20,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1229408844230668288"
+        ],
+        "hashtags": [],
+        "mentions": [
+            "ultra_io",
+            "Ubisoft",
+            "AMD"
+        ],
+        "symbols": [],
+        "_id": "5e4aa2f78f082b0019fffdf2",
+        "text": ".@ultra_io is bridging the gap between the blockchain and gaming worlds with recent @ubisoft and @amd partnerships.\u2026 https://t.co/E0VO09wmfi",
+        "username": "block_one_",
+        "id": "1229408844230668288",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-17T14:14:44.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73238.36324330582,
+        "activityHotness": 3.9889840465642745,
+        "updatedAt": "2020-02-17T14:28:07.073Z",
+        "createdAt": "2020-02-17T14:28:07.073Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e4aa2f78f082b0019fffdf2?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 46,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "https://voice.com/blog/why-we-are-here/?utm_source=twitter&utm_medium=social_organic&utm_campaign=voice_announcement&utm_content=social_2020&utm_term=launch14022"
+        ],
+        "hashtags": [
+            "Voice"
+        ],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e481fbfb4f8a70018307e35",
+        "text": "RT @voicesocial_: For those who want more. A letter from Salah Zalatimo, #Voice CEO. https://t.co/14PDSPaN5D",
+        "username": "block_one_",
+        "id": "1228385182652260352",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-14T18:27:04.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73228.40790397844,
+        "activityHotness": 5.332718793265369,
+        "updatedAt": "2020-02-15T16:43:43.680Z",
+        "createdAt": "2020-02-15T16:43:43.680Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e481fbfb4f8a70018307e35?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 47,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "https://Voice.com"
+        ],
+        "hashtags": [
+            "VoiceBeta",
+            "ValentinesDay"
+        ],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e481fbfb4f8a70018307e32",
+        "text": "RT @voicesocial_: Ready to meet #VoiceBeta? #ValentinesDay. Request access: https://t.co/rUOq9r3Fp9 https://t.co/slb82o9S8d",
+        "username": "block_one_",
+        "id": "1228182489853616131",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-14T05:01:38.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73226.19209536885,
+        "activityHotness": 5.354224998486333,
+        "updatedAt": "2020-02-15T16:43:43.680Z",
+        "createdAt": "2020-02-15T16:43:43.680Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e481fbfb4f8a70018307e32?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 27,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e460bb7653866001242822a",
+        "text": "RT @voicesocial_: We\u2019re bringing transparency and accountability back to media, with a platform that empowers people to keep it real. Reque\u2026",
+        "username": "block_one_",
+        "id": "1228095334066393088",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-13T23:15:19.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73224.67579389241,
+        "activityHotness": 4.799914262780603,
+        "updatedAt": "2020-02-14T02:53:44.491Z",
+        "createdAt": "2020-02-14T02:53:44.491Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e460bb7653866001242822a?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 15,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "https://voice.com/blog/why-kyc-matters/?utm_source=twitter&utm_medium=social_organic&utm_campaign=voice_announcement&utm_content=social_2020&utm_term=productupdate120220"
+        ],
+        "hashtags": [
+            "Voice",
+            "VoiceBeta"
+        ],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e460bb76538660012428227",
+        "text": "RT @voicesocial_: Are you a human? Find out why identity verification matters to us. #Voice #VoiceBeta https://t.co/GOZC2a9Soz",
+        "username": "block_one_",
+        "id": "1228139110965096448",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-14T02:09:16.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73224.57120167195,
+        "activityHotness": 4.212127597878484,
+        "updatedAt": "2020-02-14T02:53:44.491Z",
+        "createdAt": "2020-02-14T02:53:44.491Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e460bb76538660012428227?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 65,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [
+            "http://Voice.com"
+        ],
+        "hashtags": [
+            "Voice",
+            "VoiceBeta"
+        ],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e460bb7653866001242822c",
+        "text": "RT @voicesocial_: With #Voice, your best interest is in our best interest. Request access: https://t.co/E3I2FxyFeO #VoiceBeta https://t.co/\u2026",
+        "username": "block_one_",
+        "id": "1227643665285341185",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-12T17:20:32.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73220.56883503705,
+        "activityHotness": 5.678464666671911,
+        "updatedAt": "2020-02-14T02:53:44.491Z",
+        "createdAt": "2020-02-14T02:53:44.491Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e460bb7653866001242822c?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 113,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "eosio",
+            "blockchain"
+        ],
+        "mentions": [
+            "bytemaster7"
+        ],
+        "symbols": [],
+        "_id": "5e4388080b04d90019ea01ae",
+        "text": "RT @bytemaster7: Why A Blockchain is a Better Application Server / Database Architecture please share your thoughts!  #eosio #blockchain ht\u2026",
+        "username": "block_one_",
+        "id": "1227403694141919232",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-12T01:26:59.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73218.47308558587,
+        "activityHotness": 6.2314652154886145,
+        "updatedAt": "2020-02-12T05:07:23.461Z",
+        "createdAt": "2020-02-12T05:07:23.461Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e4388080b04d90019ea01ae?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 62,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [
+            "Voice"
+        ],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e424d112f523b0019c2c35c",
+        "text": "RT @voicesocial_: #Voice Beta\u2019s first stop: USA, followed by a roll out to English speaking territories, and then globally. https://t.co/7E\u2026",
+        "username": "block_one_",
+        "id": "1227005763526316032",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-10T23:05:45.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73213.48051733738,
+        "activityHotness": 5.631211781821365,
+        "updatedAt": "2020-02-11T06:43:32.962Z",
+        "createdAt": "2020-02-11T06:43:32.962Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e424d112f523b0019c2c35c?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 98,
+        "favoriteCount": 0,
+        "twitteratiScore": 0,
+        "links": [],
+        "hashtags": [],
+        "mentions": [
+            "voicesocial_"
+        ],
+        "symbols": [],
+        "_id": "5e3d85a6b4745e0019b31ec6",
+        "text": "RT @voicesocial_: We\u2019re on a mission to bring authenticity back to the digital world. That means getting rid of bots and fake accounts. Req\u2026",
+        "username": "block_one_",
+        "id": "1225603375665799168",
+        "isRetweeted": true,
+        "publishedAt": "2020-02-07T02:13:10.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73198.45895228286,
+        "activityHotness": 6.089044875446846,
+        "updatedAt": "2020-02-07T15:43:35.095Z",
+        "createdAt": "2020-02-07T15:43:35.095Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e3d85a6b4745e0019b31ec6?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 22,
+        "favoriteCount": 87,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/build-on-eosio/eosio-testnet/?utm_source=twitter&utm_medium=social_organic&utm_campaign=testnet&utm_content=social_2020&utm_term=getstarted050220"
+        ],
+        "hashtags": [
+            "Testnet",
+            "EOSIOTools"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e3d85a6b4745e0019b31ef4",
+        "text": "Have you tried our #Testnet? Create a developer account to get started. #EOSIOTools https://t.co/Uzevjt10YJ",
+        "username": "block_one_",
+        "id": "1224985277661233152",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-05T09:17:03.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73190.72520432419,
+        "activityHotness": 5.177843213080163,
+        "updatedAt": "2020-02-07T15:43:35.096Z",
+        "createdAt": "2020-02-07T15:43:35.096Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e3d85a6b4745e0019b31ef4?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 67,
+        "favoriteCount": 174,
+        "twitteratiScore": 0,
+        "links": [
+            "https://eos.io/news/integration-not-isolation-the-eosio-challenge/?utm_source=twitter&utm_medium=social_organic&utm_campaign=eosio_challenge&utm_content=social_2020&utm_term=win270120"
+        ],
+        "hashtags": [
+            "EOSIOChallenge",
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e3d85a6b4745e0019b31edc",
+        "text": "Join the #EOSIOChallenge. Together, we can help drive #blockchain integration. https://t.co/BHSfu400Uv",
+        "username": "block_one_",
+        "id": "1224352818057736199",
+        "isRetweeted": false,
+        "publishedAt": "2020-02-03T15:23:53.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73184.69343009348,
+        "activityHotness": 6.127087500892697,
+        "updatedAt": "2020-02-07T15:43:35.095Z",
+        "createdAt": "2020-02-07T15:43:35.095Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e3d85a6b4745e0019b31edc?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 55,
+        "favoriteCount": 151,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1223328948626477056"
+        ],
+        "hashtags": [
+            "blockchain"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e3d85a6b4745e0019b31ec7",
+        "text": "\u201cNot adopting #blockchain tech in the years ahead will be like a bank not adopting SSL, and once the technology is\u2026 https://t.co/B6jSdR3gJg",
+        "username": "block_one_",
+        "id": "1223328948626477056",
+        "isRetweeted": false,
+        "publishedAt": "2020-01-31T19:35:24.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73173.21407883061,
+        "activityHotness": 5.949078830611544,
+        "updatedAt": "2020-02-07T15:43:35.095Z",
+        "createdAt": "2020-02-07T15:43:35.095Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e3d85a6b4745e0019b31ec7?ref=5ea0fa08eb533c0019517c26"
+    },
+    {
+        "retweetCount": 49,
+        "favoriteCount": 198,
+        "twitteratiScore": 0,
+        "links": [
+            "https://twitter.com/i/web/status/1223296644986195968"
+        ],
+        "hashtags": [
+            "fomgl"
+        ],
+        "mentions": [],
+        "symbols": [],
+        "_id": "5e3d85a6b4745e0019b31edd",
+        "text": "Watch our Twitter for live highlights of Dan's #fomgl keynote at the US Capitol (2:15 PM EST).\u2026 https://t.co/Fbnsx8XgYb",
+        "username": "block_one_",
+        "id": "1223296644986195968",
+        "isRetweeted": false,
+        "publishedAt": "2020-01-31T17:27:02.000Z",
+        "language": "en",
+        "coin": "59d21e9b83a0523906a45dc5",
+        "hotness": 73172.89663518031,
+        "activityHotness": 5.988209254387309,
+        "updatedAt": "2020-02-07T15:43:35.095Z",
+        "createdAt": "2020-02-07T15:43:35.095Z",
+        "__v": 0,
+        "url": "https://cryptocontrol.io/r/api/tweet/5e3d85a6b4745e0019b31edd?ref=5ea0fa08eb533c0019517c26"
+    }
+]

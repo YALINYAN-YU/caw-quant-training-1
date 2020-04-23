@@ -1,0 +1,2010 @@
+[
+    {
+        "_id": "5ea0b906fcdf0a001a1563f3",
+        "hotness": 73499.7315817762,
+        "activityHotness": 0.129266961396282,
+        "primaryCategory": "Analysis",
+        "words": 384,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "XRP Price Prediction \u2013 April 22 The price of Ripple (XRP) has been moving in a tight range with a short-term bullish bias. XRP/USD Market [...]\n",
+        "publishedAt": "2020-04-22T21:36:50.000Z",
+        "title": "Ripple Price Analysis: XRP/USD Calm in a Narrow Range; Moving Between $0.180 and $0.195",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0b906fcdf0a001a1563f3?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5ccabcb670d7470010854415",
+            "name": "InsideBitcoins",
+            "url": "https://insidebitcoins.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ccabcb670d7470010854415.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0b906fcdf0a001a1563f3-1587591432187.png",
+        "sourceDomain": "insidebitcoins.com",
+        "originalImageUrl": "https://insidebitcoins.com/wp-content/uploads/2020/04/XRPUSD_22042020.png"
+    },
+    {
+        "_id": "5ea0d2d8fcdf0a001a161c84",
+        "hotness": 73499.67749291727,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "Exchanges",
+        "words": 381,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Ripple is taking cryptocurrency scams on YouTube very seriously and is calling for the video streaming service to be held accountable in court. The blockchain company behind XRP has sued Alphabet\u2019s YouTube. The former claims that the video streaming site has not done enough to prevent scams and has\u2026",
+        "publishedAt": "2020-04-22T21:26:50.000Z",
+        "title": "Ripple Sues YouTube for Failing to Protect Users from Cryptocurrency Scams",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0d2d8fcdf0a001a161c84?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b964b640c38a70019787e71",
+            "name": "BeInCrypto",
+            "url": "https://beincrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b964b640c38a70019787e71.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0d2d8fcdf0a001a161c84-1587598041675.jpg",
+        "sourceDomain": "beincrypto.com",
+        "originalImageUrl": "https://s32659.pcdn.co/wp-content/uploads/2019/12/BIC_youtube_scam_crypto.jpg.optimal.jpg"
+    },
+    {
+        "_id": "5ea0bd8bfcdf0a001a158035",
+        "hotness": 73499.54365838181,
+        "activityHotness": 0.11310282624064044,
+        "primaryCategory": "Analysis",
+        "words": 466,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            }
+        ],
+        "description": "With no formal announcement, former CME exec Miguel Vias has quietly left his role as Head of XRP Markets for Ripple Labs.\nRipple looks to have lost its second executive of 2020 after Head of XRP Markets, Miguel Vias, updated his LinkedIn status to signal the end of his tenure with the\u2026",
+        "publishedAt": "2020-04-22T20:35:00.000Z",
+        "title": "Ripple\u2019s $1 Billion Head of XRP Markets Quietly Leaves Job",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0bd8bfcdf0a001a158035?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0bd8bfcdf0a001a158035-1587592587604.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWIzYmMzMzc1MDNmOTQ3ZDFiZjg1ZjZhZGNiNDcxMC5qcGc=.jpg"
+    },
+    {
+        "_id": "5ea09d00fcdf0a001a14637b",
+        "hotness": 73499.27722888073,
+        "activityHotness": 0.10861776962410524,
+        "primaryCategory": "ICO",
+        "words": 600,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5e3844a816c3760019f74b72",
+                "name": "Defi",
+                "slug": "defi",
+                "tradingSymbol": "DEFI"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d42",
+                "name": "Kava",
+                "slug": "kava",
+                "tradingSymbol": "KAVA"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Adam Charles, communications manager for DeFi solution, Kava, detailed his reported efforts to get banned crypto YouTubers back online.\nYouTube has banned a number of crypto channels recently, often restoring them shortly after. Adam Charles, senior communications manager for DeFi solution, Kava,\u2026",
+        "publishedAt": "2020-04-22T19:00:42.000Z",
+        "title": "Alleged Reinstatement Guru Explains YouTube Crypto Bans",
+        "url": "https://cryptocontrol.io/r/api/article/5ea09d00fcdf0a001a14637b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea09d00fcdf0a001a14637b-1587584257061.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMDQvODdlMzJlZWQtMjZmNi00NDNjLTk3ZDctM2E3NmI4NjIxODRkLmpwZw==.jpg"
+    },
+    {
+        "_id": "5ea09ca7fcdf0a001a146350",
+        "hotness": 73499.1841662077,
+        "activityHotness": 0.1122217632724249,
+        "primaryCategory": "General",
+        "words": 1485,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5ac2c404a8134644d0cc0a32",
+                "name": "Consensus",
+                "slug": "consensus",
+                "tradingSymbol": "SEN"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc3",
+                "name": "Gas",
+                "slug": "gas",
+                "tradingSymbol": "GAS"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f91",
+                "name": "PegNet",
+                "slug": "pegnet",
+                "tradingSymbol": "PEG"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d48",
+                "name": "Safe",
+                "slug": "safe",
+                "tradingSymbol": "SAFE"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74e18",
+                "name": "Safe Haven",
+                "slug": "safe-haven",
+                "tradingSymbol": "SHA"
+            }
+        ],
+        "description": "Is Renaissance bullish on bitcoin? What's the \"crypto/lobbyist\" revolving door? Will YouTube take down XRP giveaway scams?\n",
+        "publishedAt": "2020-04-22T18:25:54.000Z",
+        "title": "Ripple Sues YouTube, Monero Movie, Draper's Crypto Plugin - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5ea09ca7fcdf0a001a146350?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea09ca7fcdf0a001a146350-1587584167107.jpg",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://www.coindesk.com/wp-content/uploads/2020/04/szabo-viktor-UfseYCHvIH0-unsplash-1200x628.jpg"
+    },
+    {
+        "_id": "5ea0889dfcdf0a001a13d620",
+        "hotness": 73499.01855952757,
+        "activityHotness": 0.11397619423751587,
+        "primaryCategory": "ICO",
+        "words": 36,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "The company says scammers on YouTube have been impersonating Ripple and its CEO, Brad Garlinghouse, to bait viewers into sending thousands of dollars worth of XRP, a cryptocurrency championed by Ripple, according to a court filing.",
+        "publishedAt": "2020-04-22T17:25:39.000Z",
+        "title": "Ripple sues YouTube over cryptocurrency scams",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0889dfcdf0a001a13d620?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b031c40311c75000f1bf5af",
+            "name": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0889dfcdf0a001a13d620-1587579038161.jpg",
+        "sourceDomain": "economictimes.indiatimes.com",
+        "originalImageUrl": "https://img.etimg.com/thumb/msid-75303664,width-1070,height-580,imgsize-775046,overlay-economictimes/photo.jpg"
+    },
+    {
+        "_id": "5ea07b5afcdf0a001a136311",
+        "hotness": 73498.7829688934,
+        "activityHotness": 0.11570037488096648,
+        "primaryCategory": "Analysis",
+        "words": 529,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45f2b",
+                "name": "Altcoin",
+                "slug": "altcoin-alt",
+                "tradingSymbol": "alt"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            }
+        ],
+        "description": "XRP continues to be among the worst performers in the cryptocurrency market, despite maintaining its place as the third-largest cryptocurrency by market cap with relative simplicity. The asset\u2019s woes may finally be ready to turn around, as a series of buy signals stacking across multiple timeframes\u2026",
+        "publishedAt": "2020-04-22T16:00:13.000Z",
+        "title": "XRP Buy Signals Stacking on Multiple Timeframes May Spark Ripple Recovery",
+        "url": "https://cryptocontrol.io/r/api/article/5ea07b5afcdf0a001a136311?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea07b5afcdf0a001a136311-1587575642575.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/04/coins-1523383_1920.jpg"
+    },
+    {
+        "_id": "5ea0779afcdf0a001a133b77",
+        "hotness": 73498.74079296748,
+        "activityHotness": 0.11570037488096648,
+        "primaryCategory": "Analysis",
+        "words": 357,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d8e9a749f28d5610567379",
+                "name": "Universe",
+                "slug": "universe",
+                "tradingSymbol": "uni"
+            }
+        ],
+        "description": "The latest developments in the Crude oil universe has taken the financial markets by a storm. Crude rebounded from its lowest ever prices. ETHUSD reversed from its bearish outlook and gained over 7% since the open. The day\u2019s range for ETHUSD is $170.33 \u2014 $183.26. The technical indicators have\u2026",
+        "publishedAt": "2020-04-22T15:45:02.000Z",
+        "title": "Ethereum ETHUSD: Latest price analysis and trading strategies",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0779afcdf0a001a133b77?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3acea9e19efe001b8c2121",
+            "name": "Coinnounce",
+            "url": "https://coinnounce.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d3acea9e19efe001b8c2121.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0779afcdf0a001a133b77-1587574682901.jpg",
+        "sourceDomain": "coinnounce.com",
+        "originalImageUrl": "https://mk0coinnouncemdktlrl.kinstacdn.com/wp-content/uploads/2020/04/ethereum-price-22april.jpg"
+    },
+    {
+        "_id": "5ea07761fcdf0a001a133b6e",
+        "hotness": 73498.67825864605,
+        "activityHotness": 0.10487901641694322,
+        "primaryCategory": "ICO",
+        "words": 1,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "A San-Francisco-based blockchain and crypto firm, Ripple filed a lawsuit on the popular video platform, YouTube. Ripple claims that the platform led scammers to impersonate its CEO, Brad Garlinghouse.\n",
+        "publishedAt": "2020-04-22T15:26:25.000Z",
+        "title": "Ripple Sues YouTube Over Scammy Videos, Impersonating Ripple and It's CEO",
+        "url": "https://cryptocontrol.io/r/api/article/5ea07761fcdf0a001a133b6e?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3165cff9eb99001a8cab68",
+            "name": "Coinspace",
+            "url": "https://coinspace.com"
+        },
+        "sourceDomain": "coinspace.com",
+        "originalImageUrl": "/assets/images/Artboard.png"
+    },
+    {
+        "_id": "5ea078f8fcdf0a001a135251",
+        "hotness": 73498.57473314115,
+        "activityHotness": 0.10769610411361284,
+        "primaryCategory": "General",
+        "words": 259,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Miguel Vias, head of XRP markets at Ripple, has apparently left the company, according to his LinkedIn page. Vias did\u2026\n",
+        "publishedAt": "2020-04-22T14:48:08.000Z",
+        "title": "Ripple Loses Former CME Executive",
+        "url": "https://cryptocontrol.io/r/api/article/5ea078f8fcdf0a001a135251?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d7607f426ceed001a650e19",
+            "name": "Cryptobranch",
+            "url": "https://cryptobranch.net/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d7607f426ceed001a650e19.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea078f8fcdf0a001a135251-1587575033997.jpeg",
+        "sourceDomain": "cryptobranch.net",
+        "originalImageUrl": "https://cryptobranch.net/wp-content/uploads/2019/08/xrp-coins.jpeg"
+    },
+    {
+        "_id": "5ea05607fcdf0a001a127d11",
+        "hotness": 73498.56280697457,
+        "activityHotness": 0.14382549309311554,
+        "primaryCategory": "General",
+        "words": 1908,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d8e9a749f28d561056731d",
+                "name": "Casino",
+                "slug": "casino",
+                "tradingSymbol": "casino"
+            },
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbb",
+                "name": "Zcash",
+                "slug": "zcash",
+                "tradingSymbol": "ZEC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5a7b931502ac032bc997822c",
+                "name": "Read",
+                "slug": "read",
+                "tradingSymbol": "READ"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            }
+        ],
+        "description": "Ripple is suing Youtube, accusing the video platform of not doing enough to eliminate crypto-related \u201cgiveaway\u201d scams. The payment network wants to force Youtube to protect its users from such scams. Some scammers promise returns up to 5 million XRP or about $930,000 at current prices, but\u2026",
+        "publishedAt": "2020-04-22T14:30:50.000Z",
+        "title": "Ripple Sues Youtube For Allowing Scams That Promised Returns Up to $1 Million",
+        "url": "https://cryptocontrol.io/r/api/article/5ea05607fcdf0a001a127d11?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d71c67ef8bf95cc2ab0147",
+            "name": "Bitcoin.com",
+            "url": "https://news.bitcoin.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71c67ef8bf95cc2ab0147.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea05607fcdf0a001a127d11-1587566087585.jpg",
+        "sourceDomain": "news.bitcoin.com",
+        "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2020/04/shutterstock_1438588631-e1587559355985.jpg"
+    },
+    {
+        "_id": "5ea0664ffcdf0a001a12d2ba",
+        "hotness": 73498.52343253153,
+        "activityHotness": 0.10676586484738149,
+        "primaryCategory": "General",
+        "words": 324,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Brad Garlinghouse has filed a lawsuit against YouTube for it\u2019s alleged complicity in a spate of repeated XRP giveaway scams.\nThe lawsuit was filed earlier this week in the northern district of California.\u00a0\nThe CEO of Ripple Labs, Brad Garlinghouse has filed a lawsuit against YouTube for it\u2019s alleged\u2026",
+        "publishedAt": "2020-04-22T14:30:00.000Z",
+        "title": "Blockchain Technology: A Peek into the Future of Blockchain",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0664ffcdf0a001a12d2ba?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b04f195311c75000f476271",
+            "name": "Crypto Daily",
+            "url": "https://cryptodaily.co.uk",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b04f195311c75000f476271.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0664ffcdf0a001a12d2ba-1587570256089.jpg",
+        "sourceDomain": "cryptodaily.co.uk",
+        "originalImageUrl": "https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/uploads/featured-images/Ripple/ripple-coin-fire.jpg"
+    },
+    {
+        "_id": "5ea067b9fcdf0a001a12e97c",
+        "hotness": 73498.41225540465,
+        "activityHotness": 0.10392207131532814,
+        "primaryCategory": "General",
+        "words": 502,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            }
+        ],
+        "description": "The distributed ledger and currency firm is suing the video-sharing company for not policing its platforms better. [...]\n",
+        "publishedAt": "2020-04-22T13:51:00.000Z",
+        "title": "Ripple calls out YouTube for not doing enough to stop XRP scams",
+        "url": "https://cryptocontrol.io/r/api/article/5ea067b9fcdf0a001a12e97c?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b4b5666c831fd000f6a9178",
+            "name": "CoinGeek",
+            "url": "https://coingeek.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5666c831fd000f6a9178.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea067b9fcdf0a001a12e97c-1587570617279.jpg",
+        "sourceDomain": "coingeek.com",
+        "originalImageUrl": "https://coingeek.com/wp-content/uploads/2020/04/ripple-calls-out-youtube-for-not-doing-enough-to-stop-xpr-scams.jpg"
+    },
+    {
+        "_id": "5ea04c79fcdf0a001a1222c1",
+        "hotness": 73500.01864360887,
+        "activityHotness": 0.13074846997479606,
+        "primaryCategory": "Analysis",
+        "words": 360,
+        "similarArticles": [
+            {
+                "_id": "5ea04676fcdf0a001a11f289",
+                "title": "Ripple Labs Sues Google's YouTube for Letting Scams about Free XRP on the...",
+                "publishedAt": "2020-04-22T11:48:04.000Z",
+                "sourceDomain": "coinspeaker.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ea04676fcdf0a001a11f289?ref=5ea0fa08eb533c0019517c26",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea04676fcdf0a001a11f289-1587562102565.jpg"
+            },
+            {
+                "_id": "5e9f8269fcdf0a001a0bb6d0",
+                "title": "Ripple sues Youtube for scams involving its XRP cryptocurrencies",
+                "publishedAt": "2020-04-21T22:16:38.000Z",
+                "sourceDomain": "ourbitcoinnews.com",
+                "url": "https://cryptocontrol.io/r/api/article/5e9f8269fcdf0a001a0bb6d0?ref=5ea0fa08eb533c0019517c26"
+            },
+            {
+                "_id": "5e9f5259fcdf0a001a0a2701",
+                "title": "Ripple Files Lawsuit Against YouTube: \"Enough is Enough\"",
+                "publishedAt": "2020-04-21T17:52:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5e9f5259fcdf0a001a0a2701?ref=5ea0fa08eb533c0019517c26",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f5259fcdf0a001a0a2701-1587499609085.jpg"
+            },
+            {
+                "_id": "5e9f47f1fcdf0a001a09ccc1",
+                "title": "Crypto firm Ripple sues YouTube over XRP giveaway scams",
+                "publishedAt": "2020-04-21T18:36:27.000Z",
+                "sourceDomain": "decrypt.co",
+                "url": "https://cryptocontrol.io/r/api/article/5e9f47f1fcdf0a001a09ccc1?ref=5ea0fa08eb533c0019517c26",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f47f1fcdf0a001a09ccc1-1587496945576.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Cryptocurrency firm Ripple files a lawsuit against YouTube, alleging it of allowing fake XRP giveaways on its platform. According to the latest reports, major cryptocurrency firm Ripple has filed a lawsuit against video streaming platform YouTube, in a federal district court in Northern California.\u2026",
+        "publishedAt": "2020-04-22T12:06:18.000Z",
+        "title": "Ripple Files a Lawsuit Against YouTube for Allowing Fake XRP Giveaways",
+        "url": "https://cryptocontrol.io/r/api/article/5ea04c79fcdf0a001a1222c1?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5bb4c7e40c38a700196c477c",
+            "name": "CryptoUpdates",
+            "url": "https://www.thecryptoupdates.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bb4c7e40c38a700196c477c.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea04c79fcdf0a001a1222c1-1587563648680.jpg",
+        "sourceDomain": "thecryptoupdates.com",
+        "originalImageUrl": "https://www.thecryptoupdates.com/wp-content/uploads/2020/04/fake-giveaways.jpg"
+    },
+    {
+        "_id": "5ea0318efcdf0a001a116c75",
+        "hotness": 73497.95232147333,
+        "activityHotness": 0.10861776962410524,
+        "primaryCategory": "Exchanges",
+        "words": 471,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Blockchain company Ripple has filed a complaint with the US district court in Northern California accusing video-sharing platform YouTube of not taking action against fake crypto scam accounts on its platform. Ripple said that the scam has caused \u201cirreparable harm\u201d to its public image, brand, and\u2026",
+        "publishedAt": "2020-04-22T11:03:44.000Z",
+        "title": "Ripple takes legal action against YouTube over fake crypto accounts",
+        "url": "https://cryptocontrol.io/r/api/article/5ea0318efcdf0a001a116c75?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3acea9e19efe001b8c2121",
+            "name": "Coinnounce",
+            "url": "https://coinnounce.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d3acea9e19efe001b8c2121.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea0318efcdf0a001a116c75-1587556750965.jpg",
+        "sourceDomain": "coinnounce.com",
+        "originalImageUrl": "https://mk0coinnouncemdktlrl.kinstacdn.com/wp-content/uploads/2020/04/Brad-Garlinghouse.jpg"
+    },
+    {
+        "_id": "5ea02d0afcdf0a001a1142af",
+        "hotness": 73497.90520915996,
+        "activityHotness": 0.11988508587451652,
+        "primaryCategory": "Blockchain",
+        "words": 1175,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dcb",
+                "name": "Stellar Lumens",
+                "slug": "stellar",
+                "tradingSymbol": "XLM"
+            },
+            {
+                "_id": "59d8e9a749f28d56105672d5",
+                "name": "Tickets",
+                "slug": "tickets",
+                "tradingSymbol": "tix"
+            },
+            {
+                "_id": "5ac2c404a8134644d0cc0a32",
+                "name": "Consensus",
+                "slug": "consensus",
+                "tradingSymbol": "SEN"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b6e2704de3da2000fda0441",
+                "name": "Quant",
+                "slug": "quant",
+                "tradingSymbol": "QNT"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e98",
+                "name": "Sphere",
+                "slug": "sphere",
+                "tradingSymbol": "SPHR"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "According to the Coinmarketcap.com data from May 2019, there are 861 cryptocurrencies that run on independent blockchains. And close to 8,500 projects are leveraging these blockchains coded in different languages. Additionally, they are using different consensus mechanism, having different protocols\u2026",
+        "publishedAt": "2020-04-22T10:42:43.000Z",
+        "title": "Overledger Vs ILP | Blockchain Interoperability for Enterprise",
+        "url": "https://cryptocontrol.io/r/api/article/5ea02d0afcdf0a001a1142af?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5c10e3983c4bad0016a0f5fd",
+            "name": "Altcoinbuzz",
+            "url": "https://altcoinbuzz.io/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c10e3983c4bad0016a0f5fd.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea02d0afcdf0a001a1142af-1587555594965.jpg",
+        "sourceDomain": "altcoinbuzz.io",
+        "originalImageUrl": "https://www.altcoinbuzz.io/wp-content/uploads/2020/04/Differentiating-Overledger-from-Ripples-InterLedger-Protocol-ILP-1.jpg"
+    },
+    {
+        "_id": "5ea030dffcdf0a001a116c58",
+        "hotness": 73497.87312903754,
+        "activityHotness": 0.11484200051182732,
+        "primaryCategory": "General",
+        "words": 918,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a1aafdbda3d21115462ee09",
+                "name": "Enjin Coin",
+                "slug": "enjin-coin",
+                "tradingSymbol": "ENJ"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45ddb",
+                "name": "DigiByte",
+                "slug": "digibyte",
+                "tradingSymbol": "DGB"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "In such a tense period, people and investors, even non-professional ones, resort to stability of their capital\n",
+        "publishedAt": "2020-04-22T10:32:59.000Z",
+        "title": "Stablecoins: rising market cap for Tether and others",
+        "url": "https://cryptocontrol.io/r/api/article/5ea030dffcdf0a001a116c58?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5cfa747b28d54f001058f77e",
+            "name": "The Cryptonomist ",
+            "url": "https://cryptonomist.ch/en/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5cfa747b28d54f001058f77e.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea030dffcdf0a001a116c58-1587556575277.jpg",
+        "sourceDomain": "en.cryptonomist.ch",
+        "originalImageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2020/04/market-cap-stablecoin-1.jpg"
+    },
+    {
+        "_id": "5ea033e3fcdf0a001a116cf8",
+        "hotness": 73497.78940906707,
+        "activityHotness": 0.10769610411361284,
+        "primaryCategory": "General",
+        "words": 481,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee98",
+                "name": "Macro",
+                "slug": "macro1",
+                "tradingSymbol": "mcr"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            }
+        ],
+        "description": "At a macro level, the Bitcoin price bottomed every time the premium of Grayscale Bitcoin Trust (GBTC) fell substantially to a local low. After showing a 30 percent premium in March, GBTC markups fell steeply. The data coincides with a record high investment into Bitcoin and other major\u2026",
+        "publishedAt": "2020-04-22T10:05:25.000Z",
+        "title": "Bitcoin Bottomed Every Time GBTC Premium Plunged to New Lows; It\u2019s Done it Again",
+        "url": "https://cryptocontrol.io/r/api/article/5ea033e3fcdf0a001a116cf8?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea033e3fcdf0a001a116cf8-1587557347981.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/04/photo-1560506267-6dcb84978bf6.jpg"
+    },
+    {
+        "_id": "5ea02e66fcdf0a001a115bf9",
+        "hotness": 73497.70809540933,
+        "activityHotness": 0.10582689081239759,
+        "primaryCategory": "Analysis",
+        "words": 470,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Catch up on the latest crypto market news at The Currency Analytics.\nBrad Garlinghouse tweeted that he was personally taking legal action against YouTube as he states that the platform is the\u2026\n",
+        "publishedAt": "2020-04-22T09:36:49.000Z",
+        "title": "Ripple (XRP) and Brad Garlinghouse are Personally Taking Legal Action on YouTube Many scams of 10s of Millions XRP",
+        "url": "https://cryptocontrol.io/r/api/article/5ea02e66fcdf0a001a115bf9?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5c509bf423b00e00101f000b",
+            "name": "TheCurrencyAnalytics",
+            "url": "https://thecurrencyanalytics.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c509bf423b00e00101f000b.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea02e66fcdf0a001a115bf9-1587555944974.jpg",
+        "sourceDomain": "thecurrencyanalytics.com",
+        "originalImageUrl": "https://cdn.thecurrencyanalytics.com/wp-content/uploads/2020/04/rippleyoutubelawsuit-300x300.jpg"
+    },
+    {
+        "_id": "5ea000e3fcdf0a001a0fea2d",
+        "hotness": 73497.51771188887,
+        "activityHotness": 0.13576744442718158,
+        "primaryCategory": "Analysis",
+        "words": 467,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            }
+        ],
+        "description": "XRP is the third-largest cryptocurrency in the market by market cap. However, it has the lowest price among the top 10 cryptocurrencies with a current price of $0.18. Over the years, XRP enthusiasts have questioned the possibility of the digital asset hitting $10. There have been some experts who\u2026",
+        "publishedAt": "2020-04-22T08:17:30.000Z",
+        "title": "Ripple\u2019s XRP at $10 \u2013 Too Far From Possible?",
+        "url": "https://cryptocontrol.io/r/api/article/5ea000e3fcdf0a001a0fea2d?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5adc20e7ec0af7be3539d369",
+            "name": "ZyCrypto",
+            "url": "https://zycrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5adc20e7ec0af7be3539d369.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ea000e3fcdf0a001a0fea2d-1587544291678.png",
+        "sourceDomain": "zycrypto.com",
+        "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2019/04/Crypto-Enthusiast-XRP-Will-Overtake-Bitcoin-For-1-Crypto-By-Q3-Of-2021-And-Hit-109-By-2022.png"
+    },
+    {
+        "_id": "5e9ffc60fcdf0a001a0fba04",
+        "hotness": 73497.48670277922,
+        "activityHotness": 0.1336472236621213,
+        "primaryCategory": "Analysis",
+        "words": 343,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee98",
+                "name": "Macro",
+                "slug": "macro1",
+                "tradingSymbol": "mcr"
+            }
+        ],
+        "description": "Ripple is one of the most popular cryptocurrencies. By the amount of volume traded, it is next only to Bitcoin. The total volume traded since its open today has already surpassed 49 million. The cause of concern, however, is that it has turned strongly bearish in the short term. \u00a0 XRPUSD price\u2026",
+        "publishedAt": "2020-04-22T08:07:06.000Z",
+        "title": "Ripple price set to increase losses, XRPUSD could drop more than 8%",
+        "url": "https://cryptocontrol.io/r/api/article/5e9ffc60fcdf0a001a0fba04?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3acea9e19efe001b8c2121",
+            "name": "Coinnounce",
+            "url": "https://coinnounce.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d3acea9e19efe001b8c2121.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9ffc60fcdf0a001a0fba04-1587543136051.jpg",
+        "sourceDomain": "coinnounce.com",
+        "originalImageUrl": "https://mk0coinnouncemdktlrl.kinstacdn.com/wp-content/uploads/2020/04/ripple-xrp-price-22april.jpg"
+    },
+    {
+        "_id": "5e9ff5b5fcdf0a001a0f79c8",
+        "hotness": 73497.38380222673,
+        "activityHotness": 0.11570037488096648,
+        "primaryCategory": "Exchanges",
+        "words": 591,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Blockchain unicorn Ripple, which runs the RippleNet and XRP cryptocurrency, recently filed a lawsuit against online video sharing website YouTube. A new lawsuit for YouTube Ripple announced on Tuesday that it has filed a lawsuit against YouTube for \u201cdangerous online giveaway scams and false\u2026",
+        "publishedAt": "2020-04-22T07:36:31.000Z",
+        "title": "Ripple Sues YouTube, Claims Scams Originating from the Platform",
+        "url": "https://cryptocontrol.io/r/api/article/5e9ff5b5fcdf0a001a0f79c8?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5bacc0ff0c38a700190994a8",
+            "name": "Cryptovibes",
+            "url": "https://www.cryptovibes.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bacc0ff0c38a700190994a8.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9ff5b5fcdf0a001a0f79c8-1587541429570.jpg",
+        "sourceDomain": "cryptovibes.com",
+        "originalImageUrl": "https://www.cryptovibes.com/wp-content/uploads/2020/04/youtube-3157978_1280-2.jpg"
+    },
+    {
+        "_id": "5e9ffc6ffcdf0a001a0fba1a",
+        "hotness": 73497.23480509076,
+        "activityHotness": 0.11133286853070033,
+        "primaryCategory": "Analysis",
+        "words": 389,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "The historic plunge in the prices of Crude oil has sent tremors throughout the financial markets. Cryptocurrencies such as the BTC, Ethereum (ETH), and Ripple (XRP) dropped in unison following the oil plunge. However, the drop in Bitcoin\u2019s price has more to do with its fundamentals and less to do\u2026",
+        "publishedAt": "2020-04-22T06:44:27.000Z",
+        "title": "Bitcoin\u2019s bull phase in trouble as indicators point to a price drop till $5,800",
+        "url": "https://cryptocontrol.io/r/api/article/5e9ffc6ffcdf0a001a0fba1a?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3acea9e19efe001b8c2121",
+            "name": "Coinnounce",
+            "url": "https://coinnounce.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d3acea9e19efe001b8c2121.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9ffc6ffcdf0a001a0fba1a-1587543151980.jpg",
+        "sourceDomain": "coinnounce.com",
+        "originalImageUrl": "https://mk0coinnouncemdktlrl.kinstacdn.com/wp-content/uploads/2020/04/bitcoin-price-bearish.jpg"
+    },
+    {
+        "_id": "5e9fdf4ffcdf0a001a0ea918",
+        "hotness": 73497.13886936614,
+        "activityHotness": 0.14252677354043441,
+        "primaryCategory": "General",
+        "words": 446,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Ripple is currently correcting higher from the $0.1780 support zone against the US Dollar. However, XRP price is likely to face another rejection near $0.1880 or $0.1900. Ripple price is trading in a negative zone below the $0.1880 resistance level against the US dollar. The bulls are likely to face\u2026",
+        "publishedAt": "2020-04-22T05:58:41.000Z",
+        "title": "Ripple (XRP) Poised To Extend Losses Below $0.18: Here\u2019s Why",
+        "url": "https://cryptocontrol.io/r/api/article/5e9fdf4ffcdf0a001a0ea918?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9fdf4ffcdf0a001a0ea918-1587535696264.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/02/shutterstock_277833551-1200x780.jpg"
+    },
+    {
+        "_id": "5e9fe0fdfcdf0a001a0ec25e",
+        "hotness": 73497.0767495352,
+        "activityHotness": 0.11133286853070033,
+        "primaryCategory": "Analysis",
+        "words": 507,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "On 21st April 2020, Ripple Labs filed a lawsuit against YouTube claiming damages for allowing marketing of crypto scams on YouTube. CEO Brad Garlinghouse,\u00a0the CEO\n",
+        "publishedAt": "2020-04-22T05:47:33.000Z",
+        "title": "Is Ripple Ethically Eligible to Sue YouTube after the XRP Scam? Tone Vays Argues",
+        "url": "https://cryptocontrol.io/r/api/article/5e9fe0fdfcdf0a001a0ec25e?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5acce099ec0af7be35c79e60",
+            "name": "CoinGape",
+            "url": "https://coingape.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5acce099ec0af7be35c79e60.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9fe0fdfcdf0a001a0ec25e-1587536125895.jpg",
+        "sourceDomain": "coingape.com",
+        "originalImageUrl": "https://cdn.coingape.com/wp-content/uploads/2020/04/22111433/Webp.net-resizeimage-33.jpg"
+    },
+    {
+        "_id": "5e9fd797fcdf0a001a0e685f",
+        "hotness": 73497.03678891574,
+        "activityHotness": 0.12151113796169455,
+        "primaryCategory": "Analysis",
+        "words": 161,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "XRP giveaway scams that have been trending on YouTube have landed the video streaming giant in court. Ripple, the company behind XRP has taken the action after its failure to [\u2026]\n",
+        "publishedAt": "2020-04-22T05:29:30.000Z",
+        "title": "YouTube profits from XRP giveaway scams, faces lawsuit",
+        "url": "https://cryptocontrol.io/r/api/article/5e9fd797fcdf0a001a0e685f?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5bda96120c38a7001984d502",
+            "name": "Cryptopolitan",
+            "url": "https://www.cryptopolitan.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bda96120c38a7001984d502.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9fd797fcdf0a001a0e685f-1587533720262.jpg",
+        "sourceDomain": "cryptopolitan.com",
+        "originalImageUrl": "https://r5y5g3p7.rocketcdn.me/wp-content/uploads/2020/04/XRP-giveaway-scams.jpg"
+    },
+    {
+        "_id": "5e9fd7d4fcdf0a001a0e688b",
+        "hotness": 73496.87666625917,
+        "activityHotness": 0.13148107398400338,
+        "primaryCategory": "General",
+        "words": 483,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db3",
+                "name": "NEO",
+                "slug": "neo",
+                "tradingSymbol": "NEO"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            }
+        ],
+        "description": "The cryptocurrency sector established that in the year 2009. It has been eleven years since cryptocurrencies have become a part of society. And presently, their numbers surpass 3,000.\u00a0 Cryptocurrency projections play a major role in differentiating profitable cryptocurrencies. The optimal return on\u2026",
+        "publishedAt": "2020-04-22T04:28:16.000Z",
+        "title": "Cryptocurrency prediction, the Coins that you can choose in 2020?",
+        "url": "https://cryptocontrol.io/r/api/article/5e9fd7d4fcdf0a001a0e688b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5bf00e7e3c4bad0016748067",
+            "name": "Coinpedia",
+            "url": "https://coinpedia.org/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bf00e7e3c4bad0016748067.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9fd7d4fcdf0a001a0e688b-1587533780589.jpg",
+        "sourceDomain": "coinpedia.org",
+        "originalImageUrl": "https://coinpedia.org/wp-content/uploads/2019/08/cryptocurrency-1.jpg"
+    },
+    {
+        "_id": "5e9fcbc1fcdf0a001a0df6ef",
+        "hotness": 73498.0018465646,
+        "activityHotness": 1.613976194237516,
+        "primaryCategory": "ICO",
+        "words": 33,
+        "similarArticles": [
+            {
+                "_id": "5e9f700dfcdf0a001a0b1d26",
+                "title": "Ripple sues YouTube over cryptocurrency scams",
+                "publishedAt": "2020-04-21T19:35:58.000Z",
+                "sourceDomain": "reuters.com",
+                "url": "https://cryptocontrol.io/r/api/article/5e9f700dfcdf0a001a0b1d26?ref=5ea0fa08eb533c0019517c26",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f700dfcdf0a001a0b1d26-1587507213995."
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Blockchain firm Ripple sued Alphabet Inc's YouTube on Tuesday, alleging the video-sharing platform failed to protect consumers from cryptocurrency \"giveaway\" scams that use fake social media profiles to dupe victims into sending money.",
+        "publishedAt": "2020-04-22T02:19:38.000Z",
+        "title": "Ripple sues YouTube over cryptocurrency scams",
+        "url": "https://cryptocontrol.io/r/api/article/5e9fcbc1fcdf0a001a0df6ef?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b031736311c75000f18ca07",
+            "name": "Reuters",
+            "url": "https://reuters.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b031736311c75000f18ca07.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9fcbc1fcdf0a001a0df6ef-1587530689189.",
+        "sourceDomain": "in.reuters.com",
+        "originalImageUrl": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200422&t=2&i=1515961516&w=1200&r=LYNXNPEG3L03W"
+    },
+    {
+        "_id": "5e9f9725fcdf0a001a0c5a98",
+        "hotness": 73496.02749027594,
+        "activityHotness": 0.11133286853070033,
+        "primaryCategory": "ICO",
+        "words": 215,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Ripple wants YouTube to be more aggressive and proactive in fighting against scams.",
+        "publishedAt": "2020-04-21T23:29:49.000Z",
+        "title": "YouTube Faces Lawsuit from Ripple",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f9725fcdf0a001a0c5a98?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b6b761b3bda0e0010d82323",
+            "name": "Insider.pro EN",
+            "url": "https://en.insider.pro",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b6b761b3bda0e0010d82323.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f9725fcdf0a001a0c5a98-1587517222066.png",
+        "sourceDomain": "ihodl.com",
+        "originalImageUrl": "https://ihodl.com/media/articles/facebook/7/49/dadd8f497__800x420__q85_22701750800.png"
+    },
+    {
+        "_id": "5e9f71e9fcdf0a001a0b33c9",
+        "hotness": 73495.46568133058,
+        "activityHotness": 0.10392207131532814,
+        "primaryCategory": "Mining",
+        "words": 27,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Cryptocurrency company Ripple has filed a lawsuit accusing YouTube of selling ads to accounts impersonating its CEO Brad Garlinghouse and promising fake giveaways of its currency XRP.",
+        "publishedAt": "2020-04-21T20:10:14.000Z",
+        "title": "Cryptocurrency company sues YouTube for letting scammers impersonate its CEO",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f71e9fcdf0a001a0b33c9?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b031cb3311c75000f1c3a23",
+            "name": "The Verge",
+            "url": "https://www.theverge.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b031cb3311c75000f1c3a23.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f71e9fcdf0a001a0b33c9-1587507692191.jpg",
+        "sourceDomain": "theverge.com",
+        "originalImageUrl": "https://cdn.vox-cdn.com/thumbor/-d9cXh8Op31VaLUek_j4w3yReUg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10581343/acastro_180403_1777_youtube_0002.jpg"
+    },
+    {
+        "_id": "5e9f5e3ffcdf0a001a0a9150",
+        "hotness": 73495.41023814,
+        "activityHotness": 0.10861776962410524,
+        "primaryCategory": "General",
+        "words": 320,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Bitcoin Cash (BCH) proponent, Roger Ver has once again spoken out about what he sees as inevitable \u2013\u00a0the dethronement of Bitcoin (BTC) as the most used cryptocurrency and the largest coin by market cap. In a new edition of the Bitcoin and Crypto Podcast with Uptrennd Founder, Jeff Kirdeikis, Roger\u2026",
+        "publishedAt": "2020-04-21T19:48:35.000Z",
+        "title": "Bitcoin\u2019s Top Dog Status Under Threat Because of Poor User Experience: Roger Ver",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f5e3ffcdf0a001a0a9150?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f5e3ffcdf0a001a0a9150-1587502655494.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/Roger-Ver.jpg"
+    },
+    {
+        "_id": "5e9f5515fcdf0a001a0a40aa",
+        "hotness": 73495.32756420161,
+        "activityHotness": 0.10487901641694322,
+        "primaryCategory": "General",
+        "words": 387,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            }
+        ],
+        "description": "Blockchain company Ripple Labs, along with its CEO Brad Garlinghouse, has filed a lawsuit against video-streaming company YouTube LLC. Per an official Ripple publication, YouTube failed to keep XRP scams away from its platform. According to the filing, YouTube is complicit. The plaintiffs accuse\u2026",
+        "publishedAt": "2020-04-21T19:20:10.000Z",
+        "title": "Ripple Drags YouTube to Court Over XRP Scams",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f5515fcdf0a001a0a40aa?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5adc20e7ec0af7be3539d369",
+            "name": "ZyCrypto",
+            "url": "https://zycrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5adc20e7ec0af7be3539d369.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f5515fcdf0a001a0a40aa-1587500313189.jpg",
+        "sourceDomain": "zycrypto.com",
+        "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2020/04/Ripple-Drags-YouTube-to-Court-for-Failure-to-Remove-XRP-Giveaway-Scams.jpg"
+    },
+    {
+        "_id": "5e9f701afcdf0a001a0b1d2f",
+        "hotness": 73495.28938767013,
+        "activityHotness": 0.10198026272961798,
+        "primaryCategory": "ICO",
+        "words": 29,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Blockchain firm Ripple\nsued Alphabet Inc's YouTube on Tuesday, alleging the\nvideo-sharing platform failed to protect consumers from\ncryptocurrency \"giveaway\" scams that use fake social media\nprofiles to dupe victims into sending money.",
+        "publishedAt": "2020-04-21T19:07:28.000Z",
+        "title": "Ripple sues YouTube over cryptocurrency scams",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f701afcdf0a001a0b1d2f?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b031736311c75000f18ca07",
+            "name": "Reuters",
+            "url": "https://reuters.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b031736311c75000f18ca07.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f701afcdf0a001a0b1d2f-1587507226461.png",
+        "sourceDomain": "reuters.com",
+        "originalImageUrl": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png"
+    },
+    {
+        "_id": "5e9f4aadfcdf0a001a09e653",
+        "hotness": 73494.95904568309,
+        "activityHotness": 0.10487901641694322,
+        "primaryCategory": "Exchanges",
+        "words": 366,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Brad Garlinghouse, CEO of San Francisco-based fintech startup, Ripple, revealed Tuesday that they have officially filed a lawsuit against the popular video-sharing platform, YouTube. The lawsuit, which according to a Fortune report, was filed today in a San Francisco federal court, alleges that\u2026",
+        "publishedAt": "2020-04-21T17:07:30.000Z",
+        "title": "Ripple Sues YouTube For Allowing Giveaway Scam Videos Targeting Crypto Users",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f4aadfcdf0a001a09e653?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f4aadfcdf0a001a09e653-1587497646569.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/Youtube.jpg"
+    },
+    {
+        "_id": "5e9f2b4bfcdf0a001a090a4d",
+        "hotness": 73494.84447716718,
+        "activityHotness": 0.12623642644674912,
+        "primaryCategory": "Analysis",
+        "words": 360,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d8e9a749f28d5610567379",
+                "name": "Universe",
+                "slug": "universe",
+                "tradingSymbol": "uni"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "The current situation in the commodities market has left its impact on the cryptocurrency universe as well. Crude oil prices fell below $0, and with that, the happy phase of various cryptocurrencies such as BTC, ETH, LTC, and XRP was cut short. ETHUSD price analysis and prediction To begin the\u2026",
+        "publishedAt": "2020-04-21T16:18:34.000Z",
+        "title": "Latest price analysis and movement of Ethereum (ETH) and Ripple (XRP)",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f2b4bfcdf0a001a090a4d?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5d3acea9e19efe001b8c2121",
+            "name": "Coinnounce",
+            "url": "https://coinnounce.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d3acea9e19efe001b8c2121.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f2b4bfcdf0a001a090a4d-1587489615361.jpg",
+        "sourceDomain": "coinnounce.com",
+        "originalImageUrl": "https://mk0coinnouncemdktlrl.kinstacdn.com/wp-content/uploads/2020/04/latest-price-analysis-and-movement-of-ethereum-eth-and-ripple-xrp.jpg"
+    },
+    {
+        "_id": "5e9f36dffcdf0a001a09571b",
+        "hotness": 73494.7678109602,
+        "activityHotness": 0.10392207131532814,
+        "primaryCategory": "ICO",
+        "words": 25,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "The lawsuit could provide more grist for lawmakers from both parties who have called for Congress to place more legal obligations on big tech companies.",
+        "publishedAt": "2020-04-21T15:59:00.000Z",
+        "title": "YouTube sued by crypto firm Ripple over scam videos, in major challenge to tech giant",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f36dffcdf0a001a09571b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b03115b311c75000f150dec",
+            "name": "Fortune",
+            "url": "http://fortune.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b03115b311c75000f150dec.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f36dffcdf0a001a09571b-1587492578874.jpg",
+        "sourceDomain": "fortune.com",
+        "originalImageUrl": "https://content.fortune.com/wp-content/uploads/2018/06/gettyimages-917916968.jpg?resize=1200,600"
+    },
+    {
+        "_id": "5e9f091bfcdf0a001a07e834",
+        "hotness": 73494.58121067619,
+        "activityHotness": 0.12070141693843262,
+        "primaryCategory": "General",
+        "words": 919,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dd4",
+                "name": "Binance Coin",
+                "slug": "binance-coin",
+                "tradingSymbol": "BNB"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee09",
+                "name": "Enjin Coin",
+                "slug": "enjin-coin",
+                "tradingSymbol": "ENJ"
+            },
+            {
+                "_id": "5e3844a816c3760019f74bbc",
+                "name": "Medium",
+                "slug": "medium",
+                "tradingSymbol": "MDM"
+            },
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            }
+        ],
+        "description": "In the stablecoin sector, USDT occupies over 84% of the market with a daily volume exceeding 96%.\n",
+        "publishedAt": "2020-04-21T14:45:47.000Z",
+        "title": "Tether: capitalization reaches $7 billion",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f091bfcdf0a001a07e834?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5cfa747b28d54f001058f77e",
+            "name": "The Cryptonomist ",
+            "url": "https://cryptonomist.ch/en/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5cfa747b28d54f001058f77e.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f091bfcdf0a001a07e834-1587480860965.jpg",
+        "sourceDomain": "en.cryptonomist.ch",
+        "originalImageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2020/04/tether-1.jpg"
+    },
+    {
+        "_id": "5e9f05bafcdf0a001a07c105",
+        "hotness": 73494.52226805883,
+        "activityHotness": 0.12231435513142097,
+        "primaryCategory": "Analysis",
+        "words": 342,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "After the last bearish move on March 12, Ripple\u2019s upward move has been interrupted at the resistances of $0.19500 and $0.20500. The bulls made an impressive move to the high of $0.20500 after a rebound on April 6. Subsequently, XRP made a downward move because the coin reached the overbought region\u2026",
+        "publishedAt": "2020-04-21T14:23:59.000Z",
+        "title": "Ripple Price Analysis: XRP Sustains Hold above $0.18 as Buyers Regroup for a Rebound",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f05bafcdf0a001a07c105?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f05bafcdf0a001a07c105-1587479995297.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/XRP-3.jpg"
+    },
+    {
+        "_id": "5e9f0871fcdf0a001a07e817",
+        "hotness": 73494.35187118672,
+        "activityHotness": 0.11043600153242428,
+        "primaryCategory": "Analysis",
+        "words": 507,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "XRP saw a 3.5% price decline over the past 24 hours of trading as the cryptocurrency battles with the $0.18 level. The support here is provided by a rising trend line, and a break beneath this could result in XRP unwinding toward $0.16. Against Bitcoin, XRP rebounded from 2650 SAT but is facing\u2026",
+        "publishedAt": "2020-04-21T13:26:55.000Z",
+        "title": "Ripple Price Analysis: Can XRP Hold $0.18 After Bitcoin Dropped Below $7,000?",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f0871fcdf0a001a07e817?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f0871fcdf0a001a07e817-1587480689021.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/03/fed-38-min.jpg"
+    },
+    {
+        "_id": "5e9f0bebfcdf0a001a0801a5",
+        "hotness": 73494.33176586486,
+        "activityHotness": 0.10676586484738149,
+        "primaryCategory": "General",
+        "words": 1467,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5e3844a816c3760019f74b72",
+                "name": "Defi",
+                "slug": "defi",
+                "tradingSymbol": "DEFI"
+            },
+            {
+                "_id": "5ce33f820175730010e8beca",
+                "name": "Matic Network",
+                "slug": "matic-network",
+                "tradingSymbol": "MATIC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74c8b",
+                "name": "CREDIT",
+                "slug": "credit",
+                "tradingSymbol": "CREDIT"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee98",
+                "name": "Macro",
+                "slug": "macro1",
+                "tradingSymbol": "mcr"
+            },
+            {
+                "_id": "5b566c058cb221000f110fd7",
+                "name": "Narrative",
+                "slug": "narrative",
+                "tradingSymbol": "NRVE"
+            }
+        ],
+        "description": "The coronavirus pandemic is changing the global narrative about the crypto space, India is not the exception: What to expect in crypto law updates from India?\nIn one of 2020\u2019s biggest stories about cryptocurrencies so far, the Indian Supreme Court struck down a blanket ban on trading\u2026",
+        "publishedAt": "2020-04-21T13:21:00.000Z",
+        "title": "India\u2019s Lift of Cryptocurrency Trading in the Context of COVID-19",
+        "url": "https://cryptocontrol.io/r/api/article/5e9f0bebfcdf0a001a0801a5?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5e9f0bebfcdf0a001a0801a5-1587481579668.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mM2E5ZWE0YzIxMjI5YmRjMzU2YTJmNjZjZGQ5Y2FkZi5qcGc=.jpg"
+    }
+]

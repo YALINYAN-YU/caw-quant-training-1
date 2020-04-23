@@ -1,0 +1,1514 @@
+[
+    {
+        "_id": "5d30704e77397b001012c079",
+        "hotness": 72382.26360509206,
+        "activityHotness": 0.10953101798043251,
+        "primaryCategory": "General",
+        "words": 210,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u5e02\u573a\u597d\u8f6c\uff0c\u533a\u5757\u94fe\u884c\u4e1a\u4e5f\u5f00\u59cb\u6d3b\u8dc3\u8d77\u6765\uff0c\u5927\u5c0f\u6d3b\u52a8\u4e0d\u65ad\u30022017 \u5e74\u7684\u65f6\u5019\uff0c\u6211\u4eec\u770b\u5230\u4e0d\u5c11\u4e92\u8054\u7f51\u516c\u53f8\u5f00\u59cb\u8f6c\u578b\u533a\u5757\u94fe\u9879\u76ee\uff0c\u5f88\u591a\u5927\u516c\u53f8\u4e5f\u5728\u8ffd\u8d76\u533a\u5757\u94fe\u6982\u5ff5\uff0c\u5f88\u591a\u770b\u4f3c\u548c\u533a\u5757\u94fe\u4e0d\u76f8\u5173\u7684\u4f01\u4e1a\u548c\u4e2a\u4eba\u90fd\u7eb7\u7eb7\u8df3\u5165\u8fd9\u4e2a\u884c\u4e1a\u3002 \u4e0a\u5468\u672b\u533a\u5757\u5f8b\u52a8 BlockBeats \u53d1\u73b0\uff0c\u5e0c\u6377\u4e5f\u53c2\u52a0\u4e86\u4e00\u573a\u533a\u5757\u94fe\u4f1a\u8bae\u3002\u5e0c\u6377\uff08Seagate\uff09\u662f\u5168\u7403\u6700\u5927\u7684\u786c\u76d8\u5236\u9020\u516c\u53f8\uff0c\u6709\u81f3\u5c11 40% \u7684\u7535\u8111\u4e2d\u5b89\u88c5\u7684\u786c\u76d8\u7531\u5e0c\u6377\u5236\u9020\uff0c\u4f46\u5b83\u548c\u533a\u5757\u94fe\u6709\u4ec0\u4e48\u5173\u7cfb\u5462\uff1f \u4ee5\u5f80\u533a\u5757\u94fe\u884c\u4e1a\u7684\u4f1a\u8bae\uff0c\u9080\u8bf7\u7684\u4f9b\u5e94\u5546\u4e00\u822c\u90fd\u662f\u53f0\u79ef\u7535\u3001AMD\u3001\u82f1\u4f1f\u8fbe\u8fd9\u4e9b\u4e0e\u77ff\u673a\u6709\u5173\u7684\u4f01\u4e1a\uff0c\u56e0\u4e3a\u4ee5\u6bd4\u7279\u5e01\u3001\u4ee5\u592a\u574a\u7b49\u4ee3\u8868\u7684 PoW\u2026",
+        "publishedAt": "2019-07-18T12:55:28.000Z",
+        "title": "\u5982\u679c\u4f60\u770b\u597dPoC\u9879\u76ee\uff0c\u5e94\u8be5\u76f4\u63a5\u4e70\u5e0c\u6377\u786c\u76d8\u7684\u80a1\u7968_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d30704e77397b001012c079?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d3033623bde5c00110977c8",
+        "hotness": 72381.5343910654,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 68,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db1",
+                "name": "Dash",
+                "slug": "dash",
+                "tradingSymbol": "DASH"
+            }
+        ],
+        "description": "\u6700\u8fd1\uff0c\u5173\u4e8e\u52a0\u5bc6\u8d27\u5e01\u94b1\u5305\u7684\u5b89\u5168\u4e8b\u4ef6\u4e0d\u65ad\u51fa\u73b0\u5728\u5a92\u4f53\u4e0a\uff1a 7 \u6708 10 \u65e5\uff0c\u786c\u4ef6\u94b1\u5305 Trezor \u88ab\u66dd\u4ec5\u7528 5 \u5206\u949f\u5373\u53ef\u63d0\u53d6\u51fa\u5bc6\u94a5\u79cd\u5b50\uff0c\u4e14\u6f0f\u6d1e\u65e0\u6cd5\u901a\u8fc7\u8865\u4e01\u4fee\u590d\u30027 \u6708 12 \u65e5\uff0c Dash \u5b98\u65b9\u63a8\u7279\u53d1\u5e03\u8b66\u544a\uff0c\u79f0\u94b1\u5305 My Dash Wallet \u51fa\u73b0\u6f0f\u6d1e\u3002\u636e\u6b64\u524d\u6d88\u606f\uff0c\u6709\u7528\u6237\u53cd\u9988\u79f0\u4ef7\u503c\u6570\u767e\u4e07\u4eba\u6c11\u5e01\u7684 Dash \u5e01\u906d\u6076\u610f\u7a83\u53d6\u3002 \u52a0\u5bc6\u8d44\u4ea7\u7684\u5b89\u5168\u4e00\u76f4\u662f\u91cd\u4e2d\u4e4b\u91cd\uff0c\u7136\u800c\u5f88\u591a\u7528\u6237\u7684\u5b89\u5168\u610f\u8bc6\u8584\u5f31\uff0c\u5bf9\u94b1\u5305\u7684\u76f8\u5173\u77e5\u8bc6\u77e5\u4e4b\u751a\u5c11\u3002 \u4eca\u5929\uff0c\u767d\u8bdd\u533a\u5757\u94fe\u6587\u5b57\u91c7\u8bbf\u4e86\u6bd4\u592a\u94b1\u5305\u521b\u59cb\u4eba\u6bd4\u7279\u6d3e\u94b1\u5305\u5f00\u53d1\u8005\u6587\u6d69\u548c imToken \u4e2d\u56fd\u533a\u8fd0\u8425\u8d1f\u8d23\u4eba Simon \uff0c\u4ee5\u4fbf\u80fd\u4ece\u66f4\u591a\u89d2\u5ea6\u5e2e\u52a9\u5927\u5bb6\u4e86\u89e3\u52a0\u5bc6\u8d44\u4ea7\u94b1\u5305\u8fd9\u65b9\u9762\u7684\u95ee\u9898\u3002 01 Trezor \u548c\u2026",
+        "publishedAt": "2019-07-18T08:35:19.000Z",
+        "title": "\u94b1\u5305\u5b89\u5168\u64cd\u4f5c\u4e0d\u89c4\u8303\uff0c\u503e\u5bb6\u8361\u4ea7\u53ea\u97005\u5206\u949f : \u8d44\u6df1\u4ece\u4e1a\u8005\u7684\u5efa\u8bae\u4e00\u5b9a\u8981\u542c_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d3033623bde5c00110977c8?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d3015673bde5c0011f7d081",
+        "hotness": 72381.19309476911,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 377,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbb",
+                "name": "Zcash",
+                "slug": "zcash",
+                "tradingSymbol": "ZEC"
+            }
+        ],
+        "description": "\u201c\u97ed\u83dc\u201d\u95fb\u98ce\u800c\u81f3\u4e4b\u65f6\uff0c\u53ef\u80fd\u5df2\u7ecf\u9519\u8fc7\u6700\u7cbe\u5f69\u7684\u90e8\u5206\u3002 \u5982\u679c\u6709\u4eba\u95ee\u663e\u5361\u77ff\u5de5\uff0c\u73b0\u5728\u6316\u4ec0\u4e48\u6536\u76ca\u6700\u9ad8\uff0c\u4ed6\u5f88\u53ef\u80fd\u4f1a\u6447\u6447\u5934\u7b11\u9053\uff1a\u201cVDS \u548c SERO\u2026\u2026\u201d \u524d\u8005\u662f\u4e0d\u4e45\u524d\u5907\u53d7\u4e89\u8bae\u7684\u5171\u632f\u5e01\uff0c\u540e\u8005\uff0c\u5219\u662f 7 \u6708\u4ee5\u6765\u5e01\u4ef7\u8fc5\u901f\u62c9\u5347\u7684\u201c\u66b4\u53d1\u6237\u201d\u3002 6 \u6708 28 \u65e5\uff0c\u4f5c\u4e3a IEO \u9879\u76ee\u4e0a\u7ebf Gate.io \u540e\uff0cSERO \u8d85\u52df 50 \u500d\uff0c\u6b64\u540e\u5e01\u4ef7\u4e00\u98de\u51b2\u5929\uff0c\u4e00\u5468\u5373\u7ffb 9 \u500d\uff1b\u76f8\u8f83\u4e8e\u4f17\u7b79\u4ef7\u66f4\u662f\u7ffb\u4e86 46 \u500d\u3002 SERO \u4e00\u6218\u6210\u540d\u4e4b\u540e\uff0c\u5e01\u6c11\u95fb\u98ce\u800c\u81f3\u3001\u793e\u533a\u4eba\u6570\u6210\u500d\u4e0a\u6da8\uff0c\u62b9\u8336\u3001Biki\u3001Kucoin \u7b49\u4ea4\u6613\u6240\u4e89\u5148\u4e0a\u67b6 \uff1b\u77ff\u5de5\u4ea6\u5927\u4e3e\u51fa\u52a8\uff0c\u5728\u534a\u6708\u4e4b\u95f4\u5c06\u5168\u7f51\u7b97\u529b\u62c9\u5347 7 \u500d\u2026\u2026\u2026",
+        "publishedAt": "2019-07-18T06:32:27.000Z",
+        "title": "\u4e24\u5468\u7ffb22\u500d\uff0c\u8c01\u6367\u7ea2\u4e86\u201c\u9ed1\u8272\u4ee5\u592a\u574a\u201dSERO\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d3015673bde5c0011f7d081?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2f35783bde5c0011711061",
+        "hotness": 72378.23300925926,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 7,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "BTC \u6bd4\u7279\u5e01\uff0c\u65e5\u7ebf\u7ea7\u522b\u76ee\u524d\u8dcc\u783460\u65e5\u5747\u7ebf\u652f\u6491\uff0c\u4f46\u5e76\u4e0d\u7b97\u6709\u6548\u7834\u4f4d\u884c\u60c5\uff0c\u540c\u65f6\u884c\u60c5\u5927\u7ea7\u522b\u6682\u65f6\u8fd8\u672a\u6709\u6548\u7834\u4f4d\u524d\u671f\u4e0a\u5347\u8d8b\u52bf\u652f\u6491\uff0c\u652f\u6491\u5927\u81f4\u4f4d\u4e8e9000\u4e00\u7ebf\u3002\u5c0f\u65f6\u56fe\u7ea7\u522b\uff0c\u884c\u60c5\u5219\u8fd0\u4f5c\u5728\u9707\u8361\u4e0b\u884c\u901a\u9053\u4e4b\u5185\uff0c9100\u4e3a\u901a\u9053\u652f\u6491\u3002\u64cd\u4f5c\u4e0a\uff0c\u77ed\u7ebf\u538b\u529b\u4f4d\u4f4d\u4e8e9850\u4e00\u5e26\uff0c\u4e3a\u56de\u8c03\u7ebf0.382\u4ee5\u53ca\u5c0f\u65f6\u56fe\u4e0b\u8dcc\u8d8b\u52bf\u7684\u963b\u529b\u3002\u4e0a\u538b\uff1a9850~10000\u00a0\u4e0b\u65b9\u652f\u6491\u4e00\uff1a9000 \u652f\u6491\u4e8c\uff1a7350 ETH \u4ee5\u592a\uff0c\u4e0b\u8dcc\u653b\u52bf\uff0c\u76f8\u5bf9\u800c\u8a00\uff0c\u7a7a\u5934\u6027\u6700\u5f3a\uff0c5\u65e5\u5747\u7ebf\uff0c\u65e5\u5185\u76f4\u63a5\u538b\u5236\u4ef7\u4f4d\uff0c\u4ece\u51cc\u6668\u5f00\u7ebf\uff0c\u4e00\u8def\u76f4\u63a5\u6027\u56de\u8c03\uff0c\u7ed3\u5408\u5f53\u65e5\uff0c\u76ee\u524d\u5df2\u7ecf\u8fde\u7eed\u8d85\u8fc77\u5929\u56de\u8c03\uff0c\u4ece\u65e5\u7ebf\u5927\u7ea7\u522b\u4e0a\u770b\uff0c\u591a\u5934\u8d8b\u52bf\u4e5f\u4f9d\u65e7\u5b58\u5728\u3002\u652f\u6491\u533a\u95f4\u53c2\u8003\uff1a185~150\u4e3a\u73b0\u8d27\u63a5\u5165\u5e03\u5c40\u533a\u95f4\u3002 BCH\u2026",
+        "publishedAt": "2019-07-17T12:47:53.000Z",
+        "title": "7\u670817\u65e5\u4e3b\u6d41\u5e01\u4e2d\u53ef\u6284\u5e95\u5e01\u79cd\u89e3\u6790_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2f35783bde5c0011711061?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2ee2fe3bde5c0011402cdd",
+        "hotness": 72377.58701355162,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "General",
+        "words": 101,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u4e0a\u671f\u56de\u987e BTC\uff1aBTC \u4ef7\u683c\u5904\u4e8e\u6574\u7406\u4e09\u89d2\u5f62\u4e2d\uff0c\u5728\u9707\u8361\u6574\u7406\u4e2d\u5bfb\u6c42\u62e9\u5411\uff0c\u8fc7\u4e8e\u5feb\u901f\u7684\u4e0a\u6da8\u5bfc\u81f4\u5e02\u573a\u9010\u6e10\u51fa\u73b0\u6050\u9ad8\u5fc3\u7406\uff0c\u9700\u8981\u4e00\u5b9a\u5e45\u5ea6\u7684\u9707\u8361\u6765\u6d88\u5316\u6050\u614c\u76d8\u3002\u5f53 BTC \u4ef7\u683c\u9760\u8fd1 $10,500 \u53ef\u4ee5\u5c0f\u4ed3\u4f4d\u505a\u591a\uff0c\u82e5 BTC \u4ef7\u683c\u518d\u6b21\u8dcc\u7834 $10,000 \u5219\u9700\u5373\u65f6\u6b62\u635f\uff0c\u9632\u6b62\u4e0b\u8dcc\u5e45\u5ea6\u8fdb\u4e00\u6b65\u6269\u5927\u3002BTC \u6700\u4f4e\u8dcc\u81f3 $9,200\uff0c\u8f83 $10,000 \u4ecd\u6709 8% \u7684\u4e0b\u8dcc\u5e45\u5ea6\u3002 EOS\uff1a EOS \u5df2\u5f62\u6210\u660e\u663e\u7684\u4e0b\u8dcc\u8d8b\u52bf\uff0c\u65e0\u660e\u663e\u652f\u6491\u8ff9\u8c61\uff0c\u8fc7\u5ea6\u4e0b\u8dcc\u867d\u5b58\u5728\u8d85\u8dcc\u53cd\u5f39\u53ef\u80fd\u6027\uff0c\u4f46\u98ce\u9669\u8f83\u5927\uff0c\u6295\u8d44\u8005\u9700\u8c28\u614e\u4ea4\u6613\u3002EOS \u6700\u4f4e\u8dcc\u81f3 $3.34\uff0c\u8f83 7 \u6708 12 \u65e5\u6536\u76d8\u4ef7\u4e0b\u8dcc\u8fd1 30%\u3002 LTC\uff1aLTC \u652f\u6491\u533a\u95f4\u5904\u4e8e\u2026",
+        "publishedAt": "2019-07-17T08:54:58.000Z",
+        "title": "\u6210\u4e5f\u8427\u4f55\uff0c\u8d25\u4e5f\u8427\u4f55\uff5c\u884c\u60c5\u5206\u6790_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2ee2fe3bde5c0011402cdd?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2ed9473bde5c00113a8e46",
+        "hotness": 72377.3800925926,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 18,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbb",
+                "name": "Zcash",
+                "slug": "zcash",
+                "tradingSymbol": "ZEC"
+            }
+        ],
+        "description": "\u6458\u8981\uff1a\u66fe\u7ecf\u66b4\u6da8\u7684\u5e01\u4ef7\u5df2\u591a\u6b21\u592d\u6298\uff0c\u786c\u5206\u53c9\u524d\u5915Grin\u4e0eBeam\u4e5f\u201c\u9a9a\u4e0d\u52a8\u201d\u4e86\uff0c\u5e01\u4ef7\u8fd8\u53cd\u8dcc\u4e8615%\u4ee5\u4e0a\u2026\u2026 \u4eca\u5e74\u5e74\u521d\u7206\u7ea2\u7684\u9690\u79c1\u6982\u5ff5\u5e01Grin\u4e0eBeam\u90fd\u5728\u4e3b\u7f51\u4e0a\u7ebf\u540e\u5373\u5c06\u8fce\u6765\u7b2c\u4e00\u6b21\u786c\u5206\u53c9\u3002 Grin\u5b98\u7f51\u663e\u793a\uff0c\u5176\u9996\u6b21\u786c\u5206\u53c9\u5373Grin v2.0\u7684\u7f51\u7edc\u5347\u7ea7\u5c06\u5728\u533a\u5757\u9ad8\u5ea6262080\u53d1\u751f\uff0c\u9884\u8ba1\u57287\u670817\u65e5 8:27 UTC\uff08\u5317\u4eac\u65f6\u95f416:27\uff09\u8fdb\u884c\u3002 \u672c\u6b21\u5347\u7ea7\u5c06\u63d0\u5347POW\u7684\u6027\u80fd\uff0c\u5176API\u8282\u70b9\u5c06\u4ecev1/pool/push\u7aef\u70b9\u66f4\u6539\u4e3a v1/pool/push_tx\u7aef\u70b9\u3002\u6b64\u5916\uff0c\u5347\u7ea7\u5c06\u589e\u52a0\u94b1\u5305\u7684\u7075\u6d3b\u6027\u4e0e\u9690\u79c1\u6027\uff0cAPI\u66f4\u6539\u4e3aV2\uff0cSlate V0\u5c06\u88ab\u5f03\u7528\u3002\u2026",
+        "publishedAt": "2019-07-17T07:40:50.000Z",
+        "title": "Grin\u4e0eBeam\u786c\u5206\u53c9\u5728\u5373\uff0c\u9690\u79c1\u5e01\u8fd8\u4f1a\u518d\u706b\u4e00\u6b21\u5417\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2ed9473bde5c00113a8e46?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2d7d1e3bde5c0011707b42",
+        "hotness": 72373.28037037038,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 45,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            }
+        ],
+        "description": "\u76f8\u4fe1\u5927\u5bb6\u90fd\u5bf9 USDT \u5373\u5c06\u5230\u6765\u7684\u201c\u5ba1\u5224\u201d\u611f\u5230\u5fe7\u5fc3\u5fe1\u5fe1\u3002\u5176\u5b9e\u672c\u6765\u5927\u5bb6\u4e5f\u4e0d\u592a\u5173\u5fc3\u8fd9\u4ef6\u4e8b\uff0c\u4f46\u8fd9\u51e0\u5929\u6070\u5de7\u8fdb\u5165\u4e86\u52a0\u5bc6\u8d27\u5e01\u666e\u8dcc\u884c\u60c5\uff0c\u8ba9\u4eba\u4eec\u6ca1\u6cd5\u4e0d\u62c5\u5fc3\u8fd9\u4e2a\u7a33\u5b9a\u5e01\u5927\u96f7\u4f1a\u4e0d\u4f1a\u5728\u8fd9\u4e2a\u65f6\u5019\u7a81\u7136\u7206\u6389\u3002 \u00a0 01.USDT\u600e\u4e48\u4e86 \u00a0 \u53ef\u80fd\u4f60\u8fd8\u4e0d\u592a\u6e05\u695a\u00a0Tether \u516c\u53f8\u5c06\u8981\u9762\u5bf9\u4ec0\u4e48\u6837\u7684\u56f0\u96be\uff0c\u8fd9\u8fb9\u5f15\u7528 CoinDesk \u76f8\u5173\u7684\u62a5\u9053\uff1a \u201c2019 \u5e74 4 \u6708 25 \u65e5\uff0c\u7ebd\u7ea6\u5dde\u68c0\u65b9\u5c06 Tether \u53ca\u5176\u6bcd\u516c\u53f8 iFinex Inc \u4ee5\u53ca Bitfinex \u544a\u4e0a\u6cd5\u5ead\u3002\u5728\u957f\u8fbe 23 \u9875\u7684\u8d77\u8bc9\u4e66\u4e2d\uff0c\u68c0\u65b9\u63a7\u544a\u4e24\u8005\u6d89\u5acc\u591a\u9879\u91cd\u5927\u8fdd\u89c4\uff0c\u5e76\u8fdb\u4e00\u6b65\u63a8\u6d4b Tether \u6d89\u5acc\u632a\u7528 9 \u4ebf\u7f8e\u5143\u7684 USDT \u51c6\u5907\u91d1\u5e2e Bitfinex\u2026",
+        "publishedAt": "2019-07-16T07:04:56.000Z",
+        "title": "USDT \u6700\u7ec8\u5ba1\u5224\uff1a\u300c\u672b\u65e5\u300d\u6765\u4e34\uff1f\u77ed\u671f\u4e0e\u957f\u671f\u600e\u4e48\u770b\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2d7d1e3bde5c0011707b42?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2d1f3c3bde5c00113e1d22",
+        "hotness": 72372.12495370371,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 288,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "\u5bf9\u4e8eFacebook\u7684 Libra \u52a0\u5bc6\u8d27\u5e01\u6765\u8bf4\uff0c\u4e0a\u5468\u662f\u4e00\u4e2a\u6f2b\u957f\u800c\u75b2\u60eb\u7684\u4e00\u5468\uff0c\u56e0\u4e3a\u5927\u591a\u6570\u77e5\u540d\u4eba\u58eb\u90fd\u6700\u7ec8\u7ad9\u5728\u4e86\u53cd\u5bf9\u8fd9\u79cd\u5373\u5c06\u9762\u4e16\u7684\u52a0\u5bc6\u8d27\u5e01\u8d44\u4ea7\u7684\u90a3\u8fb9\u3002\u5c31\u5728\u4e0a\u5468\uff0c\u7531\u793e\u4ea4\u5de8\u5934 Facebook \u652f\u6301\u7684 Libra \u865a\u62df\u8d27\u5e01\u53d7\u5230\u4e86\u7f8e\u8054\u50a8\u4e3b\u5e2d Jerome Powell \u7684\u6279\u8bc4\uff0c\u800c\u4e0d\u4e45\u4e4b\u540e\uff0c\u7f8e\u56fd\u603b\u7edf Donald Trump \u4e5f\u7834\u5929\u8352\u5730\u5728\u63a8\u7279\u4e0a\u53d1\u8868\u4e86\u5173\u4e8e Libra\u201c\u4e0d\u53ef\u9760\u201d\u7684\u8a00\u8bba\u3002 \u540c\u65f6\uff0c\u4e0a\u5468\u300a\u534e\u5c14\u8857\u65e5\u62a5\u300b\u7684\u4e00\u7bc7\u62a5\u9053\u8bc1\u5b9e\uff0cLibra \u7684\u52a0\u5bc6\u8d27\u5e01\u7ed3\u6784\u76ee\u524d\u6b63\u53d7\u5230\u7f8e\u56fd\u8bc1\u5238\u4ea4\u6613\u59d4\u5458\u4f1a\u00a0(SEC)\u00a0\u7684\u5bc6\u5207\u5173\u6ce8\uff0cSEC\u2026",
+        "publishedAt": "2019-07-16T00:08:59.000Z",
+        "title": "\u4e24\u573aLibra\u542c\u8bc1\u4f1a\u5728\u5373\uff0cDavid Marcus\u5c06\u9762\u4e34\u600e\u6837\u7684\u5201\u96be\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2d1f3c3bde5c00113e1d22?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2c66983bde5c0011d40c7b",
+        "hotness": 72370.04319444446,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 236,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d8e9a749f28d5610567344",
+                "name": "GAIA",
+                "slug": "gaia",
+                "tradingSymbol": "gaia"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "PANews Weekly\u00a0 \u00a07.8-7.14 \u6982\u8ff0\uff1a \u4e2d\u56fd\u592e\u884c\u5b98\u5458\u3001\u7f8e\u8054\u50a8\u4e3b\u5e2d\u7b49\u6301\u7eed\u8868\u6001Libra\uff1b\u7f8e\u56fd\u603b\u7edf\u7279\u6717\u666e\u53d1\u63a8\u8d28\u7591\u52a0\u5bc6\u8d27\u5e01\u7684\u4ef7\u503c\uff1b\u4f0a\u6717\u592e\u884c\u526f\u884c\u957f\u79f0\u4ea4\u6613\u6bd4\u7279\u5e01\u975e\u6cd5\uff1b\u5e01\u5b89\u9500\u6bc1\u56e2\u961fBNB\u5f15\u53d1\u4e89\u8bae\uff1bMatrixport\u6b63\u5f0f\u4e0a\u7ebfBeta\u7248\uff0c\u5408\u4f5c\u4f19\u4f34\u5747\u4e3a\u6bd4\u7279\u5927\u9646\u7cfb\uff1bSEC\u63a5\u8fde\u6279\u51c6Blockstack \u548cProps\u8fdb\u884c\u5408\u89c4\u4ee3\u5e01\u53d1\u552e\uff1bTether\u591a\u6b21\u589e\u53d1USDT\uff0c\u5927\u90fd\u4f1a\u5546\u4e1a\u94f6\u884c\u5173\u95edTether\u94f6\u884c\u8d26\u6237\u3002 \u4e0a\u5468\u516c\u5e03\u7684\u533a\u5757\u94fe\u9886\u57df\u878d\u8d44\u51716\u8d77\uff0c\u603b\u91d1\u989d\u8d856000\u4e07\u7f8e\u5143\uff08\u4e0d\u5305\u62ec\u5c1a\u672a\u62ab\u9732\u5177\u4f53\u6295\u878d\u8d44\u91d1\u989d\u7684\u9879\u76ee\uff09\uff0c\u6d89\u53ca\u4ea4\u6613\u5e73\u53f0\u3001\u516c\u94fe\u3001\u533a\u5757\u94fe\u6570\u636e\u5b58\u50a8\u3001\u52a0\u5bc6\u8d27\u5e01\u6258\u7ba1\u53ca\u79c1\u94a5\u7ba1\u7406\u7b49\u591a\u4e2a\u9886\u57df\u3002\u2026",
+        "publishedAt": "2019-07-15T11:39:33.000Z",
+        "title": "\u533a\u5757\u94fe\u5468\u62a5 | \u7f8e\u56fdSEC\u901a\u8fc7\u4e24\u5bb6\u5408\u89c4\u4ee3\u5e01\u53d1\u552e \u7279\u6717\u666e\u8d28\u7591\u52a0\u5bc6\u8d27\u5e01_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2c66983bde5c0011d40c7b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2c66a73bde5c0011d4178e",
+        "hotness": 72370.02907407407,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 115,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "\u672c\u6587\u8f6c\u81eaLongHash \u4e1a\u5185\u666e\u904d\u8ba4\u4e3a 2018 \u5e74 12 \u6708\u5c31\u662f\u300c\u52a0\u5bc6\u8d27\u5e01\u4e25\u51ac\u300d\u7684\u5e95\u90e8\u3002\u51e0\u4e4e\u6240\u6709\u5e01\u79cd\u90fd\u7ecf\u5386\u4e86\u66b4\u8dcc\uff0c\u6709\u4e9b\u8f83 2017 \u5e74\u7684\u6700\u9ad8\u4ef7\u76f8\u6bd4\u8dcc\u5e45\u8fbe 99%\u3002 \u5176\u4e2d\u745e\u6ce2\u7684 XRP \u8dcc\u5e45\u5c31\u5728 90% \u5de6\u53f3\u3002\u622a\u81f3 2018 \u5e74 12 \u6708 1 \u65e5\uff0cXRP \u7684\u4ef7\u683c\u4ece\u6700\u9ad8\u4ef7 3.6 \u7f8e\u5143\u8dcc\u5230 0.39 \u7f8e\u5143\uff0c\u4e4b\u540e\u51e0\u4e2a\u6708\u7a0d\u6709\u56de\u5347\uff0c\u4f46\u662f\u76ee\u524d\u4ecd\u672a\u8d70\u51fa\u56f0\u5883\u3002\u6295\u8d44\u6700\u5e38\u89c1\u7684\u8bef\u533a\u662f\u8ba4\u4e3a\uff0c\u5f53\u67d0\u79cd\u8d44\u4ea7\u4e0b\u8dcc 90% \u65f6\uff0c\u5b83\u662f\u201c\u964d\u4ef7\u201d\u6216\u8005\u201c\u4fc3\u9500\u4e2d\u201d\u3002\u7136\u800c\u591a\u6570\u60c5\u51b5\u5e76\u975e\u5982\u6b64\uff0c\u56e0\u4e3a\u4e00\u79cd\u8d44\u4ea7\u66b4\u8dcc 90% \u4e0d\u4ee3\u8868\u4e4b\u540e\u4e0d\u4f1a\u518d\u8dcc\u3002\u4e8b\u5b9e\u4e0a\uff0c\u8dcc 90% \u4e4b\u540e\u53ef\u80fd\u8fd8\u4f1a\u518d\u8dcc\u2026",
+        "publishedAt": "2019-07-15T11:34:28.000Z",
+        "title": "\u89c2\u70b9\uff1aXRP\u4ef7\u683c\u8dcc\u78342018\u5e74\u6700\u4f4e\u4ef7 \u65e0\u6cd5\u627f\u8f7d\u5e76\u53cd\u6620ripple\u4ef7\u503c_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2c66a73bde5c0011d4178e?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2b40f03bde5c00112b539d",
+        "hotness": 72366.50685185185,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 7,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db1",
+                "name": "Dash",
+                "slug": "dash",
+                "tradingSymbol": "DASH"
+            }
+        ],
+        "description": "\u636eAmbcrypto 7\u670814\u65e5\u62a5\u9053\uff0c\u6700\u8fd1\u6709\u5173Dash\u7684\u65b0\u95fb\u5360\u636e\u4e86\u5934\u6761\uff0c\u5176\u5df2\u7ecf\u90e8\u7f72\u4e86\u4e00\u4e2a\u540d\u4e3aChainlock\u7684\u534f\u8bae\uff0c\u8be5\u534f\u8bae\u53ef\u4ee5\u4f7fDash\u7f51\u7edc\u514d\u53d751%\u653b\u51fb\u6216\u94fe\u91cd\u7ec4\u653b\u51fb\u3002 \u56fe\u7247\u6765\u6e90\uff1avisualhunt Dash\u9996\u5e2d\u6267\u884c\u5b98\u745e\u5b89\u2022\u6cf0\u52d2(Ryan Taylor) \u6700\u8fd1\u5728\u4e00\u6b21\u91c7\u8bbf\u4e2d\u53d1\u8868\u4e86\u5927\u91cf\u5173\u4e8eChainlock\u3001New InstantSend\u7b49\u5185\u5bb9\u7684\u8a00\u8bba\u3002\u4ed6\u9996\u5148\u8c08\u5230\u4e86Dash\u4e0e\u5176\u4ed6\u52a0\u5bc6\u8d27\u5e01\u7684\u4e0d\u540c\u4e4b\u5904\uff0c\u4ee5\u53ca\u5b83\u5982\u4f55\u4e13\u6ce8\u4e8e\u4e3a\u7528\u6237\u6253\u9020\u4e00\u4e2a\u66f4\u52a0\u65e0\u7f1d\u7684\u201c\u9500\u552e\u65f6\u70b9\u7cfb\u7edf\u201d\uff08Point-of-Sale\uff09\u3002\u2026",
+        "publishedAt": "2019-07-14T14:26:28.000Z",
+        "title": "Dash CEO\uff1aChainlock\u534f\u8bae\u53ef\u964d\u4f4e\u7f51\u7edc51%\u653b\u51fb\uff0cDash\u7684\u5b89\u5168\u6027\u6216\u9ad8\u4e8e\u6bd4\u7279\u5e01_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2b40f03bde5c00112b539d?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2ae7753bde5c0011f68304",
+        "hotness": 72365.51064106541,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 72,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45de8",
+                "name": "0x",
+                "slug": "0x",
+                "tradingSymbol": "ZRX"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "\u6628\u5929\uff0c\u53bb\u4e2d\u5fc3\u5316\u4ea4\u6613\u6240\u534f\u8bae 0x \u9879\u76ee\u65b9\u79f0\u5176\u53d1\u73b0\u4e25\u91cd\u5b89\u5168\u6f0f\u6d1e\u3002PeckShield \u5b89\u5168\u4eba\u5458\u8ddf\u8fdb\u5206\u6790\u53d1\u73b0\uff0c0x Exchange \u5408\u7ea6\u5728\u6821\u9a8c\u8ba2\u5355\u7b7e\u540d\u65f6\u5b58\u5728\u7f3a\u9677\uff0c\u5bfc\u81f4\u653b\u51fb\u8005\u53ef\u4ee5\u8fdb\u884c\u6076\u610f\u6302\u5355\uff0c\u8fdb\u800c\u5c06\u7528\u6237\u7684\u6570\u5b57\u8d44\u4ea7\u4f4e\u4ef7\u5356\u51fa\uff0c\u6270\u4e71\u6b63\u5e38\u7684\u4ea4\u6613\u79e9\u5e8f\u3002\u6240\u5e78\u9879\u76ee\u65b9\u53ca\u65f6\u53d1\u73b0\u5e76\u4fee\u590d\u95ee\u9898\uff0c\u622a\u81f3\u76ee\u524d\uff0c\u5c1a\u672a\u6709\u771f\u5b9e\u653b\u51fb\u53d1\u751f\uff0c\u5e76\u6ca1\u6709\u4ea7\u751f\u6570\u5b57\u8d44\u4ea7\u635f\u5931\u3002 \u00a0 \u00a0 \u80cc\u666f \u5317\u4eac\u65f6\u95f42019\u5e7407\u670813\u65e5\uff0c\u53bb\u4e2d\u5fc3\u5316\u4ea4\u6613\u6240 0x \u534f\u8bae\u9879\u76ee\u65b9\u79f0\u5176\u53d1\u73b0\u4e25\u91cd\u5b89\u5168\u6f0f\u6d1e\uff0c\u5e76\u7d27\u6025\u5173\u95ed\u4e86 0x Exchange v2.0 \u5408\u7ea6\uff0c\u968f\u540e\u90e8\u7f72\u4e86\u4fee\u590d\u540e\u7684\u5408\u7ea6\u3002\u53d7\u6b64\u5f71\u54cd\uff0c\u57fa\u4e8e 0x \u534f\u8bae\u7684\u4ea4\u6613\u6240\u53ca\u94b1\u5305\uff0c\u5305\u62ec Radar Relay\uff0cTokenlon, Star\u2026",
+        "publishedAt": "2019-07-14T08:26:46.000Z",
+        "title": "0x\u534f\u8bae\u6f0f\u6d1e\u539f\u7406\u5256\u6790\uff1a\u6076\u610f\u6302\u5355\u53ef\u6270\u4e71\u6b63\u5e38\u4ea4\u6613\u79e9\u5e8f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2ae7753bde5c0011f68304?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2962441af7e4001194210e",
+        "hotness": 72360.85025429235,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "General",
+        "words": 70,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "\u300c\u5982\u679c\u6bd4\u7279\u5e01\u662f\u4e00\u79cd\u8d27\u5e01\uff0c\u90a3\u5c31\u4e0d\u8be5\u51fa\u73b0\u8fd9\u4e48\u5927\u7684\u4ef7\u683c\u6ce2\u52a8\u5427\uff1f\u300d\u8fd9\u4e2a\u95ee\u9898\u88ab\u5f88\u591a\u8d28\u7591\u8005\u95ee\u8fc7\uff0c\u4ed6\u4eec\u59cb\u7ec8\u8ba4\u4e3a\u6570\u5b57\u8d44\u4ea7\u662f\u4e2a\u7b11\u8bdd\u3002 \u6bd4\u7279\u5e01\u81ea 2009 \u5e74 1 \u6708\u95ee\u4e16\u4ee5\u6765\uff0c\u6ce2\u52a8\u7387\u57fa\u672c\u5904\u4e8e\u4e0b\u964d\u72b6\u6001\uff0c\u4f46\u662f\u5c31 2019 \u5e74\u7684\u8868\u73b0\u6765\u770b\uff0c\u7a33\u5b9a\u6027\u8fd8\u662f\u5dee\u4e86\u70b9\u3002\u6839\u636e Coin Metrics \u7684\u6570\u636e\uff0c\u5728\u5f53\u524d\u52a0\u5bc6\u8d27\u5e01\u5e02\u573a\u6ce1\u6cab\u5feb\u901f\u7834\u88c2\u671f\u95f4\uff0c\u6bd4\u7279\u5e01 60 \u5929\u65e5\u56de\u62a5\u6ce2\u52a8\u7387\u521b\u4e0b\u81ea 2018 \u5e74\u521d\u4ee5\u6765\u7684\u65b0\u9ad8\u3002 2019 \u5e74 7 \u6708 7 \u65e5\u7684\u6bd4\u7279\u5e01 60 \u5929\u65e5\u56de\u62a5\u6ce2\u52a8\u7387\u662f 5.4%\uff0c\u53ea\u6bd4 2018 \u5e74 11 \u6708\u6bd4\u7279\u5e01\u66b4\u8dcc\u540e\u7684\u6ce2\u52a8\u7387\u9ad8\u4e86\u4e00\u70b9\u70b9\u2014\u2014\u4e0d\u8fc7\uff0c2019 \u5e74\u7684\u8fd9\u4e2a\u6ce2\u52a8\u662f\u6b63\u5411\u7684\u3002 \u6bd4\u7279\u5e012019\u5e74\u6ce2\u52a8\u7387 \u00a0\u2026",
+        "publishedAt": "2019-07-13T04:29:44.000Z",
+        "title": "\u6570\u636e\u663e\u793a\uff1a\u6bd4\u7279\u5e01\u65e5\u56de\u62a5\u6ce2\u52a8\u7387\u521b2018\u5e74\u521d\u4ee5\u6765\u65b0\u9ad8_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2962441af7e4001194210e?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d286fd41af7e4001109925b",
+        "hotness": 72357.93458333334,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 58,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45ef1",
+                "name": "Syndicate",
+                "slug": "syndicate",
+                "tradingSymbol": "synx"
+            }
+        ],
+        "description": "\u4eca\u5929\uff0c\u7f8e\u56fd\u603b\u7edf\u7279\u6717\u666e\u5728\u4efb\u804c\u671f\u95f4\u9996\u6b21\u53d1\u5e03\u4e86\u5173\u4e8e\u201c\u6bd4\u7279\u5e01\u201d\u548c\u201c\u52a0\u5bc6\u8d27\u5e01\u201d\u7684\u63a8\u6587\uff0c\u5bf9 Facebook \u53d1\u884c\u81ea\u5df1\u7684\u8d27\u5e01\u4f5c\u51fa\u56de\u5e94\u3002 \u8fd9\u662f\u5927\u52bf\u6240\u8d8b\u3002\u4e16\u754c\u5404\u56fd\u653f\u5e9c\u7eb7\u7eb7\u5bf9\u52a0\u5bc6\u8d27\u5e01\u7684\u5174\u8d77\u4f5c\u51fa\u56de\u5e94\uff0c\u5176\u4e2d\u4e00\u4e9b\u653f\u5e9c\u901a\u8fc7\u53d1\u884c\u81ea\u5df1\u7684\u6570\u5b57\u8d27\u5e01\u6765\u56de\u5e94\u8fd9\u4e00\u8d8b\u52bf\u3002\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\uff08PBoC\uff09\u4e00\u4f4d\u5b98\u5458\u4e8e\u00a07 \u6708 8 \u65e5\u8bc1\u5b9e\uff1a\u5317\u4eac\u6b63\u5728\u7814\u7a76\u6570\u5b57\u4eba\u6c11\u5e01\u3002 \u56fd\u9645\u6e05\u7b97\u94f6\u884c\uff08BIS\uff09\uff08\u603b\u90e8\u8bbe\u5728\u745e\u58eb\uff09\u884c\u957f Agustin Carstens \u6279\u51c6\u4e86\u592e\u884c\u6570\u5b57\u8d27\u5e01\uff08CBDC\uff09\u9879\u76ee\u3002\u8fd9\u4e2a\u94f6\u884c\u4e1a\u5927\u4ea8\u5728\u63a5\u53d7\u91d1\u878d\u65f6\u62a5\u91c7\u8bbf\u65f6\u8bf4\uff1a\u201c\u56fd\u9645\u6e05\u7b97\u94f6\u884c\uff08BIS\uff09\u79ef\u6781\u652f\u6301\u592e\u884c\u53c2\u4e0e\u5230\u6570\u5b57\u8d27\u5e01\u4e2d\u3002 Carstens\u2026",
+        "publishedAt": "2019-07-12T11:00:27.000Z",
+        "title": "\u7279\u6717\u666e\u9996\u6b21\u8bc4\u8bba\u6bd4\u7279\u5e01\uff0c\u592e\u884c\u6570\u5b57\u8d27\u5e01\u4e34\u8fd1\u6216\u5e26\u6765\u5229\u597d_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d286fd41af7e4001109925b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d27492b1af7e400115e1b05",
+        "hotness": 72354.43189814815,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 148,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u5982\u679c\u4f60\u67e5\u770b\u8fd1\u5e74\u6765\u7684\u52a0\u5bc6\u8d27\u5e01\u5e02\u503c\u6392\u884c\u699c\uff0c\u4f60\u4f1a\u53d1\u73b0\uff0c\u6bcf\u5e74\u90fd\u6709\u4e0d\u5c11\u201c\u65b0\u9762\u5b54\u201d\u8fdb\u5165\u524d\u5341\uff0c\u4f46\u80fd\u591a\u5e74\u7a33\u5c45\u524d\u5341\u7684\u5e01\u79cd\u5c48\u6307\u53ef\u6570\uff0c\u745e\u6ce2\u5e01\uff08XRP\uff09\u7b97\u5176\u4e2d\u4e4b\u4e00\u3002 \u63d0\u5230\u745e\u6ce2\u5e01\uff08XRP\uff09\uff0c\u5927\u90e8\u5206\u4eba\u7684\u5370\u8c61\u53ef\u80fd\u53ea\u505c\u7559\u5728\u201c\u5e02\u503c\u7b2c\u4e09\u201d\u3001\u201c\u8de8\u5883\u652f\u4ed8\u201d\u4e24\u4e2a\u6807\u7b7e\u4e0a\uff0c\u5e76\u6ca1\u6709\u771f\u6b63\u6df1\u5165\u4e86\u89e3\u8fc7\u3002\u6bd4\u7279\u5e01\u6709\u4e2d\u672c\u806a\uff0c\u4ee5\u592a\u574a\u6709 V \u795e\uff0cEOS \u6709 BM\uff0c\u83b1\u7279\u5e01\u6709\u674e\u542f\u5a01\uff0c\u800c\u5bf9\u4e8e\u745e\u6ce2\u5e01\u7684\u521b\u59cb\u4eba\uff0c\u5927\u90e8\u5206\u4eba\u8fde\u542c\u90fd\u6ca1\u542c\u8fc7\uff0c\u5173\u4e8e\u745e\u6ce2\u7684\u65b0\u95fb\u5a92\u4f53\u62a5\u9053\u66f4\u662f\u5c48\u6307\u53ef\u6570\u3002 \u4e00\u4e2a\u5982\u6b64\u201c\u4f4e\u8c03\u201d\u3001\u5927\u90e8\u5206\u4e1a\u5185\u4eba\u58eb\u90fd\u4e0d\u592a\u4e86\u89e3\u7684\u5e01\u79cd\uff0c\u4e3a\u4ec0\u4e48\u80fd\u957f\u671f\u7a33\u5c45\u5e02\u503c\u524d\u5341\uff1f\u5b83\u5230\u5e95\u89e3\u51b3\u4e86\u4ec0\u4e48\u95ee\u9898\uff1f\u4eca\u5929\uff0c\u6211\u4eec\u5c31\u6765\u4e86\u89e3\u4e00\u4e0b\u3002 \u00a0 \u00a001\u00a0\u745e\u6ce2\uff08Ripple\uff09\u4e0e\u745e\u6ce2\u5e01\uff08XRP\uff09\u2026",
+        "publishedAt": "2019-07-11T13:59:29.000Z",
+        "title": "\u4f7f\u7528\u573a\u666f\u5355\u4e00\uff0c\u4ef7\u503c\u6765\u6e90\u6709\u9650\u7684\u745e\u6ce2\u5e01\uff08XRP\uff09\uff0c\u51ed\u4ec0\u4e48\u7a33\u5c45\u5e02\u503c\u7b2c\u4e09\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d27492b1af7e400115e1b05?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d270ef01af7e400113ab109",
+        "hotness": 72353.78782407408,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 9,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db1",
+                "name": "Dash",
+                "slug": "dash",
+                "tradingSymbol": "DASH"
+            }
+        ],
+        "description": "\u9488\u5bf9\u8fd1\u671f\u7f51\u53cb\u7206\u6599My Dash Wallet\u94b1\u5305\u5b58\u5728\u5b89\u5168\u6f0f\u6d1e\u3001\u5bfc\u81f4\u7528\u6237\u8d44\u91d1\u635f\u5931\u4e00\u4e8b\uff0c\u6210\u90fd\u94fe\u5b89\u6280\u672f\u56e2\u961f\u505a\u51fa\u8be6\u7ec6\u5206\u6790\uff1a \u5176\u4e3b\u8981\u539f\u56e0\u5728\u4e8e\u5728\u7ebf\u94b1\u5305 https://mydashwallet.org\u00a0\u7528\u6237\u5728\u521b\u5efaHD\u94b1\u5305\u548c\u89e3\u9501HD\u94b1\u5305\u65f6\uff0c\u7f51\u9875\u63d2\u4ef6\u4f1a\u5c06\u7528\u6237\u7684keystore\u52a0\u5bc6\u6570\u636e\u4ee5\u53ca\u89e3\u5bc6\u5bc6\u7801\u4ee5post\u7684\u65b9\u5f0f\u53d1\u9001\u5230 https://api.dashcoinanalytics.com/stats.php\u00a0\u4e2d\u3002 \u00a0 \u5177\u4f53\u5206\u6790\u6b65\u9aa4\u5982\u4e0b\uff1a\u2026",
+        "publishedAt": "2019-07-11T10:07:37.000Z",
+        "title": "\u5b89\u5168\u9884\u8b66\uff1aMy Dash Wallet\u5728\u7ebf\u94b1\u5305\u5b58\u5728\u201c\u5173\u952e\u201d\u6f0f\u6d1e \u7528\u6237\u8d44\u91d1\u9762\u4e34\u98ce\u9669_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d270ef01af7e400113ab109?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d26cd411af7e400111492df",
+        "hotness": 72352.98731481482,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 1,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u524d\u8a00\uff1a \u6628\u65e5\u5929\u91cf\u7838\u76d8\uff0c\u521b\u4e0b\u4e86\u5e01\u5708\u6709\u53f2\u4ee5\u6765\u6700\u9ad8\u7684\u8d44\u91d1\u7838\u76d8\u8bb0\u5f55\uff0c\u8fd9\u4e00\u70b9\u4e5f\u662f\u884c\u60c5\u4e0a\u653b\u53d7\u538b\u56de\u843d\u7684\u91cd\u8981\u539f\u56e0\uff0c\u5f15\u8d77\u4e86\u76d8\u9762\u6050\u614c\u8e29\u8e0f\uff0c\u4f46\u76ee\u524d\u5927\u997c\u4e0b\u65b9\u652f\u6491\u5408\u529b\u8fdc\u5927\u8fc7\u5176\u4ed6\u5e01\u79cd\uff0c\u51fa\u73b0\u4e86\u4e00\u5b9a\u6027\u6297\u8dcc\u884c\u60c5\uff0c\u6240\u4ee5\u63a5\u4e0b\u6765\uff0c\u5206\u5f00\u5bf9\u5f85\uff0c\u5927\u997c\u56de\u843d\u81f3\u5173\u952e\u652f\u6491\u9644\u8fd1\u53ef\u591a\u5355\u8ddf\u8fdb\uff0c\u4e00\u5b9a\u8981\u53ca\u65f6\u6b62\u76c8\u6b62\u635f\uff01\u5176\u4f59\u5e01\u79cd\u7ee7\u7eed\u7a7a\u6295\u5bf9\u5f85\u3002 \u6d88\u606f\u9762\uff1a 1.\u5317\u4eac\u65f6\u95f47\u670810\u65e5\uff0c\u6bd4\u7279\u5e01\u5e02\u503c\u5360\u5168\u7403\u52a0\u5bc6\u5e02\u573a\u603b\u5e02\u503c\u768465.1%\uff0c\u521b2017\u5e744\u6708\u4ee5\u6765\u65b0\u9ad8\u3002 2.\u7ebd\u7ea6\u603b\u68c0\u5bdf\u957f\u529e\u516c\u5ba4\u8c03\u67e5Tether\u7684\u542c\u8bc1\u4f1a\u5c06\u4e8e7\u670829\u65e5\u4e3e\u884c\u3002 3..\u7f8e\u8054\u50a8\u59d4\u4e3b\u5e2d\u8868\u793a\uff0c\u5728Facebook\u89e3\u51b3\u76d1\u7ba1\u4ee5\u53ca\u6d17\u94b1\u95ee\u9898\u4e4b\u524d\uff0c\u4e0d\u5e94\u63a8\u51fa\u5929\u79e4\u5e01\u3002David\u2026",
+        "publishedAt": "2019-07-11T05:19:26.000Z",
+        "title": "\u884c\u60c5\u5206\u6790\uff1a\u6bd4\u7279\u5e01\u88ab\u5929\u91cf\u7838\u76d8\uff0c\u626d\u8f6c\u8d8b\u52bf\u4e4b\u4e0b\uff0c\u5982\u4f55\u5e94\u5bf9\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d26cd411af7e400111492df?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d268d661af7e40011f0196a",
+        "hotness": 72352.25847222222,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 9,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "\u5728\u6740\u6bd2\u8f6f\u4ef6\u4e4b\u7236John McAfee\u9876\u7740IRS\u4e0b\u53d1\u7684\u7a0e\u6536\u901a\u7f09\u65f6\uff0c\u5176\u6b63\u5728\u5df4\u54c8\u9a6c\u7684\u67d0\u4e2a\u5c0f\u6e38\u8247\u4e0a\u5ba3\u626c\u7740\u8981\u7ade\u9009\u7f8e\u56fd\u603b\u7edf\u7684\u8c6a\u8a00\u58ee\u5fd7\u3002 \u5728\u6b64\u4e4b\u524d\uff0c\u56e0\u5229\u7528BTC\u3001ETH\u8d70\u94b1\uff0cMcAfee\u5df2\u7ecf8\u5e74\u6ca1\u62a5\u8fc7\u7a0e\u4e86\u3002 \u5b9e\u9645\u4e0a\uff0cMcAfee\u7684\u9003\u7a0e\u884c\u4e3a\u53ea\u662f\u4f17\u591a\u52a0\u5bc6\u7528\u6237\u7684\u7f29\u5f71\u3002\u7531\u4e8e\u52a0\u5bc6\u8d27\u5e01\u672c\u8eab\u7684\u533f\u540d\u6027\u548c\u5bf9\u52a0\u5bc6\u8d27\u5e01\u5b9a\u4e49\u5206\u7c7b\u7b49\u95ee\u9898\uff0c\u653f\u5e9c\u90e8\u95e8\u5bf9\u52a0\u5bc6\u8d27\u5e01\u9886\u57df\u7684\u5f81\u7a0e\u4e00\u76f4\u96be\u4ee5\u6709\u6548\u5b9e\u65bd\u3002 \u7136\u800c\uff0c\u968f\u7740IRS\u4e00\u4efd\u5e7b\u706f\u7247\u7684\u62ab\u9732\uff0c\u8fd9\u4e00\u73b0\u72b6\u5f88\u53ef\u80fd\u4f1a\u5c31\u6b64\u6253\u7834\u3002 \u00a0 IRS\u63d0\u51fa\u4e86\u8c03\u67e5\u52a0\u5bc6\u7528\u6237\u7684\u6781\u7aef\u7b56\u7565 \u00a0 \u636eBitcoin.com\u62a5\u9053\uff0c\u8fd1\u65e5\uff0c\u7f8e\u56fd\u56fd\u7a0e\u5c40IRS\u516c\u5e03\u4e86\u4e00\u4efd\u5e7b\u706f\u7247\uff0c\u8be5\u5e7b\u706f\u7247\u8be6\u7ec6\u63cf\u8ff0\u4e86\u7a0e\u52a1\u673a\u6784\u5e94\u5982\u4f55\u5904\u7406\u4e0d\u4ea4\u7a0e\u7684\u6570\u5b57\u8d27\u5e01\u7528\u6237\u3002\u2026",
+        "publishedAt": "2019-07-11T00:57:03.000Z",
+        "title": "\u7f8e\u56fd\u56fd\u7a0e\u5c40\u7684\u4e00\u4efd\u5e7b\u706f\u7247\uff0c\u6253\u7834\u4f60\u5bf9\u52a0\u5bc6\u9690\u79c1\u7684\u7f8e\u597d\u613f\u666f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d268d661af7e40011f0196a?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d25f23e1af7e4001192ca45",
+        "hotness": 72350.38361111112,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 257,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u80cc\u666f \u6628\u65e5\u4e0b\u5348\u00a018:00 \u2013 18:14\uff08\u5317\u4eac\u65f6\u95f4 2019 \u5e74 7 \u6708 9 \u65e5\uff09\uff0c\u5e01\u5b89\u4ea4\u6613\u6240\u4e0a\u51fa\u73b0\u6bd4\u7279\u5e01\u5927\u989d\u5356\u5355\uff0c\u8fd1 7000 BTC \u5728 BTC/USDT \u4ea4\u6613\u5bf9\u4e0a\u6302\u5355\u51fa\u552e\u3002\u540c\u65f6\uff0cTokenGazer \u89c2\u5bdf\u5230\uff0c\u8fd1\u65e5\u5728\u706b\u5e01\u7f51\u4e0a\uff0cUSDT/RMB \u573a\u5916\u4ea4\u6613\u7684\u6ea2\u4ef7\u5df2\u7ecf\u6d88\u5931\uff0c\u751a\u81f3\u51fa\u73b0\u8d1f\u6ea2\u4ef7\u3002 \u5728\u6b64\u60c5\u51b5\u4e0b\uff0c\u6b64\u6b21\u6bd4\u7279\u5e01\u5de8\u989d\u629b\u552e\u5356\u51fa\u7684\u8fd1\u00a08000 \u4e07 USDT\u5bf9\u540e\u5e02\u53ef\u80fd\u9020\u6210\u7684\u5f71\u54cd\u4e0d\u5f97\u4e0d\u63a2\u7a76\u3002 \u6838\u5fc3\u89c2\u70b9 \u5e01\u5b89\u4e0a\u8fd1\u00a07000 BTC \u629b\u552e\u548c USDT/RMB \u6ea2\u4ef7\u6d88\u5931\u77ed\u671f\u5185\u5bf9\u4e3b\u6d41\u5e01\u5c24\u5176\u662f\u5c71\u5be8\u5e01\u662f\u8f83\u5927\u5229\u7a7a\uff0c\u5bf9\u6bd4\u7279\u5e01\u5219\u5f71\u54cd\u975e\u5e38\u6709\u9650 \u77ed\u671f\u5185\u4e3b\u6d41\u5e01\u548c\u5c71\u5be8\u5e01\u5bf9\u6bd4\u7279\u5e01\u6c47\u7387\u53cd\u5f39\u6982\u7387\u8f83\u4f4e\uff0c\u6bd4\u7279\u5e01\u5e02\u503c\u5360\u6bd4\u53ef\u80fd\u8fdb\u4e00\u6b65\u63d0\u5347\u2026",
+        "publishedAt": "2019-07-10T13:42:06.000Z",
+        "title": "\u6df1\u5ea6\u89e3\u6790\u5e02\u573a\u8d8b\u52bf\uff1a\u4e3b\u6d41\u5e01\u6216\u9762\u4e34\u5de8\u5927\u5229\u7a7a_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d25f23e1af7e4001192ca45?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d25d6bc1af7e4001181b379",
+        "hotness": 72350.07476851852,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 19,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "1 \u533a\u5757\u94fe\u7684\u4ef7\u503c \u533a\u5757\u94fe\u662f\u4e00\u4e2a\u591a\u526f\u672c\u5197\u4f59\u8ba1\u7b97\u673a\u7cfb\u7edf\uff0c\u5b83\u9700\u8981\u5728\u6bcf\u4e00\u4e2a\u5168\u8282\u70b9\u4e0a\u90fd\u4fdd\u5b58\u5e76\u8ba1\u7b97\u6570\u636e\u3002\u56e0\u6b64\u533a\u5757\u94fe\u7cfb\u7edf\u65e0\u8bba\u5982\u4f55\u8bbe\u8ba1\uff0c\u5176 IT \u6210\u672c\u4e00\u5b9a\u9ad8\u4e8e\u4e2d\u5fc3\u5316\u7cfb\u7edf\u3002\u6709\u6570\u636e\u663e\u793a 2 Bitcoin \u4ea4\u6613\u7684\u5e73\u5747\u8d39\u7528\u662f AWS \u4e91\u670d\u52a1\u7684\u5e73\u5747\u8d39\u7528\u7684\u6570\u767e\u4e07\u500d\u3002\u5373\u4f7f\u662f EOS \u8fd9\u79cd\u76f8\u5bf9\u4e0d\u90a3\u4e48\u53bb\u4e2d\u5fc3\u5316\u7684\u533a\u5757\u94fe\u7cfb\u7edf\uff0c\u5176\u7b49\u4ef7\u7684\u4ea4\u6613\u8d39\u7528\uff08\u8003\u8651\u5230\u79df\u501f\u6210\u672c\uff09\u4e5f\u662f\u4e91\u670d\u52a1\u8d39\u7528\u7684\u4e0a\u4e07\u500d\u3002\u56e0\u6b64\uff0c\u00a0\u533a\u5757\u94fe\u5fc5\u987b\u7528\u5176\u4ed6\u670d\u52a1\u63d0\u4f9b\u8db3\u591f\u9ad8\u7684\u6ea2\u4ef7\uff0c\u624d\u80fd\u7559\u4f4f\u7528\u6237\u3002 \u533a\u5757\u94fe\u4ea4\u6613\u8d39\u7528\u4e0e\u4e91\u670d\u52a1\u8d39\u7528\u5bf9\u6bd4\u53bb\u4e2d\u5fc3\u5316\u662f\u533a\u5757\u94fe\u6700\u5177\u4ee3\u8868\u6027\u7684\u7279\u5f81\u3002\u7136\u800c\u53bb\u4e2d\u5fc3\u5316\u7a76\u7adf\u5e26\u6765\u7684\u662f\u4ec0\u4e48\u4ef7\u503c\uff0c\u4ece\u9ad8\u4e3e\u8d27\u5e01\u975e\u56fd\u5bb6\u5316\u5927\u65d7\u7684 Bitcoin \u5230\u79ef\u6781\u62e5\u62b1\u76d1\u7ba1\u7684\u2026",
+        "publishedAt": "2019-07-10T11:50:55.000Z",
+        "title": "\u516c\u94fe\u7684\u4e24\u5927\u6f14\u8fdb\u65b9\u5411\u4e0e\u4ef7\u503c\u5206\u6790_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d25d6bc1af7e4001181b379?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d2593c01af7e40011584ab6",
+        "hotness": 72349.33712962964,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 80,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "2019 \u5e74 6 \u6708 19 \u65e5\u665a 6 \u70b9\uff0c\u9879\u76ee Algorand \u5f00\u542f\u4e86\u957f\u8fbe 5 \u5e74\u7684\u8377\u5170\u8f6e\u62cd\u5356\u4e2d\u7b2c\u4e00\u6b21\u8f6e\u62cd\u5356\uff0c\u5e76\u5728\u4e4b\u540e\u7684\u4e24\u5468\u5185\u83b7\u5f97\u4e86\u6781\u9ad8\u7684\u5173\u6ce8\u5ea6\u3002 \u00a0\u8fd9\u4e5f\u662f\u6b64\u7c7b\u62cd\u5356\u65b9\u5f0f\u7b2c\u4e8c\u6b21\u5e94\u7528\u4e8e\u5927\u578b\u533a\u5757\u94fe\u9879\u76ee\uff0c\u6b64\u524d\u53ea\u6709 Polkadot \u9879\u76ee\u5728 2017 \u5e74 10 \u6708\u7684\u65f6\u5019\u8fdb\u884c\u8fc7\u4e3a\u671f\u4e00\u5468\u7684\u8377\u5170\u8f6e\u62cd\u5356\uff0c\u5e76\u5728\u4e00\u5468\u5185\u7b79\u96c6\u4e86 48 \u4e07\u4e2a ETH\uff08\u5f53\u65f6\u4ef7\u503c 1.45 \u4ebf\u7f8e\u91d1\uff09\u3002\u76f8\u5bf9\u4e8e Algorand \u7684\u4f17\u7b79\uff0cPolkadot \u7684\u4f17\u7b79\u867d\u7136\u4e5f\u662f\u7528\u8377\u5170\u5f0f\u62cd\u5356\u7684\u65b9\u5f0f\uff0c\u4f46\u6301\u7eed\u65f6\u95f4\u8f83\u77ed\uff0c\u4e14\u4e0d\u5177\u5907\u4e00\u4e8c\u7ea7\u5957\u5229\u7684\u6761\u4ef6\uff0c\u53c2\u8003\u4ef7\u503c\u8f83\u5c0f\u3002 \u53e6\u5916\uff0c\u7ef4\u6301\u8f83\u957f\u65f6\u95f4\u7684\u4f17\u7b79\u4e5f\u53ea\u6709\u5728 EOS \u9879\u76ee ICO \u65f6\u53d1\u751f\u8fc7\uff0c\u5f53\u65f6 EOS \u9879\u76ee\u5b9e\u884c\u6bcf\u8fc7 23\u2026",
+        "publishedAt": "2019-07-10T07:25:22.000Z",
+        "title": "\u6df1\u5ea6\u89e3\u6790 Algorand \u7684\u8377\u5170\u5f0f\u62cd\u5356\u4e0e\u5957\u5229\u673a\u4f1a_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d2593c01af7e40011584ab6?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d235fc41af7e4001100a635",
+        "hotness": 72342.45736111111,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 26,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            }
+        ],
+        "description": "\u5f53\u524d\u7684\u52a0\u5bc6\u8d27\u5e01\u9886\u57df\uff0c\u4e5f\u8bb8\u6ca1\u6709\u5176\u4ed6\u7684\u52a0\u5bc6\u8d27\u5e01\u8d44\u4ea7\u4f1a\u6bd4 Tether \u66f4\u6613\u4e8e\u53d7\u5230\u5ba1\u67e5\u548c\u4e0d\u5f53\u6307\u63a7\u4e86\u3002\u8be5\u7a33\u5b9a\u5e01\u80cc\u540e\u7684\u521d\u521b\u516c\u53f8\u4e00\u76f4\u88ab\u6307\u8d23\u64cd\u7eb5\u5e02\u573a\uff0c\u5176\u4e1a\u52a1\u5f80\u6765\u548c\u4f1a\u8ba1\u5b9e\u52a1\u5f15\u53d1\u4e86\u8bb8\u591a\u62c5\u5fe7\u3002\u6279\u8bc4\u4eba\u58eb\u8ba4\u4e3a\uff0cTether \u7f3a\u4e4f\u900f\u660e\u5ea6\uff0c\u53ef\u80fd\u53c2\u4e0e\u72af\u7f6a\u6d3b\u52a8\uff0c\u800c\u4e14\u8be5\u7a33\u5b9a\u5e01\u6ca1\u6709\u5b83\u58f0\u79f0\u7684\u8d22\u52a1\u50a8\u5907\u652f\u6491\u3002 \u76ee\u524d\u7ebd\u7ea6\u603b\u68c0\u5bdf\u957f (NYAG) \u5bf9\u8be5\u516c\u53f8\u53ca\u5176\u6240\u6709\u8005 iFinex (iFinex \u662f Tether \u548c\u52a0\u5bc6\u8d27\u5e01\u4ea4\u6613 Bitfinex \u6240\u7684\u6bcd\u516c\u53f8) \u7684\u6307\u63a7\u5728\u4e00\u5b9a\u7a0b\u5ea6\u4e0a\u8bc1\u660e\u4e86\u4e0a\u8ff0\u6307\u63a7\u7684\u6b63\u786e\u6027\u3002\u800c\u6b64\u524d\u8bf8\u591a\u5a92\u4f53\u66fe\u62a5\u9053\u8fc7 Bitfinex \u6700\u8fd1\u507f\u8fd8\u4e86\u4ece Tether\u2026",
+        "publishedAt": "2019-07-08T14:08:39.000Z",
+        "title": "\u5907\u53d7\u8bdf\u75c5\u7684 Tether \u4e3a\u4f55\u4f9d\u65e7\u5c79\u7acb\u4e0d\u5012\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d235fc41af7e4001100a635?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d1ddb4c1af7e40011730f2c",
+        "hotness": 72325.89092592594,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 4,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "\u81ea\u5f00\u6625\u4ee5\u6765\uff0c\u968f\u7740\u6bd4\u7279\u5e01\u4ef7\u683c\u7684\u4e0d\u65ad\u6500\u5347\uff0c\u5e02\u573a\u4e5f\u9010\u6e10\u5f00\u59cb\u56de\u6696\uff0c\u5bf9\u4e8e\u533a\u5757\u94fe\u53d1\u5c55\u548c\u5546\u4e1a\u5e94\u7528\u843d\u5730\u7684\u5173\u6ce8\u548c\u8ba8\u8bba\u4e5f\u6b63\u5728\u79ef\u6781\u5730\u5f71\u54cd\u7740\u6574\u4e2a\u884c\u4e1a\u3002\u8fd1\u65e5\uff0c\u6bd4\u539f\u94fe\u6bb5\u65b0\u661f\u5e94\u9080\u51fa\u5e2d\u5168\u7403\u6570\u5b57\u7ecf\u6d4e\u5e94\u7528\u9ad8\u5cf0\u8bba\u575b\uff0c\u5e76\u4ee5\u300a\u533a\u5757\u94fe\uff1a\u4ece\u4e09\u89d2\u5047\u8bf4\u5230\u6269\u5c55\u6a21\u578b\u300b\u4e3a\u4e3b\u9898\u53d1\u8868\u4e86\u6f14\u8bb2\uff0c\u9610\u8ff0\u4e86\u5bf9\u533a\u5757\u94fe\u884c\u4e1a\u672a\u6765\u53d1\u5c55\u7684\u4e00\u4e9b\u601d\u8003\u3002 \u4ee5\u4e0b\u662f\u6f14\u8bb2\u5185\u5bb9\u6574\u7406\u3002 \u00a0 \u533a\u5757\u94fe\u7684\u6f14\u8fdb\u4e4b\u8def \u00a0 \u5176\u5b9e\u4ece\u8bcd\u6c47\u7684\u53d8\u8fc1\u53ef\u4ee5\u770b\u51fa\u533a\u5757\u94fe\u6f14\u8fdb\u7684\u5927\u81f4\u8109\u7edc\u3002\u57282013\u5e74\u4ee5\u524d\u4eba\u4eec\u666e\u904d\u63d0\u5230\u7684\u662f\u6bd4\u7279\u5e01\u201cbitcoin\u201d\u2026",
+        "publishedAt": "2019-07-04T10:44:44.000Z",
+        "title": "\u6bd4\u539f\u94fe\u6bb5\u65b0\u661f\uff1a\u533a\u5757\u94fe\u2014\u2014\u4ece\u4e09\u89d2\u5047\u8bf4\u5230\u6269\u5c55\u6a21\u578b_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d1ddb4c1af7e40011730f2c?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d1aad754e4b4e001b125ffe",
+        "hotness": 72316.2289351852,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 7,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Ripple\u9996\u5e2d\u6280\u672f\u5b98David Schwartz\u5728\u63a5\u53d7\u300a\u8d22\u5bcc\u300b\u6742\u5fd7\u91c7\u8bbf\u65f6\u8c08\u5230\u4e86xRapid\u7684\u4e3b\u8981\u76ee\u6807\uff0c\u4ee5\u53ca\u8be5\u516c\u53f8\u76ee\u524d\u9762\u4e34\u7684\u63d0\u9ad8XRP\u5e02\u573a\u91c7\u7528\u7387\u7684\u95ee\u9898\u3002Schwartz\u8868\u793a\uff0c\u7531\u4e8e\u76d1\u7ba1\u9650\u5236\uff0c\u94f6\u884c\u901a\u5e38\u4e0d\u5e0c\u671b\u5728\u5176\u7cfb\u7edf\u4e2d\u6301\u6709XRP\u3002\u4e3a\u4e86\u89e3\u51b3\u8fd9\u4e2a\u95ee\u9898\uff0cRipple\u6709\u610f\u5efa\u7acb\u4e00\u4e2axRapid\u5b9e\u4f53\uff0cxRapid\u5b9e\u4f53\u5141\u8bb8\u652f\u4ed8\u516c\u53f8\u6216\u5ba2\u6237\u4f7f\u7528\u6570\u5b57\u8d44\u4ea7\u8d2d\u4e70\u6cd5\u5b9a\u8d27\u5e01\uff0c\u53cd\u4e4b\u4ea6\u53ef\u4e3a\u94f6\u884c\u63d0\u4f9b\u8fd9\u4e9b\u8d27\u5e01\u3002Schwartz\u79f0\u8fd9\u79cd\u89e3\u51b3\u65b9\u6848\u53ef\u4ee5\u7ed5\u8fc7\u9488\u5bf9\u6570\u5b57\u8d44\u4ea7\u516c\u53f8\u8bbe\u7f6e\u7684\u9650\u5236\u3002\u2026",
+        "publishedAt": "2019-07-02T00:46:25.000Z",
+        "title": "Ripple CTO\uff1aRipple\u8ba1\u5212\u542f\u52a8\u201c\u9006\u6d41\u201d\u670d\u52a1\u4ee5\u63a8\u52a8XRP\u4ea4\u6613\u91cf\u63d0\u9ad8_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d1aad754e4b4e001b125ffe?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d11864b16f2ba001a8413ea",
+        "hotness": 72288.45619322569,
+        "activityHotness": 0.10198026272961798,
+        "primaryCategory": "General",
+        "words": 170,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "\u6211\u77e5\u9053\u4f60\u4eec\u6700\u8fd1\u51e0\u5929\u90fd\u88ab\u6709\u5173 Libra \u7684\u6d88\u606f\u5237\u5c4f\u4e86\uff0c\u6240\u4ee5\u8fd9\u91cc\u6709\u4e00\u70b9\u7cbe\u795e\u6170\u85c9\uff1a\u672c\u6587\u4e0d\u4f1a\u63d0\u53ca Libra \u7684\u76f8\u5173\u4fe1\u606f\uff0c\u5728\u8fd9\u91cc\u6211\u4eec\u5c06\u56de\u987e\u4e00\u4e9b\u6700\u65b0\u7684\u4ee5\u592a\u574a 2.0\u5f00\u53d1\u8fdb\u5c55\u3002 \u672c\u6587\u7684\u5185\u5bb9\u4e0d\u662f\u975e\u5e38\u5168\u9762\u7684\uff0c\u8fd9\u4e9b\u5929\u53d1\u751f\u7684\u4e8b\u60c5\u592a\u591a\u4e86\u3002\u6211\u5c06\u628a\u8fc7\u53bb\u51e0\u5468\u79ef\u7d2f\u7684\u5404\u79cd\u7247\u6bb5\u6574\u7406\u6210\u4e00\u4e9b\u8fde\u8d2f\u7684\u4e1c\u897f\u3002 \u8ba9\u6211\u4eec\u4ece\u5f00\u53d1\u66f4\u65b0\u5f00\u59cb\u3002\u4f17\u6240\u5468\u77e5\uff0c\u4ee5\u592a\u574a 2.0\u7684\u4ea4\u4ed8\u8ba1\u5212\u5206\u4e3a\u4e09\u4e2a\u4e0d\u540c\u7684\u9636\u6bb5\u3002\u6700\u8fd1\u6700\u4ee4\u4eba\u5174\u594b\u7684\u662f\u6709\u5173\u9636\u6bb50 (\u63a5\u8fd1\u4fe1\u6807\u94fe\u5ba2\u6237\u7aef\u7684\u4e92\u64cd\u4f5c\u6027) \u548c\u9636\u6bb52 (\u4ee5\u592a\u574a 2.0\u8ba1\u7b97\u6a21\u578b\u7684\u5f00\u59cb) \u7684\u8fdb\u5c55\u3002 \u00a0 \u9636\u6bb50\uff1a\u4fe1\u6807\u94fe\u5b9e\u73b0 \u00a0 \u4fe1\u6807\u94fe (beacon chain) \u662f\u6574\u4e2a\u4ee5\u592a\u574a\u2026",
+        "publishedAt": "2019-06-25T02:07:31.000Z",
+        "title": "\u4ee5\u592a\u574a2.0\u8fdb\u5c55\u66f4\u65b0 (2019\u5e746\u6708)_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d11864b16f2ba001a8413ea?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d0acc60a30dc40011bb9cae",
+        "hotness": 72267.49716544792,
+        "activityHotness": 0.10198026272961798,
+        "primaryCategory": "General",
+        "words": 882,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45ee0",
+                "name": "Dynamic",
+                "slug": "dynamic",
+                "tradingSymbol": "DYN"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "Libra\u533a\u5757\u94fe \u767d\u76ae\u4e66\u4f5c\u8005\uff1aZachary Amsden, Ramnik Arora, Shehar Bano, Mathieu Baudet, Sam Blackshear, Abhay Bothra, George Cabrera,Christian Catalini, Konstantinos Chalkias, Evan Cheng, Avery Ching, Andrey Chursin, George Danezis,Gerardo Di Giacomo, David L. Dill, Hui Ding, Nick Doudchenko, Victor Gao, Zhenhuan\u2026",
+        "publishedAt": "2019-06-19T20:22:16.000Z",
+        "title": "Facebook Libra\u533a\u5757\u94fe\u6280\u672f\u767d\u76ae\u4e66\uff08\u4e2d\u6587\u7248\uff09_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d0acc60a30dc40011bb9cae?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d0a4e9fa30dc4001166c0d9",
+        "hotness": 72266.50745370371,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 20,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "6\u670818\u65e5\uff0cFacebook\u53d1\u5e03\u533a\u5757\u94fe\u9879\u76eeLibra\u7684\u767d\u76ae\u4e66\u3002\u51fa\u4e16\u5373\u738b\u8005\uff0c\u4e00\u65f6\u95f4\uff0cLibra\u7684\u6d77\u5578\u4e00\u4e0b\u5b50\u5e2d\u5377\u4e86\u52a0\u5bc6\u8d27\u5e01\uff0c\u4e43\u81f3\u6574\u4e2a\u91d1\u878d\u3001\u79d1\u6280\u884c\u4e1a\u3002\u767d\u76ae\u4e66\u53d1\u5e03\u524d\uff0c\u300aFacebook\u6570\u5b57\u8d27\u5e01\uff1a\u7f18\u8d77\u3001\u610f\u4e49\u548c\u540e\u679c\u300b\u4e00\u6587\u4e5f\u8ba9\u4eba\u62cd\u6848\u53eb\u7edd\u300219\u65e5\u665a\uff0c\u5df4\u6bd4\u7279\u793e\u533a\u8bbf\u8c08\u680f\u76eeSheKnows\u7279\u610f\u9080\u8bf7\u5230\u6587\u7ae0\u4f5c\u8005\u3001\u901a\u8bc1\u7ecf\u6d4e\u53d1\u8d77\u4eba\u3001CSDN\u526f\u603b\u88c1\u5b5f\u5ca9\uff0c\u5bf9\u767d\u76ae\u4e66\u8fdb\u884c\u6df1\u5ea6\u89e3\u8bfb\u3002 \u91d1\u53e5\u96c6\u9526\uff1a 1. \u533a\u5757\u94fe\u6700\u5927\u5b97\u7684\u5e94\u7528\u5c31\u662f\u5f00\u653e\u91d1\u878d\uff0c\u5c31\u662f\u628a\u4e00\u5c0f\u64ae\u4eba\u8eb2\u5728\u9ad8\u6863\u4f1a\u8bae\u5ba4\u91cc\u51b3\u5b9a\u5927\u591a\u6570\u4eba\u7684\u91d1\u878d\u6743\u5229\u8fd9\u4e2a\u4e8b\u60c5\u7ed9\u5b83\u7834\u6389\u3002Libra \u4e00\u4e0a\u6765\u5c31\u628a\u8fd9\u4e2a\u5b97\u65e8\u6311\u51fa\u6765\uff0c\u5f88\u6709\u80c6\u91cf\u3002 2. FB\u53d1\u5e01\u6709\u4e00\u5c0f\u90e8\u5206\u4e2d\u56fd\u4eba\u4f1a\u7d27\u5f20\uff0c\u62c5\u5fc3\u843d\u540e\uff0c\u4e0d\u662f\u6280\u672f\u843d\u540e\uff0c\u662f\u751f\u6001\u843d\u540e\u3002 3.\u2026",
+        "publishedAt": "2019-06-19T14:26:41.000Z",
+        "title": "\u5b5f\u5ca9\uff1a\u624e\u5c0f\u54e5\uff0c\u4f60\u8fd8\u80fd\u518d\u950b\u8292\u6bd5\u9732\u4e00\u70b9\u5417\uff1f\u4e28SheKnows\u6df1\u5ea6\u89e3\u8bfbLibra\u767d\u76ae\u4e66_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d0a4e9fa30dc4001166c0d9?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d0a9d45a30dc400119ccee2",
+        "hotness": 72266.46236111112,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 25,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            }
+        ],
+        "description": "6\u670819\u65e5\uff0cMixin Network CEO \u51af\u6653\u4e1c\u5728\u5df4\u6bd4\u7279\u5728\u7ebf\u76f4\u64ad\u8282\u76eeShe Knows\u4e2d\u8868\u793a\uff0cMixin network\u4e0eLibra\u4e0d\u540c\u7684\u5730\u65b9\u5728\u4e8e \uff0cMixin \u6ca1\u6709\u91c7\u7528\u533a\u5757\u94fe\uff0c \u800c\u662f\u91c7\u7528\u4e86 DAG\uff0c\u4ea4\u6613\u6700\u7ec8\u786e\u8ba4\u66f4\u5feb\u4e00\u4e9b\u3002Libra \u7684\u8282\u70b9\u52a0\u5165\u662f\u4e00\u79cd\u8054\u76df\u94fe\u7684\u6a21\u5f0f\uff0c\u9700\u8981\u4eba\u4e3a\u7684\u8d44\u683c\u5ba1\u6838\uff0c\u800c Mixin \u7684\u8282\u70b9\u662f\u5b8c\u5168\u516c\u5f00\u81ea\u7531\u52a0\u5165\u7684\u3002\u5728\u9690\u79c1\u65b9\u9762\uff0cMixin \u4e0e Libra \u7684\u601d\u60f3\u57fa\u672c\u4e00\u81f4\uff0c\u4e0d\u652f\u6301\u50cf Monero \u4e00\u6837\u7684\u4e0d\u53ef\u8ffd\u8e2a\u7684\u4ea4\u6613\u3002\u4f46\u662f Mixin \u7684\u8d26\u6237\u9690\u79c1\u66f4\u597d\uff0c\u91c7\u7528\u4e86\u7c7b\u4f3c CryptoNote \u4e00\u6837\u7684\u53cc\u79c1\u94a5\u601d\u8def\uff0c\u786e\u4fdd\u6ca1\u4eba\u80fd\u516c\u5f00\u67e5\u8be2\u81ea\u5df1\u7684\u4ea4\u6613\u8bb0\u5f55\u548c\u8d26\u6237\u4f59\u989d\u3002\n",
+        "publishedAt": "2019-06-19T14:10:27.000Z",
+        "title": "\u5df4\u6bd4\u7279SheKnows\u4e28Mixin Network CEO \u51af\u6653\u4e1c\uff1a\u7531\u4e8e\u91c7\u7528\u4e86\u7c7b\u4f3c CryptoNote\u7684\u53cc\u79c1\u94a5\u601d\u8def\uff0cMixin \u7684\u8d26\u6237\u9690\u79c1\u4f18\u4e8eLibra_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d0a9d45a30dc400119ccee2?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d08466dea47b9001bd9f7a8",
+        "hotness": 72260.42328703705,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 17,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d8e9a749f28d561056730b",
+                "name": "REX",
+                "slug": "real-estate-tokens",
+                "tradingSymbol": "rex"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u4eca\u65e5\u51cc\u6668\uff0cBM \u5728\u7535\u62a5\u7fa4\u4e0e\u793e\u533a\u6210\u5458\u79ef\u6781\u4ea4\u6d41\uff0c\u5206\u4eab\u4e86\u4ed6\u5bf9\u4e8e\u6295\u7968\u8d3f\u9009\u95ee\u9898\u7684\u89e3\u51b3\u601d\u8def\uff1a 1.\u201c\u5982\u679c\u4f60\u60f3\u8981\u9f13\u52b1\u771f\u6b63\u6301\u6709 EOS \u7684\u4eba\uff0c\u5e76\u963b\u6b62\u8d3f\u9009\uff0c\u90a3\u4e48\u6700\u597d\u7684\u89e3\u51b3\u65b9\u6848\u662f\uff1a\u7528\u901a\u8d27\u81a8\u80c0\u652f\u4ed8\u90a3\u4e9b\u672a\u6295\u7968\u7684\u4eba\uff0c\u800c\u4e14\u652f\u4ed8\u7684\u94b1\u6bd4\u90a3\u4e9b\u6295\u7968\u8d3f\u9009\u7684\u51fa\u4ef7\u66f4\u9ad8\u3002\u4ea4\u6613\u6240\u5c06\u4f1a\u503e\u5411\u4e8e\u9009\u62e9\u5229\u6da6\u66f4\u9ad8\u7684\u4e00\u65b9\uff0c\u8d3f\u9009\u95ee\u9898\u4e5f\u5c31\u89e3\u51b3\u4e86\u3002\u201d\u56e0\u6b64\uff0cBM \u63d0\u8bae\uff0c\u6539\u53d8 REX \u5956\u52b1\u673a\u5236\uff1a\u65e2\u4e0d\u8981\u6c42\u6295\u7968\u4ee5\u53ca\u4ee3\u7406\u6295\u7968\uff0c\u8fd9\u6837\u53ef\u4ee5\u8ba9\u4eba\u4eec\u5728\u63a7\u5236\u6743\u4e0e\u5229\u6da6\u4e4b\u95f4\u505a\u51fa\u9009\u62e9\u3002 2.\u6709\u793e\u533a\u6210\u5458\u63d0\u95ee\uff1a\u201c\u8fd9\u4e2a\u65b9\u6848\u4e0e 1\u79681\u6295\u5236\u76f8\u6bd4\u597d\u5728\u54ea\uff1f\u201d BM \u56de\u590d\uff1a\u201c\u56e0\u4e3a1\u79681\u6295\u6ca1\u6709\u529e\u6cd5\u9632\u6b62\u5206\u88c2\u6295\u7968\u95ee\u9898\uff08\u5373\u6301\u6709\u8005\u53ef\u4ee5\u5c06\u624b\u4e2d\u7684EOS\u62c6\u5206\u4e3a\u591a\u4e2a\u4efd\uff0c\u7136\u540e\u6295\u7ed9\u4e0d\u540c\u7684\u2026",
+        "publishedAt": "2019-06-18T01:56:23.000Z",
+        "title": "BM\u5206\u4eab\u5173\u4e8e\u6295\u7968\u8d3f\u9009\u95ee\u9898\u7684\u89e3\u51b3\u601d\u8def_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d08466dea47b9001bd9f7a8?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d030aa062336e001b57d83f",
+        "hotness": 72244.55604132939,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "General",
+        "words": 3,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dda",
+                "name": "ChainLink",
+                "slug": "chainlink",
+                "tradingSymbol": "LINK"
+            }
+        ],
+        "description": "\u672c\u5468\u56db\uff0c\u79d1\u6280\u5de8\u5934\u8c37\u6b4c\u4e91\u7684\u5f00\u53d1\u8005\u5728\u4e00\u7bc7\u535a\u5ba2\u6587\u7ae0\u4e2d\u8868\u793a\uff0c\u4f7f\u7528\u8c37\u6b4c\u8f6f\u4ef6\u7684\u4ee5\u592a\u574a\u5e94\u7528\u6784\u5efa\u8005\uff0c\u5c06\u901a\u8fc7\u4f7f\u7528ChainLink\u7684Oracle\u667a\u80fd\u5408\u7ea6\uff0c\u6574\u5408\u6765\u81ea\u533a\u5757\u94fe\u5916\u90e8\u6765\u6e90\u7684\u6570\u636e\u3002\u8fd9\u5c31\u4f7f\u5f97\u9884\u6d4b\u5e02\u573a\u3001\u671f\u8d27\u5408\u7ea6\u4ee5\u53ca\u4ea4\u6613\u9690\u79c1\u7b49\u8bf8\u591a\u533a\u5757\u94fe\u7528\u4f8b\u62e5\u6709\u4e86\u66f4\u5927\u7684\u53ef\u80fd\u3002 \u8c37\u6b4c\u4e91\u7684\u9ad8\u7ea7\u5f00\u53d1\u8005Allen Day\u5199\u9053\uff0cChainlink\u53ef\u5145\u5f53\u667a\u80fd\u5408\u7ea6\u4e0e\u73b0\u5b9e\u4e16\u754c\u6570\u636e\u7684\u4e2d\u95f4\u4ef6\uff0c\u8ba9\u53bb\u4e2d\u5fc3\u5316\u5e94\u7528\uff08DApp\uff09\u65e0\u9700\u4f9d\u8d56\u4e2d\u5fc3\u5316\u7684oracle\u83b7\u5f97\u94fe\u4e0b\u8f93\u5165\u6570\u636e\u3002 (\u56fe\u7247\u6765\u81ea\uff1a\u8c37\u6b4c\u4e91)\u2026",
+        "publishedAt": "2019-06-14T02:43:49.000Z",
+        "title": "\u8c37\u6b4c\u653e\u5927\u62db\uff0c\u4f7f\u7528ChainLink Oracle\u6784\u5efa\u6df7\u5408\u4e91\u533a\u5757\u94fe\u5e94\u7528_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d030aa062336e001b57d83f?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d0208cb4cc278001b28d325",
+        "hotness": 72241.4662962963,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 93,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "\u533a\u5757\u94fe\u5230\u5e95\u6709\u4ec0\u4e48\u7528\uff1f \u9488\u5bf9\u8fd9\u4e2a\u95ee\u9898\uff0c\u4ee5\u592a\u574a\u57fa\u91d1\u4f1a\u6210\u5458 Virgil Griffith \u66fe\u4ee5\u4ee5\u592a\u574a\u4e3a\u4f8b\uff0c\u63d0\u51fa\u4e86\u4e00\u4e2a\u8ba9\u4eba\u773c\u524d\u4e00\u4eae\u7684\u89c2\u70b9[t1]\uff1a Ethereum is an unprecedented arena for playing cooperative games\uff08\u4ee5\u592a\u574a\u662f\u524d\u6240\u672a\u6709\u7684\u5408\u4f5c\u535a\u5f08\u7ade\u6280\u573a\uff09\u3002 \u533a\u5757\u94fe\u548c\u535a\u5f08\u8bba\u662f\u4e24\u4e2a\u4e0d\u540c\u7684\u9886\u57df\uff0c\u4e4d\u4e00\u770b\u4f3c\u4e4e\u5e76\u6ca1\u6709\u592a\u5927\u7684\u5173\u8054\u6027\uff0c\u4f46\u4e8b\u5b9e\u5e76\u975e\u5982\u6b64\u3002\u51e0\u4e4e\u6240\u6709\u7684\u535a\u5f08\u8bba\u7ecf\u5178\u6848\u4f8b\u90fd\u53ef\u4ee5\u501f\u52a9\u533a\u5757\u94fe\u6784\u5efa\u51fa\u65b0\u7684\u535a\u5f08\u5173\u7cfb\u3002Virgil Griffith \u5728\u4ed6\u7684\u6587\u7ae0\u4e2d\u4ee5\u4ee5\u592a\u574a\u4e3a\u57fa\u7840\uff0c\u501f\u7528\u535a\u5f08\u8bba\u4e2d\u7ecf\u5178\u7684\u6848\u4f8b\u89e3\u91ca\u4e86\u5982\u4f55\u5229\u7528\u533a\u5757\u94fe\u6765\u5efa\u7acb\u65b0\u7684\u535a\u5f08\u5173\u7cfb\u3002 \u00a0 1 \u4e24\u8d25\u4ff1\u4f24 or\u2026",
+        "publishedAt": "2019-06-13T08:11:52.000Z",
+        "title": "\u4e3a\u4ec0\u4e48\u8bf4\u533a\u5757\u94fe\u662f\u4e00\u5ea7\u5168\u65b0\u7684\u535a\u5f08\u7ade\u6280\u573a\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d0208cb4cc278001b28d325?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5d019d654cc278001bd5f2cb",
+        "hotness": 72240.1709950331,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "General",
+        "words": 1,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45df4",
+                "name": "TRON",
+                "slug": "tron",
+                "tradingSymbol": "TRX"
+            }
+        ],
+        "description": "\u672c\u6587\u662f\u62a5\u544a\u300aDApp\u201cAARRR\u201d\u7684\u80cc\u540e\uff1aETH/EOS/TRON\u4e09\u5927\u516c\u94feDApp\u7528\u6237\u753b\u50cf\u7814\u7a76\u300b\u7684\u5148\u5bfc\u7bc7\uff0c\u5c06\u4ece\u5b8f\u89c2\u5c42\u9762\u89c2\u5bdfETH\u3001EOS\u548cTRON\u5f53\u524d\u7684DApp\u751f\u6001\u73b0\u72b6\u548c\u7528\u6237\u884c\u4e3a\u73b0\u72b6\uff0c\u8bd5\u56fe\u5206\u6790DApp\u5728\u8fd0\u8425\u8868\u73b0\u80cc\u540e\u7684\u7528\u6237\u753b\u50cf\uff0c\u5e76\u57fa\u4e8e\u6b64\u4e3aDApp\u5f00\u53d1\u8005\u6216\u8fd0\u8425\u8005\uff08\u5305\u62ec\u793e\u533a\uff09\u63d0\u4f9b\u53d1\u5c55\u7b56\u7565\u53c2\u8003\u3002 \u00a0 \u62a5\u544a\u7ed3\u8bba\u901f\u89c8 \u00a0 1\u3001\u4e09\u6761\u516c\u94fe\u4e0a\u7684DApp\u5728\u62c9\u65b0\u3001\u6fc0\u6d3b\u3001\u7559\u5b58\u548c\u8f6c\u5316\u4e0a\u90fd\u8868\u73b0\u51fa\u4e24\u6781\u5206\u5316\u7684\u73b0\u8c61\u3002\u4f46\u4e3b\u5bfc\u7c7bDApp\u7c7b\u578b\u5e76\u4e0d\u4ee3\u8868\u7740\u7528\u6237\u884c\u4e3a\u7684\u504f\u597d\u65b9\u5411\uff0c\u5373ETH\u7684\u6e38\u620f\u7c7b\u3001EOS\u7684\u535a\u5f69\u7c7b\u548cTRON\u7684\u9ad8\u98ce\u9669\u7c7b\u867d\u4e3a\u4e3b\u5bfc\u7c7b\uff0c\u5176\u65b0\u589e\u7528\u6237\u6570\u91cf\u5374\u5e76\u975e\u6700\u591a\uff0cDAU\u3001\u7528\u6237\u7559\u5b58\u7387\u548c\u5e73\u5747\u5ba2\u5355\u4ef7\u4e5f\u975e\u6700\u9ad8\u3002\u2026",
+        "publishedAt": "2019-06-13T00:25:12.000Z",
+        "title": "\u8c01\u5728\u4f7f\u7528DApp\uff1fETH/EOS/TRON\u7528\u6237\u753b\u50cf\u5168\u63ed\u79d8_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5d019d654cc278001bd5f2cb?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cfc50fdb09cc300110adcaa",
+        "hotness": 72222.49925925926,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 4,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "\u6bd4\u7279\u5e01\u4e13\u5bb6Max Keiser\u8868\u793a\uff0c\u65e2\u7136Facebook\u5ba3\u5e03\u63a8\u51faGlobalCoin(\u6216\u79f0Libra)\uff0c Ripple (XRP)\u548c\u5927\u591a\u6570\u5176\u4ed6\u52a0\u5bc6\u8d27\u5e01\u5e94\u8be5\u8b66\u60d5\u4e86\u3002 \u5728Keiser\u770b\u6765\uff0cGlobalCoin\u5c06\u4f7f\u7ade\u4e89\u5e01\u53d8\u5f97\u65e0\u5173\u7d27\u8981\uff0c\u8fd9\u5305\u62ec\u745e\u6ce2\u5e01Ripple\uff08XRP\uff09\u3002\u6bd4\u7279\u5e01\u7684\u725b\u5e02\u8fd8\u5c06\u770b\u5230Facebook\u7684\u5e01\u6d88\u706d\u6389\u90a3\u4e9b\u5229\u7528\u52a0\u5bc6\u8d27\u5e01\u8fdb\u884c\u652f\u4ed8\u548c\u6c47\u6b3e\u7684\u516c\u53f8: \u201cFacebook\u7684\u5168\u7403\u7a33\u5b9a\u5e01\u2026\u2026FaceCoin\u6d88\u9664\u4e86\u5bf9\u5305\u62ecXRP\u5728\u5185\u7684\u6570\u767e\u79cd\u7ade\u4e89\u5e01\u7684\u9700\u6c42\u3002\u7ade\u4e89\u5e01\u7684\u672b\u65e5\u5373\u5c06\u6765\u4e34\u3002\u201d GlobalCoin\u5c06\u5982\u4f55\u5728\u6467\u6bc1Ripple\u7684\u540c\u65f6\u63a8\u52a8\u6bd4\u7279\u5e01\u7684\u53d1\u5c55 \u00a0\u2026",
+        "publishedAt": "2019-06-08T14:23:44.000Z",
+        "title": "\u745e\u6ce2\u5e01\u7b49\u7ade\u4e89\u5e01\u7684\u672b\u65e5\u5373\u5c06\u6765\u4e34\uff1f\u8fd9\u4f4d\u6bd4\u7279\u5e01\u4e13\u5bb6\u8ba4\u4e3aFacebook\u5c06\u6d88\u9664\u5bf9\u6570\u767e\u79cd\u7ade\u4e89\u5e01\u7684\u9700\u6c42_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cfc50fdb09cc300110adcaa?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cf84fbbb09cc300116bd95e",
+        "hotness": 72211.93513888889,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 405,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d8e9a749f28d561056730b",
+                "name": "REX",
+                "slug": "real-estate-tokens",
+                "tradingSymbol": "rex"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45ded",
+                "name": "Bancor",
+                "slug": "bancor",
+                "tradingSymbol": "BNT"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db3",
+                "name": "NEO",
+                "slug": "neo",
+                "tradingSymbol": "NEO"
+            }
+        ],
+        "description": "\u53ea\u662f\u79df\u8d41\u5728\u94fe\u4e0a\u7684\u518d\u73b0\u3002 \u7f16\u8005\u6309\uff1a\u5728 DAppTotal \u7684 DeFi \u9501\u4ed3\u4ef7\u503c\u6392\u884c\u699c\u4e0a\uff0cEOS REX \u7528 20 \u591a\u5929\u5c06 MakerDAO \u6324\u5230\u7b2c\u4e8c\u3002\u6211\u4eec\u81ea\u7136\u4f1a\u597d\u5947\u5176\u8fc5\u901f\u8d77\u91cf\u7684\u539f\u56e0\u3002\u8fd9\u80cc\u540e\u4e0d\u4ec5\u6d89\u53ca\u5230 EOS \u548c ETH \u4e24\u5927\u516c\u94fe\u751f\u6001\u7684\u8fd0\u884c\u673a\u5236\uff0c\u4e5f\u4e0e\u79df\u8d41\u548c\u501f\u8d37\u4e24\u79cd\u6a21\u5f0f\u7684\u5b9e\u9645\u9700\u6c42\u6709\u5173\u3002 \u5728\u4e86\u89e3EOSREX\u4e4b\u524d\uff0c\u6211\u4eec\u5148\u8bf4\u8bf4EOS\u7684\u8d44\u6e90\u5206\u914d\u673a\u5236\u3002 EOS \u7cfb\u7edf\u8d44\u6e90\u4e3b\u8981\u5206\u4e3a\u7f51\u7edc\u5e26\u5bbd\u8d44\u6e90\uff08NET\uff09\u3001CPU\u8ba1\u7b97\u8d44\u6e90\uff08CPU\uff09\u3001\u8fd0\u884c\u5185\u5b58\u8d44\u6e90\uff08RAM\uff09\u4e09\u79cd\u3002NET\u3001CPU \u5c5e\u4e8e\u5360\u7528\u578b\u8d44\u6e90\uff0c\u7528\u5b8c\u540e\u53ef\u4ee5\u91ca\u653e\u3002\u800c RAM \u5c5e\u4e8e\u6d88\u8017\u578b\u8d44\u6e90\uff0c\u7528\u5b8c\u540e\u4f1a\u51cf\u5c11\u3002\u800c\u8fd9\u4e09\u79cd\u8d44\u6e90\u7684\u83b7\u53d6\u90fd\u9700\u8981\u7528\u6237\u6765\u62b5\u62bc EOS token\u3002\u2026",
+        "publishedAt": "2019-06-05T23:00:39.000Z",
+        "title": "\u9501\u4ed3\u91cf\u8d85\u8fc7MakerDAO\u7684EOSREX\uff0c\u8fd8\u4e0d\u8db3\u4ee5\u5ba3\u544aDeFi\u7684\u672a\u6765_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cf84fbbb09cc300116bd95e?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cf7d7bdb09cc3001116d66b",
+        "hotness": 72210.43828703705,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 35,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            },
+            {
+                "_id": "5a7b930702ac032bc9978167",
+                "name": "aelf",
+                "slug": "aelf",
+                "tradingSymbol": "ELF"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc0",
+                "name": "Steem",
+                "slug": "steem",
+                "tradingSymbol": "STEEM"
+            }
+        ],
+        "description": "GitHub \u4e0a\u9879\u76ee\u7684\u6d3b\u8dc3\u6307\u6570\uff0c\u5728\u4e00\u5b9a\u7a0b\u5ea6\u4e0a\u4ee3\u8868\u4e86\u8fd9\u4e2a\u9879\u76ee\u7684\u5f00\u53d1\u72b6\u6001\u3002 \u9891\u7e41\u66f4\u65b0\u4ee3\u7801\u7684\u9879\u76ee\u6709\u53ef\u80fd\u6b63\u5904\u4e8e\u6784\u5efa\u548c\u5b8c\u5584\u4e2d\uff0c\u800c\u505c\u6b62\u66f4\u65b0\u4ee3\u7801\u7684\u9879\u76ee\uff0c\u8981\u4e48\u6ca1\u6709\u8fdb\u5c55\uff0c\u8981\u4e48\u592a\u5b8c\u7f8e\uff0c\u4e0d\u9700\u8981\u66f4\u591a\u7684\u66f4\u65b0\u5de5\u4f5c\u4e86\uff0c\u4f46\u8fd9\u662f\u4e00\u79cd\u6781\u4e3a\u7f55\u89c1\u7684\u73b0\u8c61\u3002 \u5728\u533a\u5757\u94fe\u9886\u57df\uff0cState of the Dapps \u4ece Github \u83b7\u53d6\u5305\u62ec\u6765\u81ea Ethereum\u3001 EOS\u3001 Steem \u548c xDai \u5e73\u53f0\u5f00\u6e90\u9879\u76ee\u7684 commits\u3001pushes\u3001issues \u548c pull requests \u7b49\u6570\u636e\uff0c\u5728\u4e00\u5b9a\u7a0b\u5ea6\u4e0a\u53cd\u6620\u4e86\u533a\u5757\u94fe\u884c\u4e1a\u5f00\u53d1\u8005\u7684\u771f\u5b9e\u6d3b\u8dc3\u5ea6\u3002 5\u6708\u4efd\uff0cGithub \u4e0a\u7684\u533a\u5757\u94fe\u9879\u76ee\u7684\u6d3b\u8dc3\u5ea6\u6392\u540d\u53d1\u751f\u4e86\u663e\u8457\u53d8\u5316\uff0c\u50cf\u2026",
+        "publishedAt": "2019-06-05T14:01:47.000Z",
+        "title": "5\u6708GitHub Top20\u699c\u5355\u63ed\u6653\uff0c\u533a\u5757\u94fe\u5f00\u53d1\u8005\u4eec\u6d3b\u8dc3\u5728\u8fd9\u4e9b\u9879\u76ee\u4e2d\u2026_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cf7d7bdb09cc3001116d66b?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cf5f15094725d00103c88fd",
+        "hotness": 72204.66290958393,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 9,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d8e9a749f28d5610567337",
+                "name": "GlobalCoin",
+                "slug": "globalcoin",
+                "tradingSymbol": "glc"
+            }
+        ],
+        "description": "\u5317\u4eac\u65f6\u95f46\u67082\u65e5\u4e0a\u53487\uff1a00\uff0cB1JUNE\u5927\u4f1a\u5982\u671f\u4e3e\u884c\uff0c\u5df4\u6bd4\u7279\u53d7\u9080\u524d\u5f80\u73b0\u573a\u3002\u5927\u4f1a\u4e0a\uff0cBlock.one\u53d1\u5e03\u4e86\u5305\u542b\u793e\u4ea4\u4ea7\u54c1Voice\u3001\u786c\u4ef6\u5b89\u5168\u79c1\u94a5EOS yubikey\u4ee5\u53caEOSIO 2.0\u5728\u5185\u7684\u56db\u4e2a\u4ea7\u54c1\u3002\u534a\u4e2a\u5c0f\u65f6\u4e0d\u5230\u7684\u53d1\u5e03\u4f1a\u8ba9\u5f88\u591aEOS\u7231\u597d\u8005\u76f4\u547c\u4e0d\u8fc7\u763e\uff0c\u5df4\u6bd4\u7279\u8054\u54083\u5bb6\u533a\u5757\u94fe\u5934\u90e8\u5a92\u4f53\u5728\u4f1a\u540e\u5bf9Block.one CEO Brendan Blumer\u8fdb\u884c\u4e86\u91c7\u8bbf\u3002Voice\u4e5d\u95ee\uff0cEOS\u4e5d\u95ee\uff0c\u4ee5\u53ca\u70ed\u70b9\u56db\u95ee\uff0c\u8fd9\u91cc\u6709\u4f60\u60f3\u77e5\u9053\u7684\u4e00\u5207\u3002 \u56fe\u4e2d\u5de6\u4e00\u4e3aBlock.one CEO Brendan Blumer \u00a0 Voice\u4e5d\u95ee\u2014\u2014\u63ed\u5f00Voice\u5e90\u5c71\u771f\u9762\u76ee \u00a0\u2026",
+        "publishedAt": "2019-06-04T03:21:35.000Z",
+        "title": "EOS\u53f2\u4e0a\u6700\u77ed\u53d1\u5e03\u4f1a\u4e4b\u540e\uff0c\u6211\u4eec\u627e\u5230B1 CEO\u201c\u72c2\u8f70\u6ee5\u70b8\u201d\u4e8622\u4e2a\u95ee\u9898_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cf5f15094725d00103c88fd?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cf4b30da1688d0010f3abf2",
+        "hotness": 72200.94133550985,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 1,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b930d02ac032bc99781ba",
+                "name": "Dai",
+                "slug": "dai",
+                "tradingSymbol": "dai"
+            }
+        ],
+        "description": "DeFi\u63d0\u4f9b\u4e86\u4e00\u4e2a\u4efb\u4f55\u4eba\u90fd\u53ef\u4ee5\u901a\u8fc7\u4e92\u8054\u7f51\u8bbf\u95ee\u7684\u91d1\u878d\u7cfb\u7edf\uff0c\u6210\u4e3a2019\u5e74\u533a\u5757\u94fe\u9886\u57df\u4e2d\u6700\u53d7\u5173\u6ce8\u7684\u8bdd\u9898\u4e4b\u4e00\u3002 \u76ee\u524d\uff0c\u6bcf\u4e2a\u6708\u7ea6\u6709275,000\u4e2aETH\u7528\u4e8e\u4fc3\u8fdbDeFi\u751f\u6001\u7cfb\u7edf\u7684\u53d1\u5c55\uff0c\u9884\u8ba1\u8fd9\u4e2a\u6570\u5b57\u8fd8\u5c06\u968f\u65f6\u95f4\u7684\u63a8\u79fb\u589e\u52a0\u30022017\u5e74\uff0c\u4ee5\u592a\u574aICO\u5f15\u7206\u4e86\u725b\u5e02\uff0cDeFi\u4f1a\u4e0d\u4f1a\u6210\u4e3a\u201c\u4e0b\u4e00\u4e2a\u201d\u725b\u5e02\u7206\u70b9\u5462\uff1f 5\u670831\u65e5\uff0c\u94fe\u8282\u70b9\u7b2c119\u671fAMA\uff0c125\u4f4d\u793e\u533a\u6210\u5458\u9488\u5bf9DeFi\u8fd9\u4e00\u70ed\u70b9\u7280\u5229\u63d0\u95ee\uff0c\u8fd1\u8ddd\u79bb\u5bf9\u8bddMakerDao\u4e2d\u56fd\u793e\u533a\u8d1f\u8d23\u4eba\u548cimToken\u4ea7\u54c1\u8d1f\u8d23\u4eba\u963f\u6811\uff0c\u5df4\u6bd4\u7279\u5c06\u5176\u4e2d\u7684\u7cbe\u534e\u6574\u7406\u51fa\u6765\uff0c\u5206\u4e3a3\u4e2a\u90e8\u5206\uff0c\u65b9\u4fbf\u5927\u5bb6\u56de\u987e\u3002 \u00a0 \u4e00\u3001\u5173\u4e8e\u53bb\u4e2d\u5fc3\u5316\u91d1\u878d\uff08DeFi\uff09 \u00a0 Defi\u5168\u540d\u4e3aDecentralized\u2026",
+        "publishedAt": "2019-06-03T05:01:49.000Z",
+        "title": "\u3010AMA\u3011\u4ee5\u592a\u574a\u80fd\u5426\u501f\u52a9DeFi\u5f15\u7206\u4e0b\u4e00\u8f6e\u725b\u5e02\uff1f| MakerDao & imToken_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cf4b30da1688d0010f3abf2?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cefab30d83cdf00107d09d4",
+        "hotness": 72185.70788827568,
+        "activityHotness": 0.10487901641694322,
+        "primaryCategory": "General",
+        "words": 16,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b930d02ac032bc99781ba",
+                "name": "Dai",
+                "slug": "dai",
+                "tradingSymbol": "dai"
+            }
+        ],
+        "description": "\u6574\u4e2a\u673a\u5236\u53ef\u4ee5\u7b80\u5355\u5212\u5206\u4e3a\u793e\u533a\u8ba8\u8bba\u3001\u6c11\u610f\u6295\u7968\u548c\u6267\u884c\u6295\u7968\u4e09\u4e2a\u6b65\u9aa4\u3002\u5728\u6267\u884c\u6295\u7968\u4e2d\uff0c\u7ef4\u6301\u7a33\u5b9a\u8d39\u7387\u4e0d\u52a8\u7684\u9009\u9879\u521d\u59cb\u7968\u6570\u4e3a\u4e0a\u4e00\u8f6e\u6267\u884c\u6295\u7968\u7684\u7968\u6570\uff0c\u7528\u6237\u53ef\u4ee5\u53d6\u8d70\u81ea\u5df1\u7684 MKR \u4ee5\u51cf\u5c11\u76f8\u5e94\u7684\u7968\u6570\uff0c\u540c\u65f6\uff0c\u7528\u6237\u4e5f\u53ef\u4ee5\u52a0\u6ce8\u8be5\u9009\u9879\u3002\u6c11\u610f\u6295\u7968\u4e2d\u83b7\u80dc\u7684\u9009\u9879\u5728\u6267\u884c\u6295\u7968\u4e2d\u521d\u59cb\u7968\u6570\u4e3a0\uff0c\u9700\u652f\u6301\u8be5\u9009\u9879\u7684\u7528\u6237\u4ece\u65b0\u6295\u7968\u3002\u2026",
+        "publishedAt": "2019-05-30T09:37:05.000Z",
+        "title": "\u53bb\u4e2d\u5fc3\u5316MakerDAO\uff0c\u662f\u5982\u4f55\u505a\u51fa\u300c\u5229\u7387\u8c03\u6574\u300d\u51b3\u7b56\u7684\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cefab30d83cdf00107d09d4?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cef295ca1d5ac0010d95635",
+        "hotness": 72184.13179847282,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 194,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc3",
+                "name": "Gas",
+                "slug": "gas",
+                "tradingSymbol": "GAS"
+            }
+        ],
+        "description": "Ethereum \u7684\u5386\u53f2\u4e2d\u4ece\u6765\u4e0d\u4e4f\u5bf9\u6838\u5fc3\u534f\u8bae\u7684\u6539\u8fdb\u548c\u5347\u7ea7\u3002\u5b8c\u6210\u4eca\u5e74\u4e8c\u6708\u7684\u541b\u58eb\u5766\u4e01\u5821\uff08Constantinople\uff09\u5347\u7ea7\u548c\u5373\u5c06\u5230\u6765\u7684\u4f0a\u65af\u5766\u5e03\u5c14\uff08Istanbul\uff09\u786c\u5206\u53c9\u4e4b\u540e\uff0c\u4ee5\u592a\u574a\u5c06\u8d70\u5411 Serenity\uff0c\u4e5f\u5c31\u662f\u4ee5\u592a\u574a\u6210\u957f\u7684\u6700\u7ec8\u9636\u6bb5\u3002\u6839\u636e Vitalik \u5728 2018 Devcon \u4e0a\u7684\u6f14\u8bb2\uff0cSerenity \u5c06\u5206\u4e3a\u51e0\u4e2a\u9636\u6bb5\uff0c\u4f30\u8ba1\u6bcf\u4e2a\u9636\u6bb5\u90fd\u4f1a\u7ef4\u6301\u4e00\u5e74\u3002\u4ee5\u592a\u574a 2.0\uff08\u4e5f\u5c31\u662f Serenity \u7684\u522b\u540d\uff09\u6709\u4e94\u9879\u8bbe\u8ba1\u539f\u5219\uff1a\u7b80\u6d01\u6027\u3001\u5f3a\u97e7\u6027\u3001\u6301\u4e45\u6027\u3001\u5b89\u5168\u6027\u548c\u53bb\u4e2d\u5fc3\u5316\uff0c\u5206\u9636\u6bb5\u9010\u6b65\u8d70\u5411 Serenity\uff0c\u6b63\u662f\u4e3a\u4e86\u4fdd\u8bc1\u6240\u6709\u539f\u5219\u90fd\u5f97\u5230\u4e86\u53d1\u5c55\u548c\u4fdd\u6301\uff0c\u8fdb\u4e00\u6b65\u5de9\u56fa\u4ee5\u592a\u574a\u5728\u533a\u5757\u94fe\u89e3\u51b3\u65b9\u6848\u4e2d\u4f5c\u4e3a\u5e02\u573a\u9886\u5bfc\u8005\u7684\u5730\u4f4d\u3002 \u00a0\u2026",
+        "publishedAt": "2019-05-30T00:10:23.000Z",
+        "title": "\u79d1\u666e | \u901a\u5f80 Serenity \u4e4b\u8def_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cef295ca1d5ac0010d95635?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cedff71a1d5ac0010f3d2da",
+        "hotness": 72180.66888180615,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 211,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b930d02ac032bc99781ba",
+                "name": "Dai",
+                "slug": "dai",
+                "tradingSymbol": "dai"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dca",
+                "name": "SALT",
+                "slug": "salt",
+                "tradingSymbol": "SALT"
+            },
+            {
+                "_id": "5a7b930902ac032bc9978179",
+                "name": "ETHLend",
+                "slug": "ethlend",
+                "tradingSymbol": "lend"
+            },
+            {
+                "_id": "59d8e9a749f28d561056730b",
+                "name": "REX",
+                "slug": "real-estate-tokens",
+                "tradingSymbol": "rex"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db8",
+                "name": "OmiseGO",
+                "slug": "omisego",
+                "tradingSymbol": "OMG"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u5728\u75af\u72c2\u8ffd\u6c42\u6743\u529b\u4e0b\u653e\u7684\u8fc7\u7a0b\u4e2d\uff0c\u91d1\u878d\u4e1a\u88ab\u89c6\u4e3a\u6700\u6709\u524d\u666f\u7684\u9886\u57df\u3002\u8003\u8651\u5230\u6bd4\u7279\u5e01\u548c\u533a\u5757\u94fe\u6280\u672f\u7684\u8d77\u6e90\uff0c\u8fd9\u5f88\u597d\u7406\u89e3\u3002\u4f46\u5728\u8fd9\u4e2a\u201c\u8fde\u5a74\u513f\u90fd\u88ab\u653e\u5728\u533a\u5757\u94fe\u4e0a\u201d\u7684\u65f6\u4ee3\uff0c\u5206\u5e03\u5f0f\u91d1\u878d\uff08DeFi\uff09\u7684\u51fa\u73b0\u4e3a\u52a0\u5bc6\u8d27\u5e01\u7684\u5b9e\u9645\u6548\u7528\u548c\u9002\u7528\u6027\u63d0\u4f9b\u4e86\u53ef\u559c\u7684\u8bc1\u660e\u3002 \u5c3d\u7ba1 DeFi \u6db5\u76d6\u4e86\u4ece\u6c47\u6b3e\u5230\u884d\u751f\u54c1\u548c\u6295\u8d44\u7b49\u66f4\u5e7f\u6cdb\u7684\u9886\u57df\uff0c\u4f46\u5b83\u6700\u6709\u524d\u9014\u7684\u9886\u57df\u5305\u62ec\u4fe1\u8d37\u548c\u653e\u8d37\u3002\u7531\u4e8e\u533a\u5757\u94fe\u7684\u5f00\u653e\u6027\uff0c\u5b89\u5168\u6027\u548c\u900f\u660e\u5ea6\uff0c\u5b83\u80fd\u4e3a\u66f4\u591a\u7684\u4eba\u53e3\u63d0\u4f9b\u4fe1\u8d37\u670d\u52a1\uff0c\u540c\u65f6\u533a\u5757\u94fe\u7684\u4e92\u64cd\u4f5c\u6027\u4e5f\u4e3a\u521b\u9020\u65b0\u7684\u8d37\u6b3e\u4ea7\u54c1\u548c\u670d\u52a1\u63d0\u4f9b\u4e86\u53ef\u80fd\u6027\u3002 \u5c3d\u7ba1 DeFi \u5728\u8fc7\u53bb\u7684\u4e00\u5e74\u5df2\u5927\u5e45\u6269\u5f20\uff0c\u5b83\u4ecd\u9700\u6295\u5165\u5927\u91cf\u5de5\u4f5c\u624d\u80fd\u4e0e\u4f20\u7edf\u91d1\u878d\u7cfb\u7edf\u7ade\u4e89\u3002\u53e6\u5916\uff0c\u7528\u6237\u5728\u4f7f\u7528\u65e9\u671f\u548c\u672a\u7ecf\u6d4b\u8bd5\u7684 DeFi\u2026",
+        "publishedAt": "2019-05-29T03:23:44.000Z",
+        "title": "\u4e3a\u4ec0\u4e48DeFi\u6bd4\u4f20\u7edf\u91d1\u878d\u7cfb\u7edf\u66f4\u9002\u5408\u505a\u501f\u8d37\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cedff71a1d5ac0010f3d2da?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5ce5111ab052a300173c6066",
+        "hotness": 72153.53560185185,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 27,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u6839\u636e\u4e00\u4efd\u65b0\u95fb\u7a3f\u663e\u793a\uff0c\u4ebf\u4e07\u5bcc\u8c6aMichael Novogratz\u521b\u529e\u7684\u52a0\u5bc6\u8d27\u5e01\u57fa\u91d1\u516c\u53f8\u94f6\u6cb3\u6570\u7801\u63a7\u80a1\u516c\u53f8\uff08Galaxy Digital Holding\uff09\u6b63\u5728\u51fa\u552e\u5176\u6301\u6709\u7684Block.one\u516c\u53f8\u80a1\u4efd\uff0c\u4f7f\u5176\u4e0d\u518d\u662fBlock.one\u7684\u201c\u5b9e\u9645\u6295\u8d44\u8005\u201d\u3002Galaxy Digital\u4e8e5\u670820\u65e5\u63a5\u53d7\u4e86\u5bf9\u5176\u6301\u6709\u7684\u666e\u901a\u80a1\u7684\u6536\u8d2d\u8981\u7ea6\u3002Block.one\u662fEOS\u80cc\u540e\u7684\u5f00\u53d1\u516c\u53f8\u3002 \u56fe\u7247\u6765\u6e90\uff1apixabay Galaxy\u2026",
+        "publishedAt": "2019-05-22T08:36:49.000Z",
+        "title": "Block.one\u5f00\u59cb\u5927\u89c4\u6a21\u56de\u8d2d10%\u80a1\u4efd\uff0c\u65e9\u671f\u6295\u8d44\u8005\u56de\u62a5\u7387\u5df2\u9ad8\u8fbe66\u500d_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5ce5111ab052a300173c6066?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5ce2534b320d3800106ea776",
+        "hotness": 72145.09775429235,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "General",
+        "words": 33,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "\u4eca\u65e9\u591a\u540d\u793e\u533a\u6210\u5458\u5728\u7535\u62a5\u7fa4\u5c31\u6295\u7968\u95ee\u9898\u4ea7\u751f\u70ed\u70c8\u8ba8\u8bba\u65f6\uff0cBM\u73b0\u8eab\u7535\u62a5\u7fa4\u5bf9\u6b64\u8bc4\u4ef7\uff1aDPoS \u4f5c\u4e3a\u5171\u8bc6\u7cfb\u7edf\u53ef\u5206\u4e3a\u4e24\u5c42\uff0c\u201cLayer 0\u201d\u5373 BP \u4eec\u8ba4\u540c\u7684\u6700\u4f73\u94fe\uff0c\u201cLayer 1\u201d\u5219\u6307\u8282\u70b9\u9009\u4e3e\u3002\u5728 Layer 1 \u4e0a\uff0cEOSIO \u8fd0\u7528 token \u6301\u6709\u8005\u5f62\u5f0f\u9009\u4e3e\u8d85\u7ea7\u8282\u70b9\uff0c\u4f46\u5f80\u5f80\u5bfc\u81f4\u4e2a\u4eba\u504f\u597d\u548c token \u5206\u914d\u5927\u5c0f\u4e00\u81f4\u7684\u7ed3\u679c\u3002\u82e5\u5c06 EOS \u5206\u914d\u7ed9\u201c\u6b63\u786e\u201d\u7684\u4eba\uff0c\u4e14\u56e0\u53bb\u4e2d\u5fc3\u5316\u548c\u4f18\u79c0 BP \u5019\u9009\u8005\u7684\u51fa\u73b0\uff0c\u5f88\u5feb\u5219\u80fd\u4f7f\u4eba\u4eba\u90fd\u611f\u5230\u6ee1\u610f\u3002\u6211\u8ba4\u4e3a\u8fd9\u6837\u7684\u4e00\u4e2a EOS \u7248\u672c\u5f88\u4e0d\u9519\uff1a\u5373 BP \u5e76\u4e0d\u662f\u7531\u793e\u533a\u9009\u4e3e\u4ea7\u751f\uff0c\u800c\u662f\u81ea\u6211\u8ba4\u547d\u3001\u6216\u6ee1\u8db3 2/3 \u4ee5\u4e0a\u6295\u7968\u6765\u589e\u52a0/\u79fb\u9664\u4efb\u4f55\u4e00\u4e2a\u8282\u70b9\u3002 \u5982\u679c\u5206\u914d\u7ed9\u4e0a\u8ff0 BP 5%\u2026",
+        "publishedAt": "2019-05-20T05:58:50.000Z",
+        "title": "BM\uff1a\u770b\u597dBP\u7531\u81ea\u6211\u8ba4\u547d\u800c\u4e0d\u662f\u793e\u533a\u9009\u4e3e\u4ea7\u751f\u7684EOS\u7248\u672c_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5ce2534b320d3800106ea776?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5ce1fb02320d3800103da191",
+        "hotness": 72144.1701104979,
+        "activityHotness": 0.10487901641694322,
+        "primaryCategory": "General",
+        "words": 1,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dcc",
+                "name": "Augur",
+                "slug": "augur",
+                "tradingSymbol": "REP"
+            }
+        ],
+        "description": "5\u670820\u65e5\u6d88\u606f\uff0c\u53bb\u4e2d\u5fc3\u5316\u9884\u6d4b\u5e02\u573a\u5e73\u53f0Augur \u8fd1\u65e5\u5ba3\u5e03Augur v1\u7248\u672c\u5c06\u57282019\u5e749\u670815\u65e5\u505c\u6b62\uff0c\u4ee5\u4fc3\u8fdb\u5411Augur v2 \u7248\u672c\u7684\u8fc7\u6e21\uff0c\u622a\u6b62\u65e5\u671f\u4e4b\u524d\u5230\u671f\u7684\u5e02\u573a\u8ba2\u5355\u4e0d\u4f1a\u53d7\u5230\u5f71\u54cd\uff0c\u622a\u6b62\u65e5\u671f\u4e4b\u540e\u5982\u679cv2 \u7248\u672c\u8fd8\u6ca1\u53d1\u5e03\uff0c\u4e4b\u524d\u7684\u9884\u6d4b\u5e02\u573a\u8ba2\u5355\u53ef\u80fd\u5b58\u5728\u65e0\u6cd5\u89e3\u51b3\u95ee\u9898\uff0c\u6709\u66f4\u9ad8\u7684\u53d1\u751f\u9519\u8bef\u6216\u8fdb\u884c\u5206\u53c9\u7684\u98ce\u9669\u3002\u636e\u6089\uff0cAugur v2 \u7248\u672c\u662fAugur\u534f\u8bae\u7684\u7b2c\u4e00\u6b21\u91cd\u5927\u5347\u7ea7\uff0cAugur v2\u5408\u540c\u4ee3\u7801\u5df2\u7ecf\u5b8c\u6210\uff0c\u73b0\u5728\u6b63\u5728\u8fdb\u884c\u5ba1\u6838\uff0c\u5e76\u5c06\u5728\u4eca\u5e74\u665a\u4e9b\u65f6\u5019\u53d1\u5e03\u3002 \u5907\u6ce8\uff1a\u90e8\u7f72v2\u540e\uff0cAugur v1\u4ecd\u5c06\u5b58\u5728\u4e8e\u4ee5\u592a\u574a\u4e3b\u7f51\u4e0a\uff0c\u56e0\u4e3a\u5b83\u65e0\u6cd5\u5173\u95ed\u6216\u6539\u53d8\u3002Augur v1\u548cAugur v2\u5c06\u5f7c\u6b64\u72ec\u7acb\u5b58\u5728\uff0c\u6bcf\u4e2a\u90fd\u4f7f\u7528\u5355\u72ec\u7684 REP \u7248\u672c\u3002\n",
+        "publishedAt": "2019-05-20T00:23:29.000Z",
+        "title": "Augur | \u5df4\u6bd4\u7279",
+        "url": "https://cryptocontrol.io/r/api/article/5ce1fb02320d3800103da191?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cdbc48c9764760011cda6de",
+        "hotness": 72125.38753921355,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 1410,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5a7b931702ac032bc997823b",
+                "name": "Mobius",
+                "slug": "mobius",
+                "tradingSymbol": "MOBI"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc3",
+                "name": "Gas",
+                "slug": "gas",
+                "tradingSymbol": "GAS"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "\u4ece\u67ec\u57d4\u5be8\uff0c\u65b0\u52a0\u5761\u5230\u9999\u6e2f\uff0c\u5317\u4eac\u548c\u4e0a\u6d77\uff0cRSK\u5728\u521a\u8fc7\u53bb\u7684\u4e00\u4e2a\u6708\u5706\u6ee1\u7684\u5b8c\u6210\u4e86\u4e9a\u6d32\u4e4b\u65c5\u3002\u8fd9\u4e2a\u5f00\u59cb\u4e8e2015\u5e74\uff0c\u4e0a\u7ebf\u4e8e2018\u5e74\u7684\u9879\u76ee\u5728\u6269\u5927\u751f\u6001\uff0c\u56de\u9988\u793e\u533a\u7684\u9053\u8def\u4e0a\u4e00\u76f4\u672a\u66fe\u505c\u6b47\u3002 RSK\u7684\u67b6\u6784\u73af\u5883\u201cRSK OS\u201d\u5143\u7d20\u4f17\u591a\uff0cRSK\u56e2\u961f\u5411\u5df4\u6bd4\u7279\u4ecb\u7ecd\u9053\uff1aRSK OS\u7684\u67b6\u6784\u4e2d\u5305\u62ecRIF Payments \uff08\u652f\u4ed8\uff09\uff0cRIF Data\uff08\u6570\u636e\uff09\uff0cRIF Gateways\uff08\u7f51\u5173\uff09\u7b49\u7248\u5757\uff1b\u5176\u4e2d\uff0cRIF Payments\uff08\u652f\u4ed8\u534f\u8bae\uff09\u662f\u6574\u4e2a\u67b6\u6784\u7684\u91cd\u4e2d\u4e4b\u91cd\uff0c\u5176\u53ef\u6269\u5c55\u6027\u4e5f\u662f\u9971\u53d7\u5173\u6ce8\u7684\u653b\u5173\u96be\u70b9\u3002\u5982\u679c\u5b83\u80fd\u591f\u6267\u884c\u63a5\u8fd1\u5b9e\u65f6\u7684\uff0c\u6781\u4f4e\u6210\u672c\u7684P2P\u652f\u4ed8\u548c\u6e05\u7b97\u529f\u80fd\uff0c\u90a3\u4e48RSK\u5728\u6280\u672f\u4e0a\u5c31\u80fd\u591f\u5b9e\u73b0\u201c\u4e3a\u4ebf\u4e07\u65e0\u94f6\u884c\u8d26\u6237\u7528\u6237\u63d0\u4f9b\u91d1\u878d\u670d\u52a1\u201d\u7684\u613f\u666f\u3002\u2026",
+        "publishedAt": "2019-05-15T07:42:27.000Z",
+        "title": "\u5bf9\u8bddRSK\uff1a\u5728Staking\u5927\u706b\u7684\u4eca\u5929\uff0c\u4e3a\u4ec0\u4e48\u4f9d\u7136\u575a\u6301PoW\u4e3a\u738b\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cdbc48c9764760011cda6de?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cdb87b29764760011a77457",
+        "hotness": 72124.65073026273,
+        "activityHotness": 0.10198026272961798,
+        "primaryCategory": "General",
+        "words": 10,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45e64",
+                "name": "Quantum",
+                "slug": "quantum",
+                "tradingSymbol": "qau"
+            }
+        ],
+        "description": "Facebook\u90fd\u53d1\u5e01\u4e86\uff0c\u4e9a\u9a6c\u900a\uff08Amazon\uff09\u4f1a\u4e0d\u4f1a\u6709\u540c\u6837\u7684\u4e3e\u63aa\u5462\uff1f\u636eAWS\uff08\u4e9a\u9a6c\u900a\u65d7\u4e0b\u4e91\u8ba1\u7b97\u670d\u52a1\u5e73\u53f0\uff09\u6240\u8bf4\uff0c\u8fd9\u5f88\u6709\u53ef\u80fd\u3002 \u8fd9\u4f4d\u6280\u672f\u5de8\u5934\u5185\u90e8\u6b63\u5728\u4f7f\u7528\u5176\u81ea\u4e3b\u7814\u53d1\u7684\u533a\u5757\u94fe\u6280\u672f\u3002\u5f53\u88ab\u95ee\u5230\u8be5\u516c\u53f8\u662f\u5426\u5c06\u5176\u4e1a\u52a1\u6269\u5c55\u5230\u533a\u5757\u94fe\u4e4b\u5916\u5e76\u8f6c\u5411\u52a0\u5bc6\u8d27\u5e01\u65f6\u2014\u2014\u5373\u662f\u5426\u4f1a\u6709\u4e9a\u9a6c\u900a\u5e01\u6216\u8005\u6574\u5408\u6bd4\u7279\u5e01\u652f\u4ed8\u2014\u2014AWS\u603b\u7ecf\u7406Rahul Pathak\u5728\u5171\u8bc6\u5927\u4f1a\u4e0a\u8868\u793a\uff0c\u4ed6\u4eec\u6301\u5f00\u653e\u6001\u5ea6\u3002 \u5982\u679c\u8fd9\u5bf9\u5ba2\u6237\u6765\u8bf4\u5f88\u91cd\u8981\uff0c\u6211\u4eec\u4f1a\u627e\u5230\u4e00\u79cd\u66f4\u6709\u610f\u4e49\u7684\u65b9\u6cd5\uff08\u6765\u5b9e\u73b0\uff09\u3002 \u4e9a\u9a6c\u900a\u76ee\u524d\u5411\u4f01\u4e1a\u5ba2\u6237\u63d0\u4f9b\u4e00\u4e2a\u4e9a\u9a6c\u900a\u91cf\u5b50\u6570\u636e\u5e93\uff08Amazon Quantum\u2026",
+        "publishedAt": "2019-05-15T03:17:33.000Z",
+        "title": "Facebook\u90fd\u53d1\u5e01\u4e86\uff0c\u4e9a\u9a6c\u900a\u8fd8\u4f1a\u8fdc\u5417\uff1fAWS\u603b\u7ecf\u7406\uff1a\u4e00\u5207\u7686\u6709\u53ef\u80fd_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cdb87b29764760011a77457?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cd2988694c2b8001060ef40",
+        "hotness": 72097.48389980782,
+        "activityHotness": 0.10769610411361284,
+        "primaryCategory": "General",
+        "words": 4,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "\u4eca\u6668\uff0c\u5927\u578b\u52a0\u5bc6\u8d27\u5e01\u4ea4\u6613\u6240\u5e01\u5b89\uff08Binance\uff09\u786e\u8ba4\u88ab\u76d77000\u4e2a\u6bd4\u7279\u5e01\uff0c\u5927\u91cf\u7528\u6237API\u5bc6\u94a5\uff0c2FA\u4ee3\u7801\u4ee5\u53ca\u5176\u4ed6\u53ef\u80fd\u7684\u4fe1\u606f\u88ab\u9ed1\u5ba2\u76d7\u53d6\uff0c\u4ece\u800c\u53d1\u52a8\u4e86\u672c\u6b21\u653b\u51fb\u3002 \u52a0\u5bc6\u8d27\u5e01\u88ab\u76d7\uff0c\u8fd9\u539f\u672c\u5728\u793e\u533a\u770b\u6765\u5e76\u4e0d\u7f55\u89c1\uff0c\u5e01\u5b89\u4e5f\u8868\u793a\u5c06\u901a\u8fc7SAFU\u57fa\u91d1cover\u6240\u6709\u635f\u5931\u3002\u4f46\u8fd9\u4e00\u5207\u90fd\u56e0\u4e3a\u4e00\u6761\u63a8\u7279\u53d8\u8d28\u4e86\u3002 @CZ\uff0c\u5982\u679c\u4f60\u516c\u5f00\u88ab\u76d7\u6bd4\u7279\u5e01\u7684\u79c1\u94a5\uff0c\u4f60\u53ef\u4ee5\u96f6\u6210\u672c\u534f\u8c03\u533a\u5757\u91cd\u7ec4\u6765\u64a4\u56de\u8fd9\u6b21\u653b\u51fb\u3002 \u53d1\u51fa\u8fd9\u6bb5\u8bdd\u7684\u662fMIT\u6570\u5b57\u8d27\u5e01\u8ba1\u5212\u8054\u5408\u53d1\u8d77\u4ebaJeremy Rubin\uff0c\u4ed6\u5efa\u8bae\u5e01\u5b89CEO\u8d75\u957f\u9e4f\uff08CZ\uff09\u91cd\u7ec4\u533a\u5757\uff0c\u4ece\u800c\u56de\u6eda\u4ea4\u6613\uff0c\u53d6\u56de\u88ab\u76d7\u8d44\u91d1\u3002\u2026",
+        "publishedAt": "2019-05-08T08:15:26.000Z",
+        "title": "\u5df4\u6bd4\u7279\u89c2\u5bdf | \u6bd4\u7279\u5e01\u793e\u533a\uff1a\u4e00\u88ab\u76d7\u5c31\u56de\u6eda\uff0c\u4f60\u5f53\u6211\u4eec\u662f\u4ee5\u592a\u574a\u5417\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cd2988694c2b8001060ef40?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cd13e471fe93a0011b93de2",
+        "hotness": 72093.39152133526,
+        "activityHotness": 0.10582689081239759,
+        "primaryCategory": "General",
+        "words": 12,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "\u4e3a\u4ec0\u4e48\u6295\u8d44\u9ec4\u91d1\uff1f\u4f60\u8fd8\u6d3b\u5728\u8fc7\u53bb\u5417\uff1f \u8fd1\u671f\uff0c\u4e00\u6bb5\u5e7f\u544a\uff08\u4e3b\u9898\u4e3aDropGold\uff09\u706b\u4e86\uff0c\u65e8\u5728\u6566\u4fc3\u6295\u8d44\u8005\u629b\u552e\u9ec4\u91d1\uff0c\u8f6c\u800c\u6295\u8d44\u6bd4\u7279\u5e01\u3002\u5e7f\u544a\u4e2d\u7684\u753b\u5916\u97f3\u662f\u201c\u4f60\u80fd\u770b\u5230\u4e8b\u60c5\u7684\u53d1\u5c55\u8d8b\u52bf\u201d\uff0c\u201c\u6bd4\u7279\u5e01\u7b49\u6570\u5b57\u8d27\u5e01\u5c31\u662f\u672a\u6765\u201d\u3002 \uff08DropGold\u5e7f\u544a\u622a\u56fe\uff0c\u56fe\u7247\u6765\u6e90\uff1a\u63a8\u7279\uff09 \u8fd9\u5219\u5e7f\u544a\u6765\u81ea\u4e8eGrayscale Investments\uff0c\u8be5\u516c\u53f8\u662fGrayscale Bitcoin Trust\uff08GBTC\uff09\u80cc\u540e\u7684\u52a0\u5bc6\u6295\u8d44\u516c\u53f8\uff0c\u8fd9\u4e2a\u57fa\u91d1\u4eca\u5e74\u4e0a\u6da8\u4e8666%\u3002Grayscale\u7ba1\u7406\u774010\u4ebf\u7f8e\u5143\u7684\u8d44\u4ea7\uff0c\u5e76\u63d0\u4f9b\u4e0e\u6bd4\u7279\u5e01\u73b0\u91d1\u3001\u83b1\u7279\u5e01\u3001\u4ee5\u592a\u574a\u548cZcash\u7b49\u5e01\u79cd\u76f8\u5173\u7684\u6295\u8d44\u5de5\u5177\u3002 Grayscale\u7684\u6bcd\u516c\u53f8\u662f\u5168\u7403\u6700\u5927\u7684\u52a0\u5bc6\u8d27\u5e01\u98ce\u6295\u516c\u53f8Digital\u2026",
+        "publishedAt": "2019-05-07T07:42:51.000Z",
+        "title": "\u5e01\u5708\u65b0\u98ce\u6f6eDropGold\uff1a\u4e0d\u8981\u9ec4\u91d1\u8981\u6bd4\u7279\u5e01\uff0c\u8fd9\u6837\u7684\u60f3\u6cd5\u5f88\u5e7c\u7a1a\uff1f_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cd13e471fe93a0011b93de2?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cd13e4d1fe93a0011b94919",
+        "hotness": 72093.24295248494,
+        "activityHotness": 0.10198026272961798,
+        "primaryCategory": "General",
+        "words": 8,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "\u77ed\u7ebf\u5feb\u901f\u62c9\u5347\u4f7f\u5f97ETH\u6210\u4e3a\u77ed\u7ebf\u7126\u70b9\u5e01\u79cd\uff0c\u800c\u5206\u6790\u5e08\u7eb7\u7eb7\u8868\u793a\uff0c\u77ed\u7ebf\u4e0a\u6da8\u7684\u52a8\u529b\u4ecd\u6709\u4f59\u91cf\u5c1a\u672a\u5151\u73b0\u3002 CoinGape\u5206\u6790\u5e08\uff1aETH\u7a81\u7834\u5173\u952e\u963b\u529b \u5e95\u90e8\u652f\u6491\u4e0d\u7834\u52a0\u901f\u4e0a\u6da8\u53ef\u671f \u00a0 CoinGape\u5206\u6790\u5e08John Isige\u6700\u65b0\u5206\u6790\u6307\u51fa\uff0cETH\u5728\u672c\u6708\u521d\u7684\u4e00\u6ce2\u9707\u8361\u56de\u8c03\u5728\u6628\u65e5\u76d8\u4e2d\u544a\u4e00\u6bb5\u843d\uff0c\u884c\u60c5\u501f\u77ed\u7ebf\u4e00\u6ce2\u6025\u6da8\u5b8c\u6210\u4e86\u5bf9\u4e8e\u8fd1\u671f\u8d70\u6210\u7684\u4e0b\u964d\u8d8b\u52bf\u7ebf\u963b\u529b\u7684\u6709\u6548\u7a81\u7834\uff0c\u867d\u7136\u76ee\u524d\u77ed\u5468\u671f\u6280\u672f\u6307\u6807\u5b58\u5728\u8d85\u4e70\u56de\u8c03\u9884\u671f\uff0c\u4f46\u662f\u8003\u8651\u5230\u8d8b\u52bf\u7ebf\u9644\u8fd1\u8fd8\u5b58\u572815\u5206\u949f200\u5468\u671f\u5747\u7ebf\u652f\u6491\u7c98\u5408\uff0c\u56e0\u6b64\u53ea\u8981\u4ef7\u683c\u5b88\u7a33\u8be5\u652f\u6491\u533a\u57df\u4e0d\u7834\uff0c\u6700\u8fd1\u8fd9\u6ce2\u6025\u6da8\u5960\u5b9a\u7684\u5347\u52bf\u6682\u65f6\u96be\u4ee5\u9006\u8f6c\uff0c\u884c\u60c5\u8fdb\u4e00\u6b65\u4e0a\u6da8\u76ee\u6807\u53ef\u770b\u81f3180\u4ee5\u4e0a\uff0c\u5f3a\u963b\u529b\u770b200\u4e00\u7ebf\u3002 \u00a0\u2026",
+        "publishedAt": "2019-05-07T06:50:45.000Z",
+        "title": "ETH\u5927\u6da8\u5f15\u5e02\u573a\u70ed\u8bae\uff0c\u77ed\u7ebf\u6216\u8fd8\u670910%\u4e0a\u6da8\u6f5c\u529b_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cd13e4d1fe93a0011b94919?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5cd11adf1fe93a0011a29d57",
+        "hotness": 72093.06259213363,
+        "activityHotness": 0.1122217632724249,
+        "primaryCategory": "General",
+        "words": 31,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45e3f",
+                "name": "Po.et",
+                "slug": "poet",
+                "tradingSymbol": "POE"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "6\u670825\u65e5\u2014\u20146\u670826\u65e5\uff0cBitcoin 2019 \u5cf0\u4f1a\u5c06\u5728\u7f8e\u56fd\u65e7\u91d1\u5c71SVN\u6b63\u5f0f\u56de\u5f52\u3002\u4eca\u5e74\u7684\u5cf0\u4f1a\u5c06\u7531 BTC Inc \u4e3b\u529e\uff0cBitcoin Magazine\u3001LTB Network\u3001Distributed\u3001yBitcoin \u548c po.et \u8054\u529e\uff0c\u7ee7 Bitcoin 2013 \u548c Bitcoin 2014 \u5cf0\u4f1a\u540e\u6b63\u5f0f\u56de\u5f52\uff01\u5df4\u6bd4\u7279\u4f5c\u4e3aBitcoin 2019\u5408\u4f5c\u5a92\u4f53\u5c06\u5168\u7a0b\u652f\u6301\u672c\u6b21\u5cf0\u4f1a\uff0c\u8d5e\u52a9\u4e0e\u5408\u4f5c\u8054\u7cfb\uff1abusiness@8btc.com \u00a0 \u56fe\u7247\u6765\u6e90\uff1apixabay Bitcoin 2013 \u548c Bitcoin\u2026",
+        "publishedAt": "2019-05-07T05:42:08.000Z",
+        "title": "\u91cd\u71c3\u6bd4\u7279\u5e01\u793e\u533a\uff01\u65f6\u96945\u5e74\u6b63\u5f0f\u56de\u5f52\uff0cBitcoin 2019\u63a2\u7d22\u6bd4\u7279\u5e01\u4e0b\u4e00\u4e2a10\u5e74_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5cd11adf1fe93a0011a29d57?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    },
+    {
+        "_id": "5ccf9e686ff5e900110be3cf",
+        "hotness": 72088.54521940478,
+        "activityHotness": 0.11739533071234382,
+        "primaryCategory": "General",
+        "words": 22,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            }
+        ],
+        "description": "\u00a0 \u968f\u7740\u4e8b\u60c5\u6301\u7eed\u53d1\u5c55\uff0c\u4e00\u5bb6\u540d\u4e3aCrypto Capital\u7684\u5df4\u62ff\u9a6c\u516c\u53f8\u6d6e\u51fa\u6c34\u9762\uff0c\u6709\u62a5\u9053\u76f4\u6307\u8fd9\u624d\u662f\u5e01\u5708\u7684\u201c\u9ed1\u5929\u9e45\u201d\uff0c\u4e0d\u6b62Bitfinex\u88ab\u51bb\u7ed3\u76848.5\u4ebf\u7f8e\u5143\u8ddf\u4ed6\u6709\u5173\uff0c\u4e4b\u524d\u52a0\u62ff\u5927\u52a0\u5bc6\u8d27\u5e01\u4ea4\u6613\u6240QuadrigaCX\u635f\u5931\u4e861.9\u4ebf\u7f8e\u5143\u4e5f\u8ddf\u4ed6\u6709\u5173\u3002 \u6ca1\u6709\u4f20\u7edf\u94f6\u884c\u652f\u6301\uff0cBitfinex\u5c31\u65e0\u6cd5\u652f\u6301\u5ba2\u6237\u63d0\u6b3e\u670d\u52a1\uff0c\u4f46\u7531\u4e8e\u76d1\u7ba1\u7684\u963b\u788d\uff0cBitfinex\u548cTether\u5148\u540e\u4e0e\u53f0\u6e7e\u5bcc\u56fd\u94f6\u884c\u3001\u6ce2\u591a\u9ece\u5404Noble Bank\u548c\u5df4\u54c8\u9a6c\u94f6\u884cDeltec\u7684\u5408\u4f5c\u90fd\u4e0d\u987a\u5229\uff0c\u4e8e\u662f\u6709\u4e00\u6bb5\u65f6\u95f4\uff0cBitfinex\u66fe\u4f7f\u7528\u8fc7\u201c\u94f6\u884c\u670d\u52a1\u63d0\u4f9b\u5546\u201dCrypto Capital\u7684\u670d\u52a1\u3002 Crypto\u2026",
+        "publishedAt": "2019-05-06T02:34:01.000Z",
+        "title": "\u6f2b\u8c08 | \u7a33\u5b9a\u5e01\u5370\u949e\u6545\u4e8b_\u5df4\u6bd4\u7279_\u670d\u52a1\u4e8e\u533a\u5757\u94fe\u521b\u65b0\u8005",
+        "url": "https://cryptocontrol.io/r/api/article/5ccf9e686ff5e900110be3cf?ref=5ea0fa08eb533c0019517c26",
+        "source": {
+            "_id": "5b8926dc0c38a700197296a3",
+            "name": "8BTC",
+            "url": "https://www.8btc.com/"
+        },
+        "sourceDomain": "8btc.com",
+        "originalImageUrl": null
+    }
+]
