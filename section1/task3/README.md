@@ -178,3 +178,9 @@ Played with Crypto Control API. Saved all data in json format.
 Finished Task 3 without optional task -- unittesting
 
 I will learn unit testing on 4/23
+
+#### 4/23
+
+Learned unit testing
+
+Read this page: [Blockchain Super FAQ](https://consensys.net/knowledge-base/blockchain-super-faq/)
